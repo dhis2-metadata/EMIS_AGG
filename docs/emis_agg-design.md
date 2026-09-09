@@ -93,7 +93,7 @@ The Toolkit Contains Seven Datasets
 | EMIS Toolkit - Household Survey| Annual / Survey Cycle | District |
 | EMIS Toolkit - National Expenditure** | Annual | National |
 
-The **population data element** is included in the datasets 1-5. It can be integrated within the population dataset to contain yearly population estimates on the district levels.
+The **population data element** is included in the dataset packages 1-5. It can be integrated within the population dataset to contain yearly population estimates on the district levels.
 
 **Dataset Relationships**
 
