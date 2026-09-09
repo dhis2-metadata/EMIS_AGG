@@ -1,0 +1,1520 @@
+{
+    "attributes": [],
+    "categories": [
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GLevLNI9wkl",
+            "name": "default",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Défaut"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "w2UJ73lQgr9"
+                },
+                {
+                    "id": "LKF76HnbrC8"
+                },
+                {
+                    "id": "sKCSy78NkHT"
+                },
+                {
+                    "id": "x8wdySNfOAd"
+                },
+                {
+                    "id": "mKQuOmM4hrA"
+                }
+            ],
+            "code": "EDUCATION_LEVEL",
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "arPnhqMbA2j",
+            "name": "Education level (Expenditure)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Education Level (Expenditure)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau d'études (Dépenses)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "p9RIKwHi6OH"
+                },
+                {
+                    "id": "O7n6F0FBb2h"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Expenditure on educational services",
+            "id": "KpxptawM4Hs",
+            "name": "Expenditure on educational services",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Expenditure on educational services",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Dépenses en services d'éducation"
+                }
+            ]
+        }
+    ],
+    "categoryCombos": [
+        {
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "code": "default",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "bjDvmb4bfuf",
+            "name": "default",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "skipTotal": false,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Par défaut"
+                }
+            ]
+        },
+        {
+            "categories": [
+                {
+                    "id": "arPnhqMbA2j"
+                }
+            ],
+            "code": "EDUCATION_LEVEL",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "K4UfcODFVjL",
+            "name": "Education level",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "skipTotal": false,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau d'éducation"
+                }
+            ]
+        },
+        {
+            "categories": [
+                {
+                    "id": "KpxptawM4Hs"
+                }
+            ],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "KJTV9RYPo7c",
+            "name": "Expenditure on educational services",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "skipTotal": false,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Dépenses en services éducatifs"
+                }
+            ]
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "KJTV9RYPo7c"
+            },
+            "categoryOptions": [
+                {
+                    "id": "O7n6F0FBb2h"
+                }
+            ],
+            "id": "lwTJmaKiVwL",
+            "ignoreApproval": false,
+            "name": "Educational core services",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "categoryOptions": [
+                {
+                    "id": "sKCSy78NkHT"
+                }
+            ],
+            "id": "nLgPuANLaBF",
+            "ignoreApproval": false,
+            "name": "Lower secondary",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "categoryOptions": [
+                {
+                    "id": "w2UJ73lQgr9"
+                }
+            ],
+            "id": "CjlmdIqjzAp",
+            "ignoreApproval": false,
+            "name": "Preprimary",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "categoryOptions": [
+                {
+                    "id": "LKF76HnbrC8"
+                }
+            ],
+            "id": "Uxpi8Zmc86S",
+            "ignoreApproval": false,
+            "name": "Primary",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "KJTV9RYPo7c"
+            },
+            "categoryOptions": [
+                {
+                    "id": "p9RIKwHi6OH"
+                }
+            ],
+            "id": "cfFMfzIJvxY",
+            "ignoreApproval": false,
+            "name": "Services other than instruction",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "categoryOptions": [
+                {
+                    "id": "mKQuOmM4hrA"
+                }
+            ],
+            "id": "OsH85NuWzAK",
+            "ignoreApproval": false,
+            "name": "Tertiary",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "categoryOptions": [
+                {
+                    "id": "x8wdySNfOAd"
+                }
+            ],
+            "id": "OUaU6ASCIxF",
+            "ignoreApproval": false,
+            "name": "Upper secondary",
+            "translations": []
+        }
+    ],
+    "categoryOptionGroupSets": [],
+    "categoryOptionGroups": [],
+    "categoryOptions": [
+        {
+            "attributeValues": [],
+            "code": "default",
+            "id": "xYerKDKCefk",
+            "name": "default",
+            "organisationUnits": [],
+            "sharing": {
+                "public": "r-rw----",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "description": "Educational core services",
+            "formName": "Educational core services",
+            "id": "O7n6F0FBb2h",
+            "name": "Educational core services",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Educational core services",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "LOWER_SECONDARY",
+            "id": "sKCSy78NkHT",
+            "name": "Lower secondary",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Lower secondary",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "collège"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "PREPRIMARY",
+            "id": "w2UJ73lQgr9",
+            "name": "Preprimary",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Preprimary",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Préprimaire"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "PRIMARY",
+            "id": "LKF76HnbrC8",
+            "name": "Primary",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Primary",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Primaire"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "description": "Services other than instruction",
+            "formName": "Services other than instruction",
+            "id": "p9RIKwHi6OH",
+            "name": "Services other than instruction",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Services other than instruction",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TERTIARY",
+            "id": "mKQuOmM4hrA",
+            "name": "Tertiary",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Tertiary",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Tertiaire"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "UPPER_SECONDARY",
+            "id": "x8wdySNfOAd",
+            "name": "Upper secondary",
+            "organisationUnits": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-rw----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Upper secondary",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Lycée"
+                }
+            ]
+        }
+    ],
+    "constants": [],
+    "dashboards": [],
+    "dataElementGroups": [
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_EXP",
+            "dataElements": [
+                {
+                    "id": "fbTVN7PtxHt"
+                },
+                {
+                    "id": "ocq6heBkfn1"
+                },
+                {
+                    "id": "gMFCY3rmMuz"
+                },
+                {
+                    "id": "gbMxMTai4CF"
+                }
+            ],
+            "description": "All 4 data elements of the EMIS Toolkit - National expenditure data set (EMIS_AGG_EXP): total public expenditure on education, total public expenditure, gross national income, and public expenditure on educational services.",
+            "id": "qzEEdk5T7uf",
+            "name": "EMIS - National expenditure data elements",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "EMIS - National expenditure data elements",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Éléments de données des dépenses nationales"
+                }
+            ]
+        }
+    ],
+    "dataElements": [
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "EMIS_NAT_GNI",
+            "domainType": "AGGREGATE",
+            "formName": "Gross national income of the country",
+            "id": "ocq6heBkfn1",
+            "legendSets": [],
+            "name": "EMIS - Gross national income of the country",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Gross national income of the country (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Revenu national brut du pays"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Revenu national brut du pays"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Revenu national brut du pays (EMIS)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "KJTV9RYPo7c"
+            },
+            "code": "EMIS_NAT_EXPENDITURE_SERVICES",
+            "description": "Public expenditure on educational services",
+            "domainType": "AGGREGATE",
+            "formName": "Public expenditure on educational services",
+            "id": "fbTVN7PtxHt",
+            "legendSets": [],
+            "name": "EMIS - Public expenditure on educational services",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Public expenditure on educational services (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Dépenses publiques pour les services éducatifs"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Dépenses publiques pour les services éducatifs"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Dépenses publiques pour les services éducatifs"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "EMIS_NAT_EXPENDITURE_TOTAL",
+            "domainType": "AGGREGATE",
+            "formName": "Total public expenditure",
+            "id": "gbMxMTai4CF",
+            "legendSets": [],
+            "name": "EMIS - Total public expenditure",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Total public expenditure (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Dépenses publiques totales"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Dépenses publiques totales"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Dépenses publiques totales (EMIS)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "K4UfcODFVjL"
+            },
+            "code": "EMIS_NAT_EXPENDITURE_EDUCATION",
+            "domainType": "AGGREGATE",
+            "formName": "Total public expenditure on education",
+            "id": "gMFCY3rmMuz",
+            "legendSets": [],
+            "name": "EMIS - Total public expenditure on education",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Total public expenditure on education (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Dépenses publiques totales en éducation (EMIS)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Dépenses publiques totales en éducation"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Dépenses publiques totales en éducation"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        }
+    ],
+    "dataEntryForms": [],
+    "dataSets": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "EMIS_AGG_EXP",
+            "compulsoryDataElementOperands": [],
+            "compulsoryFieldsCompleteOnly": false,
+            "dataElementDecoration": false,
+            "dataInputPeriods": [],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "fbTVN7PtxHt"
+                    },
+                    "dataSet": {
+                        "id": "oihtCgOqgEi"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gbMxMTai4CF"
+                    },
+                    "dataSet": {
+                        "id": "oihtCgOqgEi"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ocq6heBkfn1"
+                    },
+                    "dataSet": {
+                        "id": "oihtCgOqgEi"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gMFCY3rmMuz"
+                    },
+                    "dataSet": {
+                        "id": "oihtCgOqgEi"
+                    }
+                }
+            ],
+            "expiryDays": 0,
+            "fieldCombinationRequired": false,
+            "id": "oihtCgOqgEi",
+            "indicators": [],
+            "legendSets": [],
+            "mobile": false,
+            "name": "EMIS Toolkit - National expenditure",
+            "noValueRequiresComment": false,
+            "notifyCompletingUser": false,
+            "openFuturePeriods": 1,
+            "openPeriodsAfterCoEndDate": 0,
+            "periodType": "Yearly",
+            "renderAsTabs": false,
+            "renderHorizontally": false,
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-r-----",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-rw----",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-r-----",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "EMIS Toolkit - National expenditure",
+            "skipOffline": false,
+            "timelyDays": 0.0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Boîte à outils du SIGE - Dépenses nationales"
+                }
+            ],
+            "validCompleteOnly": false,
+            "version": 10
+        }
+    ],
+    "documents": [],
+    "eventVisualizations": [],
+    "indicatorGroupSets": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_EXP",
+            "description": "All 7 indicators built on the National expenditure data set (oihtCgOqgEi): the five per-level shares of public current education expenditure (ECD, PRI, LSec, USec, TERT) and the two national ratios (education expenditure as % of GNI and as % of total government expenditure).",
+            "id": "culmuhzfpJB",
+            "indicators": [
+                {
+                    "id": "HNL58ZNbeaN"
+                },
+                {
+                    "id": "bg1NTeeVZo5"
+                },
+                {
+                    "id": "n2GpK3wnrg9"
+                },
+                {
+                    "id": "xfpbwUxxlR1"
+                },
+                {
+                    "id": "lEIwfzHNaTg"
+                },
+                {
+                    "id": "Fc5cWbofwi6"
+                },
+                {
+                    "id": "TrkXtVneDRg"
+                }
+            ],
+            "name": "EMIS - National expenditure indicators",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Indicateurs des dépenses nationales"
+                }
+            ]
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "factor": 100,
+            "id": "MCUGRIAc5sa",
+            "name": "Percentage",
+            "number": false,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_NAT_PCT_CURRENT_EXPENDITURE_ECD",
+            "denominator": "#{gMFCY3rmMuz}",
+            "denominatorDescription": "Total public expenditure on education",
+            "id": "HNL58ZNbeaN",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Percentage distribution of public current expenditure on education - ECD",
+            "numerator": "#{gMFCY3rmMuz.CjlmdIqjzAp}",
+            "numeratorDescription": "Public current expenditure devoted to ECD",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% current education expenditure (ECD)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% dépenses courantes d’éducation (ECD)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Répartition en pourcentage des dépenses publiques courantes d’éducation - maternelle"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_NAT_PCT_CURRENT_EXPENDITURE_LSEC",
+            "denominator": "#{gMFCY3rmMuz}",
+            "denominatorDescription": "public expenditure on education",
+            "id": "Fc5cWbofwi6",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Percentage distribution of public current expenditure on education - lower secondary",
+            "numerator": "#{gMFCY3rmMuz.nLgPuANLaBF}",
+            "numeratorDescription": "Public current expenditure devoted to LSec",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% current education expenditure (LSEC)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% dépenses courantes d’éducation (LSEC)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Répartition en pourcentage des dépenses publiques courantes d’éducation - collège"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_NAT_PCT_CURRENT_EXPENDITURE_PRI",
+            "denominator": "#{gMFCY3rmMuz}",
+            "denominatorDescription": "public expenditure on education",
+            "id": "xfpbwUxxlR1",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Percentage distribution of public current expenditure on education - primary",
+            "numerator": "#{gMFCY3rmMuz.Uxpi8Zmc86S}",
+            "numeratorDescription": "Public current expenditure devoted to PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% current education expenditure (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Répartition en pourcentage des dépenses publiques courantes d’éducation - primaire"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% dépenses courantes d’éducation (PRI)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_NAT_PCT_CURRENT_EXPENDITURE_TERT",
+            "denominator": "#{gMFCY3rmMuz}",
+            "denominatorDescription": "public expenditure on education",
+            "id": "TrkXtVneDRg",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Percentage distribution of public current expenditure on education - tertiary",
+            "numerator": "#{gMFCY3rmMuz.OsH85NuWzAK}",
+            "numeratorDescription": "Public current expenditure devoted to TERT",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% current education expenditure (TERT)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Répartition en pourcentage des dépenses publiques courantes d’éducation - tertiaire"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% dépenses courantes d’éducation (TERT)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_NAT_PCT_CURRENT_EXPENDITURE_USEC",
+            "denominator": "#{gMFCY3rmMuz}",
+            "denominatorDescription": "public expenditure on education",
+            "id": "n2GpK3wnrg9",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Percentage distribution of public current expenditure on education - upper secondary",
+            "numerator": "#{gMFCY3rmMuz.OUaU6ASCIxF}",
+            "numeratorDescription": "Public current expenditure devoted to USec",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% current education expenditure (USEC)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Répartition en pourcentage des dépenses publiques courantes d’éducation - lycée"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% dépenses courantes d’éducation (USEC)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_EXP_PCT_GNI",
+            "denominator": "#{ocq6heBkfn1}",
+            "denominatorDescription": "Gross national income",
+            "id": "bg1NTeeVZo5",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Public expenditure on education as a percentage of gross national income",
+            "numerator": "#{gMFCY3rmMuz}",
+            "numeratorDescription": "Total public expenditure on education",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Education as % of gross national income",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Dépenses publiques d’éducation en pourcentage du revenu national brut"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Éducation en % du revenu national brut"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_EXP_PCT_GOV_EXPENDITURE",
+            "denominator": "#{gbMxMTai4CF}",
+            "denominatorDescription": "Total government expenditure",
+            "id": "lEIwfzHNaTg",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Public expenditure on education as a percentage of total government expenditure",
+            "numerator": "#{gMFCY3rmMuz}",
+            "numeratorDescription": "Total public expenditure on education",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Education as % of government expenditure",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Éducation en % des dépenses publiques"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Dépenses publiques d’éducation en pourcentage des dépenses publiques totales"
+                }
+            ]
+        }
+    ],
+    "jobConfigurations": [],
+    "legendSets": [],
+    "maps": [],
+    "optionGroups": [],
+    "optionSets": [],
+    "options": [],
+    "organisationUnitGroupSets": [],
+    "organisationUnitGroups": [],
+    "package": {
+        "DHIS2Build": "7a50918",
+        "DHIS2Version": "2.41.9.1",
+        "code": "EMIS_AGG_EXP",
+        "description": "EMIS National Expenditure",
+        "healthAreaCode": "EMIS",
+        "healthAreaName": "EMIS",
+        "lastUpdated": "20260909T124455",
+        "locale": "en",
+        "name": "EMIS_AGG_EXP_AGG_DHIS2.41.9.1-en",
+        "type": "AGG",
+        "version": ""
+    },
+    "predictorGroups": [],
+    "predictors": [],
+    "reports": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "ocq6heBkfn1"
+                },
+                {
+                    "id": "gMFCY3rmMuz"
+                },
+                {
+                    "id": "gbMxMTai4CF"
+                },
+                {
+                    "id": "fbTVN7PtxHt"
+                }
+            ],
+            "dataSet": {
+                "id": "oihtCgOqgEi"
+            },
+            "disableDataElementAutoGroup": false,
+            "displayOptions": "{}",
+            "greyedFields": [],
+            "id": "iWwFddpYHHV",
+            "indicators": [],
+            "name": "National Expenditure",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Dépenses nationales"
+                }
+            ]
+        }
+    ],
+    "sqlViews": [],
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_ACCESS",
+            "id": "cOrXCFNhlfE",
+            "managedGroups": [],
+            "name": "EMIS Access",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_ADMIN",
+            "id": "R7CJhO9I3AI",
+            "managedGroups": [],
+            "name": "EMIS Admin",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_DATA_CAPTURE",
+            "id": "KjfbQbjGMGc",
+            "managedGroups": [],
+            "name": "EMIS Data Capture",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
+    "userRoles": [],
+    "users": [],
+    "validationNotificationTemplates": [],
+    "validationRuleGroups": [],
+    "validationRules": [],
+    "visualizations": []
+}
