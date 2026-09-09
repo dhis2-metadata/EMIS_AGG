@@ -9,7 +9,7 @@ The toolkit is implemented using the DHIS2 aggregate data model and provides a h
 The toolkit combines:
 
 1. Annual School Census (ASC) data.
-2. District population data.
+2. District population datasets.
 3. Education survey datasets.
 4. National education expenditure datasets.
 
