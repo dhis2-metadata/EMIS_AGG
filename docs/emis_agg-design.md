@@ -81,7 +81,7 @@ Core design principles
 
 ## 6. Toolkit Structure
 
-The Toolkit Contains Eight Datasets
+The Toolkit Contains Seven Datasets
 
 | Dataset | Frequency | Reporting Level |
 |---|---|---|
@@ -90,9 +90,10 @@ The Toolkit Contains Eight Datasets
 | EMIS Toolkit - Lower Secondary | Annual | School |
 | EMIS Toolkit - Upper Secondary Annual | Annual | School |
 | EMIS Toolkit - Tertiary | Annual | Institution |
-| Population Dataset | Annual | District |
 | EMIS Toolkit - Household Survey| Annual / Survey Cycle | District |
-|EMIS Toolkit - National Expenditure** | Annual | National |
+| EMIS Toolkit - National Expenditure** | Annual | National |
+
+The **population data element** is included in the datasets 1-5. It can be integrated within the population dataset to contain yearly population estimates on the district levels.
 
 **Dataset Relationships**
 
