@@ -4265,39 +4265,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "oEzFbzbBY4g"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Xc413KsQcg2"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tncFe81TEVa"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JiOrvIzcKra"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TA6WpmiL7Vu"
+                        "id": "IYQetudMISW"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4313,7 +4281,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "G2QAqxIcmP0"
+                        "id": "m0STyv1Yjta"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4321,15 +4289,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "IYQetudMISW"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pQqfpoD1VqW"
+                        "id": "JiOrvIzcKra"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4345,7 +4305,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "m0STyv1Yjta"
+                        "id": "Xc413KsQcg2"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oEzFbzbBY4g"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TA6WpmiL7Vu"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pQqfpoD1VqW"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4354,6 +4338,22 @@
                 {
                     "dataElement": {
                         "id": "M7BwVols2es"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tncFe81TEVa"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "G2QAqxIcmP0"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4404,7 +4404,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 32
+            "version": 33
         }
     ],
     "documents": [],
@@ -5377,15 +5377,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "7a50918",
-        "DHIS2Version": "2.41.9.1",
+        "DHIS2Build": "1a3484f",
+        "DHIS2Version": "2.41.10",
         "code": "EMIS_AGG_SURV",
         "description": "EMIS Household Survey",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260909T124455",
+        "lastUpdated": "20260910T093037",
         "locale": "en",
-        "name": "EMIS_AGG_SURV_AGG_DHIS2.41.9.1-en",
+        "name": "EMIS_AGG_SURV_AGG_DHIS2.41.10-en",
         "type": "AGG",
         "version": ""
     },
@@ -5397,13 +5397,13 @@
             "attributeValues": [],
             "dataElements": [
                 {
-                    "id": "Xc413KsQcg2"
+                    "id": "TA6WpmiL7Vu"
                 },
                 {
                     "id": "tncFe81TEVa"
                 },
                 {
-                    "id": "TA6WpmiL7Vu"
+                    "id": "Xc413KsQcg2"
                 }
             ],
             "dataSet": {
@@ -5417,14 +5417,8 @@
             "name": "Bullying / Attacks",
             "showColumnTotals": false,
             "showRowTotals": false,
-            "sortOrder": 4,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Intimidation / Attaques"
-                }
-            ]
+            "sortOrder": 5,
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -5444,14 +5438,8 @@
             "name": "Educational attainment",
             "showColumnTotals": false,
             "showRowTotals": false,
-            "sortOrder": 2,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Niveau d'instruction"
-                }
-            ]
+            "sortOrder": 3,
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -5467,21 +5455,15 @@
                 "id": "eZssybGtFa1"
             },
             "disableDataElementAutoGroup": false,
-            "displayOptions": "{\"afterSectionText\": \"\", \"beforeSectionText\": \"\"}",
+            "displayOptions": "{}",
             "greyedFields": [],
             "id": "ifcByunuain",
             "indicators": [],
-            "name": "Enrolment in formal / non formal education",
+            "name": "Enrolment in formal / non-formal education",
             "showColumnTotals": false,
             "showRowTotals": false,
-            "sortOrder": 5,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Inscription à l'éducation formelle / non formelle"
-                }
-            ]
+            "sortOrder": 1,
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -5501,14 +5483,8 @@
             "name": "ICT skills",
             "showColumnTotals": false,
             "showRowTotals": false,
-            "sortOrder": 3,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Compétences en TIC"
-                }
-            ]
+            "sortOrder": 4,
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -5540,14 +5516,8 @@
             "name": "Proficiency",
             "showColumnTotals": false,
             "showRowTotals": false,
-            "sortOrder": 1,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Compétence"
-                }
-            ]
+            "sortOrder": 2,
+            "translations": []
         }
     ],
     "sqlViews": [],
