@@ -4564,10 +4564,10 @@
                     "id": "ynJYpoaorSz"
                 },
                 {
-                    "id": "sKYeKKydndx"
+                    "id": "Ww4f8hqV0UA"
                 },
                 {
-                    "id": "Ww4f8hqV0UA"
+                    "id": "sKYeKKydndx"
                 }
             ],
             "id": "nUMq0W4vKiJ",
@@ -4603,10 +4603,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "sKYeKKydndx"
+                    "id": "Ww4f8hqV0UA"
                 },
                 {
-                    "id": "Ww4f8hqV0UA"
+                    "id": "sKYeKKydndx"
                 },
                 {
                     "id": "vpmsp7XY31l"
@@ -6832,10 +6832,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "ynJYpoaorSz"
+                    "id": "WyMP1ZyeWho"
                 },
                 {
-                    "id": "WyMP1ZyeWho"
+                    "id": "ynJYpoaorSz"
                 },
                 {
                     "id": "MhJfImsjR9r"
@@ -7168,10 +7168,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "ynJYpoaorSz"
+                    "id": "WyMP1ZyeWho"
                 },
                 {
-                    "id": "WyMP1ZyeWho"
+                    "id": "ynJYpoaorSz"
                 },
                 {
                     "id": "HitjwcPPMpP"
@@ -7423,10 +7423,10 @@
                     "id": "ynJYpoaorSz"
                 },
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "rVkKLyBqLVB"
                 },
                 {
-                    "id": "rVkKLyBqLVB"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "ZuABEFnAVJy",
@@ -7441,10 +7441,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "rVkKLyBqLVB"
                 },
                 {
-                    "id": "rVkKLyBqLVB"
+                    "id": "TMvYMcamflE"
                 },
                 {
                     "id": "vpmsp7XY31l"
@@ -7546,10 +7546,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "ynJYpoaorSz"
+                    "id": "WyMP1ZyeWho"
                 },
                 {
-                    "id": "WyMP1ZyeWho"
+                    "id": "ynJYpoaorSz"
                 },
                 {
                     "id": "TMvYMcamflE"
@@ -8791,10 +8791,10 @@
                     "id": "ynJYpoaorSz"
                 },
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "tbhrcGWzVeU"
                 },
                 {
-                    "id": "tbhrcGWzVeU"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "fOj4Y0IlAlh",
@@ -8809,10 +8809,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "tbhrcGWzVeU"
                 },
                 {
-                    "id": "tbhrcGWzVeU"
+                    "id": "TMvYMcamflE"
                 },
                 {
                     "id": "vpmsp7XY31l"
@@ -9118,10 +9118,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "ynJYpoaorSz"
+                    "id": "WyMP1ZyeWho"
                 },
                 {
-                    "id": "WyMP1ZyeWho"
+                    "id": "ynJYpoaorSz"
                 },
                 {
                     "id": "DusJpbNnyvt"
@@ -13060,7 +13060,13 @@
                 "users": {}
             },
             "shortName": "A lot of difficulty",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Beaucoup de difficulté"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13088,7 +13094,13 @@
                 "users": {}
             },
             "shortName": "Cannot do at all",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Incapable de le faire"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13202,7 +13214,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Matière 1"
+                    "value": "Anglais"
                 }
             ]
         },
@@ -13233,7 +13245,13 @@
                 "users": {}
             },
             "shortName": "Enrolment by nationality (Citizen)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Scolarisation par nationalité (national)"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13262,7 +13280,13 @@
                 "users": {}
             },
             "shortName": "Enrolment by nationality (Non Refugee foreigner)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Scolarisation par nationalité (étranger non réfugié)"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13291,7 +13315,13 @@
                 "users": {}
             },
             "shortName": "Enrolment by nationality (refugee)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Scolarisation par nationalité (réfugié)"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13319,7 +13349,13 @@
                 "users": {}
             },
             "shortName": "Fair (Needs repair)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Passable (à réparer)"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13351,7 +13387,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Feminin"
+                    "value": "Féminin"
                 }
             ]
         },
@@ -13381,7 +13417,13 @@
                 "users": {}
             },
             "shortName": "Good",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Bon"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13447,7 +13489,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Matière 4"
+                    "value": "Histoire"
                 }
             ]
         },
@@ -13515,7 +13557,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CP1"
+                    "value": "Niveau 1"
                 }
             ]
         },
@@ -13549,7 +13591,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CP2"
+                    "value": "Niveau 2"
                 }
             ]
         },
@@ -13583,7 +13625,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CE1"
+                    "value": "Niveau 3"
                 }
             ]
         },
@@ -13617,7 +13659,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CE2"
+                    "value": "Niveau 4"
                 }
             ]
         },
@@ -13651,7 +13693,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CM1"
+                    "value": "Niveau 5"
                 }
             ]
         },
@@ -13685,7 +13727,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "CM2"
+                    "value": "Niveau 6"
                 }
             ]
         },
@@ -13719,7 +13761,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "6eme"
+                    "value": "Niveau 7"
                 }
             ]
         },
@@ -13821,7 +13863,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Matière 2"
+                    "value": "Mathématiques"
                 }
             ]
         },
@@ -13885,7 +13927,13 @@
                 "users": {}
             },
             "shortName": "No difficulty",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Aucune difficulté"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13947,7 +13995,13 @@
                 "users": {}
             },
             "shortName": "Permanent",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Permanent"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -13975,7 +14029,13 @@
                 "users": {}
             },
             "shortName": "Poor (Non-repairable)",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Mauvais (irréparable)"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -14041,7 +14101,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Matière 3"
+                    "value": "Sciences"
                 }
             ]
         },
@@ -14075,7 +14135,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Partie supérieure du corps"
+                    "value": "Soins personnels"
                 }
             ]
         },
@@ -14105,7 +14165,13 @@
                 "users": {}
             },
             "shortName": "Some difficulty",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Quelque difficulté"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -14137,7 +14203,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spéciaux"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -14167,7 +14233,13 @@
                 "users": {}
             },
             "shortName": "Temporary",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Temporaire"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -14206,7 +14278,173 @@
     ],
     "constants": [],
     "dashboards": [],
-    "dataElementGroups": [],
+    "dataElementGroups": [
+        {
+            "attributeValues": [],
+            "code": "EMIS_AGG_PRI_TOOL",
+            "dataElements": [
+                {
+                    "id": "jsIM64TwSUm"
+                },
+                {
+                    "id": "Bo2Yheh4lGl"
+                },
+                {
+                    "id": "Pb97gs6xIlm"
+                },
+                {
+                    "id": "ZGcntaEgM3Y"
+                },
+                {
+                    "id": "nEVfdbTkSTy"
+                },
+                {
+                    "id": "Zy2bdINTA6W"
+                },
+                {
+                    "id": "v02n6FHpyKe"
+                },
+                {
+                    "id": "M9Gifisi0Ur"
+                },
+                {
+                    "id": "RJi5MW86kCs"
+                },
+                {
+                    "id": "SQlUksosv0p"
+                },
+                {
+                    "id": "LGhYlJG3iKR"
+                },
+                {
+                    "id": "frfEgziQhoT"
+                },
+                {
+                    "id": "L1oRLuJzDXN"
+                },
+                {
+                    "id": "WxJPCBD8obF"
+                },
+                {
+                    "id": "ubGe58sPoXN"
+                },
+                {
+                    "id": "uIOr3Fw1ikM"
+                },
+                {
+                    "id": "UZwS9SmzGtG"
+                },
+                {
+                    "id": "m5SWa8mHISs"
+                },
+                {
+                    "id": "JPbjV0Mjxvw"
+                },
+                {
+                    "id": "aSXfIO4Ppi4"
+                },
+                {
+                    "id": "Cm2qphUpUuS"
+                },
+                {
+                    "id": "Xq3am9DbPPF"
+                },
+                {
+                    "id": "Bk2AEbNefDD"
+                },
+                {
+                    "id": "kz398WVBDCw"
+                },
+                {
+                    "id": "gAncEUIftwu"
+                },
+                {
+                    "id": "b0YUzqNJf5v"
+                },
+                {
+                    "id": "EceDxuePkVN"
+                },
+                {
+                    "id": "ue3QIMOAC7G"
+                },
+                {
+                    "id": "KJrMNhHKpFj"
+                },
+                {
+                    "id": "KIvawJZGonK"
+                },
+                {
+                    "id": "rZsnwLbpZGf"
+                },
+                {
+                    "id": "L2oPCXhJqUd"
+                },
+                {
+                    "id": "Mhxra2f0fhr"
+                },
+                {
+                    "id": "R6zkoFtcs1x"
+                },
+                {
+                    "id": "iYaJT96ZZ3T"
+                },
+                {
+                    "id": "FaAsIdQC3GM"
+                },
+                {
+                    "id": "j7Gxl9Mtgr5"
+                },
+                {
+                    "id": "oSfcBfzVxfc"
+                },
+                {
+                    "id": "hTK3svZ5KHv"
+                },
+                {
+                    "id": "YbYRAEz6JWR"
+                },
+                {
+                    "id": "UxaMoIg2SIr"
+                },
+                {
+                    "id": "kN4ePtUhIL9"
+                },
+                {
+                    "id": "n0wlUuIV7ff"
+                }
+            ],
+            "description": "All 42 data elements of the EMIS Toolkit - Primary Tool data set (x0V4c4DxJHE, code EMIS_AGG_PRI_TOOL), plus EMIS - Population Estimates (R6zkoFtcs1x), used by the Primary enrolment-ratio and out-of-school indicators.",
+            "id": "aDzuCfXTC7g",
+            "name": "EMIS - Primary Tool data elements",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "EMIS - Primary Tool data elements",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Éléments de données de l'outil Primaire"
+                }
+            ]
+        }
+    ],
     "dataElements": [
         {
             "aggregationLevels": [],
@@ -15133,112 +15371,6 @@
             "aggregationType": "SUM",
             "attributeValues": [],
             "categoryCombo": {
-                "id": "d0zjF21zEjs"
-            },
-            "code": "EMIS_ECD_LEARNERS",
-            "domainType": "AGGREGATE",
-            "formName": "Learners in the reporting year",
-            "id": "AI9wNlHDBMm",
-            "legendSets": [],
-            "name": "EMIS - Learners in the reporting year (ECD)",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learners in reporting year (ECD)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Apprenants, année de rapport (Maternelle)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "FORM_NAME",
-                    "value": "Apprenants durant l’année de rapport"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Apprenants durant l’année de rapport (Maternelle)"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "t7lwlJGkvyq"
-            },
-            "code": "EMIS_LSEC_LEARNERS",
-            "domainType": "AGGREGATE",
-            "formName": "Learners in the reporting year",
-            "id": "FwBwE2Gw30d",
-            "legendSets": [],
-            "name": "EMIS - Learners in the reporting year (Lower Secondary)",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learners in reporting year (LSEC)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "FORM_NAME",
-                    "value": "Apprenants durant l’année de rapport"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Apprenants durant l’année de rapport (Collège)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Apprenants, année de rapport (Collège)"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "mXGVn6FhDXR"
             },
             "code": "EMIS_PRI_LEARNERS",
@@ -15335,112 +15467,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Apprenants en situation de handicap (ensemble court du Groupe de Washington)"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lmcZNFIGBO0"
-            },
-            "code": "EMIS_SURV_MPL_END_PRIMARY",
-            "domainType": "AGGREGATE",
-            "formName": "Minimum proficiency level (end of primary)",
-            "id": "JiOrvIzcKra",
-            "legendSets": [],
-            "name": "EMIS - Minimum proficiency level (end of primary)",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Min. proficiency (end of primary) (EMIS)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Compétence minimum (fin primaire) (EMIS)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "FORM_NAME",
-                    "value": "Niveau de compétence minimum (fin du primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Niveau de compétence minimum (fin du primaire)"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lmcZNFIGBO0"
-            },
-            "code": "EMIS_SURV_MPL_MID_PRIMARY",
-            "domainType": "AGGREGATE",
-            "formName": "Minimum proficiency level (mid-primary)",
-            "id": "m0STyv1Yjta",
-            "legendSets": [],
-            "name": "EMIS - Minimum proficiency level (mid-primary)",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Min. proficiency (mid-primary) (EMIS)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "FORM_NAME",
-                    "value": "Niveau de compétence minimum (milieu du primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Compétence minimum (mi-primaire) (EMIS)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Niveau de compétence minimum (milieu du primaire)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -16724,6 +16750,218 @@
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "d0zjF21zEjs"
+            },
+            "code": "EMIS_ECD_LEARNERS",
+            "domainType": "AGGREGATE",
+            "formName": "Learners in the reporting year",
+            "id": "AI9wNlHDBMm",
+            "legendSets": [],
+            "name": "EMIS - Learners in the reporting year (ECD)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Learners in reporting year (ECD)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Apprenants, année de rapport (Maternelle)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Apprenants durant l’année de rapport"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Apprenants durant l’année de rapport (Maternelle)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "t7lwlJGkvyq"
+            },
+            "code": "EMIS_LSEC_LEARNERS",
+            "domainType": "AGGREGATE",
+            "formName": "Learners in the reporting year",
+            "id": "FwBwE2Gw30d",
+            "legendSets": [],
+            "name": "EMIS - Learners in the reporting year (Lower Secondary)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Learners in reporting year (LSEC)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Apprenants durant l’année de rapport"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Apprenants durant l’année de rapport (Collège)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Apprenants, année de rapport (Collège)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lmcZNFIGBO0"
+            },
+            "code": "EMIS_SURV_MPL_END_PRIMARY",
+            "domainType": "AGGREGATE",
+            "formName": "Minimum proficiency level (end of primary)",
+            "id": "JiOrvIzcKra",
+            "legendSets": [],
+            "name": "EMIS - Minimum proficiency level (end of primary)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Min. proficiency (end of primary) (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Compétence minimum (fin primaire) (EMIS)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Niveau de compétence minimum (fin du primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Niveau de compétence minimum (fin du primaire)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lmcZNFIGBO0"
+            },
+            "code": "EMIS_SURV_MPL_MID_PRIMARY",
+            "domainType": "AGGREGATE",
+            "formName": "Minimum proficiency level (mid-primary)",
+            "id": "m0STyv1Yjta",
+            "legendSets": [],
+            "name": "EMIS - Minimum proficiency level (mid-primary)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Min. proficiency (mid-primary) (EMIS)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Niveau de compétence minimum (milieu du primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Compétence minimum (mi-primaire) (EMIS)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Niveau de compétence minimum (milieu du primaire)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
         }
     ],
     "dataEntryForms": [
@@ -16753,7 +16991,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "KIvawJZGonK"
+                        "id": "aSXfIO4Ppi4"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16761,7 +16999,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "b0YUzqNJf5v"
+                        "id": "iYaJT96ZZ3T"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16769,7 +17007,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "EceDxuePkVN"
+                        "id": "Zy2bdINTA6W"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16785,7 +17031,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "frfEgziQhoT"
+                        "id": "Bo2Yheh4lGl"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16793,7 +17039,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Bo2Yheh4lGl"
+                        "id": "Cm2qphUpUuS"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "v02n6FHpyKe"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16809,22 +17063,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UxaMoIg2SIr"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M9Gifisi0Ur"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "jsIM64TwSUm"
                     },
                     "dataSet": {
@@ -16833,15 +17071,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ue3QIMOAC7G"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Xq3am9DbPPF"
+                        "id": "EceDxuePkVN"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16857,23 +17087,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RJi5MW86kCs"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UZwS9SmzGtG"
+                        "id": "UxaMoIg2SIr"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16889,7 +17103,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "KJrMNhHKpFj"
+                        "id": "ubGe58sPoXN"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16897,7 +17111,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "j7Gxl9Mtgr5"
+                        "id": "gAncEUIftwu"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16905,7 +17119,31 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Mhxra2f0fhr"
+                        "id": "Xq3am9DbPPF"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WxJPCBD8obF"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KIvawJZGonK"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16929,7 +17167,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Cm2qphUpUuS"
+                        "id": "SQlUksosv0p"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16937,7 +17175,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "L2oPCXhJqUd"
+                        "id": "hTK3svZ5KHv"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16961,103 +17199,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "hTK3svZ5KHv"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WxJPCBD8obF"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aSXfIO4Ppi4"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kN4ePtUhIL9"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ubGe58sPoXN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "v02n6FHpyKe"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L1oRLuJzDXN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kz398WVBDCw"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m5SWa8mHISs"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SQlUksosv0p"
+                        "id": "KJrMNhHKpFj"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17073,7 +17215,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "gAncEUIftwu"
+                        "id": "Mhxra2f0fhr"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17081,7 +17223,103 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Zy2bdINTA6W"
+                        "id": "j7Gxl9Mtgr5"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LGhYlJG3iKR"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b0YUzqNJf5v"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kz398WVBDCw"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "frfEgziQhoT"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L2oPCXhJqUd"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ue3QIMOAC7G"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M9Gifisi0Ur"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UZwS9SmzGtG"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kN4ePtUhIL9"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L1oRLuJzDXN"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RJi5MW86kCs"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17235,7 +17473,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 87
+            "version": 88
         }
     ],
     "documents": [],
@@ -17447,10 +17685,10 @@
                     "id": "gGAZJ8xtPOr"
                 },
                 {
-                    "id": "qURrl8xXuT2"
+                    "id": "LjWwk84dH4a"
                 },
                 {
-                    "id": "LjWwk84dH4a"
+                    "id": "qURrl8xXuT2"
                 },
                 {
                     "id": "tmQMaksYsD5"
@@ -17465,13 +17703,13 @@
                     "id": "VyjxX8BJrSr"
                 },
                 {
-                    "id": "EfWEQE3AmVl"
-                },
-                {
                     "id": "Mx9HloJUbif"
                 },
                 {
                     "id": "DbHKrOSsSuq"
+                },
+                {
+                    "id": "EfWEQE3AmVl"
                 },
                 {
                     "id": "F6wiOdtz9BL"
@@ -17483,10 +17721,10 @@
                     "id": "acaIZKbRFtq"
                 },
                 {
-                    "id": "ue2MWIQ0K8P"
+                    "id": "SCBqYDGRWH9"
                 },
                 {
-                    "id": "SCBqYDGRWH9"
+                    "id": "ue2MWIQ0K8P"
                 },
                 {
                     "id": "eYwxazSf6cG"
@@ -21748,21 +21986,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FFA500",
-                    "endValue": 70.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "HtZiaMuVako",
-                    "name": "Average",
-                    "sharing": {
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 30.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#23590B",
                     "endValue": 30.0,
                     "favorite": false,
@@ -21789,6 +22012,21 @@
                         "users": {}
                     },
                     "startValue": 70.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "endValue": 70.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HtZiaMuVako",
+                    "name": "Average",
+                    "sharing": {
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 30.0,
                     "translations": []
                 }
             ],
@@ -21945,7 +22183,7 @@
         "description": "EMIS Primary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260910T070205",
+        "lastUpdated": "20260914T093519",
         "locale": "en",
         "name": "EMIS_AGG_PRI_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -21976,7 +22214,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 5,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Absentéisme"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -21999,7 +22243,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 12,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Livres et matériels pédagogiques"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22022,7 +22272,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 1,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Effectifs"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22075,7 +22331,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 8,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Installations"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22104,7 +22366,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 11,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Mobilier"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22127,7 +22395,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 6,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Diplômés"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22153,7 +22427,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 10,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TIC"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22176,7 +22456,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 3,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Nouveaux entrants"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22196,7 +22482,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 2,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Redoublants"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22219,7 +22511,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 4,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Besoins éducatifs spéciaux"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22251,7 +22549,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 7,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Enseignants"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22283,7 +22587,13 @@
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 9,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EAH et services essentiels"
+                }
+            ]
         }
     ],
     "sqlViews": [],
