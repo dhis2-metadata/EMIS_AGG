@@ -393,7 +393,13 @@
                 "users": {}
             },
             "shortName": "Educational core services",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Services éducatifs de base"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -425,7 +431,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "collège"
+                    "value": "Collège"
                 }
             ]
         },
@@ -524,7 +530,13 @@
                 "users": {}
             },
             "shortName": "Services other than instruction",
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Services autres que l’enseignement"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -603,16 +615,16 @@
             "code": "EMIS_AGG_EXP",
             "dataElements": [
                 {
-                    "id": "fbTVN7PtxHt"
-                },
-                {
-                    "id": "ocq6heBkfn1"
-                },
-                {
                     "id": "gMFCY3rmMuz"
                 },
                 {
                     "id": "gbMxMTai4CF"
+                },
+                {
+                    "id": "fbTVN7PtxHt"
+                },
+                {
+                    "id": "ocq6heBkfn1"
                 }
             ],
             "description": "All 4 data elements of the EMIS Toolkit - National expenditure data set (EMIS_AGG_EXP): total public expenditure on education, total public expenditure, gross national income, and public expenditure on educational services.",
@@ -877,7 +889,15 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "fbTVN7PtxHt"
+                        "id": "ocq6heBkfn1"
+                    },
+                    "dataSet": {
+                        "id": "oihtCgOqgEi"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gMFCY3rmMuz"
                     },
                     "dataSet": {
                         "id": "oihtCgOqgEi"
@@ -893,15 +913,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ocq6heBkfn1"
-                    },
-                    "dataSet": {
-                        "id": "oihtCgOqgEi"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gMFCY3rmMuz"
+                        "id": "fbTVN7PtxHt"
                     },
                     "dataSet": {
                         "id": "oihtCgOqgEi"
@@ -969,10 +981,10 @@
                     "id": "HNL58ZNbeaN"
                 },
                 {
-                    "id": "bg1NTeeVZo5"
+                    "id": "n2GpK3wnrg9"
                 },
                 {
-                    "id": "n2GpK3wnrg9"
+                    "id": "bg1NTeeVZo5"
                 },
                 {
                     "id": "xfpbwUxxlR1"
@@ -1371,15 +1383,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "7a50918",
-        "DHIS2Version": "2.41.9.1",
+        "DHIS2Build": "1a3484f",
+        "DHIS2Version": "2.41.10",
         "code": "EMIS_AGG_EXP",
         "description": "EMIS National Expenditure",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260909T124455",
+        "lastUpdated": "20260914T120739",
         "locale": "en",
-        "name": "EMIS_AGG_EXP_AGG_DHIS2.41.9.1-en",
+        "name": "EMIS_AGG_EXP_AGG_DHIS2.41.10-en",
         "type": "AGG",
         "version": ""
     },
