@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -79,7 +73,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge de la DPE (<3 - >6 ans)"
+                    "value": "Âge maternelle (< 3 - > 6 ans)"
                 }
             ]
         },
@@ -125,7 +119,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de développement de la petite enfance"
+                    "value": "Niveau maternelle"
                 }
             ]
         },
@@ -170,7 +164,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -212,7 +206,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -260,7 +254,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de handicap"
+                    "value": "Degré de handicap"
                 }
             ]
         },
@@ -321,7 +315,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge LSEC (<12 - >17 ans)"
+                    "value": "Âge collège (< 12 - > 17 ans)"
                 }
             ]
         },
@@ -370,7 +364,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC"
+                    "value": "Niveau collège"
                 }
             ]
         },
@@ -501,7 +495,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -568,7 +562,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge PRI (<6 - >13 ans)"
+                    "value": "Âge primaire (< 6 - > 13 ans)"
                 }
             ]
         },
@@ -626,7 +620,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Note de PRI"
+                    "value": "Niveau primaire"
                 }
             ]
         },
@@ -770,7 +764,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines SNE"
+                    "value": "Domaines de besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -824,7 +818,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -873,7 +867,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet"
+                    "value": "Matière"
                 }
             ]
         },
@@ -919,7 +913,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Positions de toilettes par sexe"
+                    "value": "Sexe (cabines de latrines)"
                 }
             ]
         }
@@ -936,19 +930,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -990,7 +977,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau DPE/Âge DPE (<3 - >6 ans)/Sexe"
+                    "value": "Niveau maternelle / Âge maternelle (< 3 - > 6 ans) / Sexe"
                 }
             ]
         },
@@ -1027,7 +1014,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -1064,7 +1051,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -1108,7 +1095,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC/Âge LSEC (<12 - >17 ans)/Sexe"
+                    "value": "Niveau collège / Âge collège (< 12 - > 17 ans) / Sexe"
                 }
             ]
         },
@@ -1148,7 +1135,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Nationalité / Grade PRI"
+                    "value": "Nationalité / Niveau primaire"
                 }
             ]
         },
@@ -1189,7 +1176,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -1230,7 +1217,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "PRI Âge (<6 - >13 ans)/Sexe"
+                    "value": "Âge primaire (< 6 - > 13 ans) / Sexe"
                 }
             ]
         },
@@ -1274,7 +1261,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau PRI / Âge PRI (<6 - >13 ans) / Sexe"
+                    "value": "Niveau primaire / Âge primaire (< 6 - > 13 ans) / Sexe"
                 }
             ]
         },
@@ -1315,7 +1302,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sexe/Sexe de l'IRP"
+                    "value": "Niveau primaire / Sexe"
                 }
             ]
         },
@@ -1359,7 +1346,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau PRI / Domaine SNE / Sexe"
+                    "value": "Niveau primaire / Domaine BES / Sexe"
                 }
             ]
         },
@@ -1400,7 +1387,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de compétence Sexe"
+                    "value": "Niveau de compétence / Sexe"
                 }
             ]
         },
@@ -1481,7 +1468,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques / niveau de handicap / sexe"
+                    "value": "Besoins éducatifs spéciaux / Degré de handicap / Sexe"
                 }
             ]
         },
@@ -1522,7 +1509,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet/Grade PRI"
+                    "value": "Matière / Niveau primaire"
                 }
             ]
         },
@@ -1556,7 +1543,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (cabines de latrines)"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -1963,10 +1956,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "MhJfImsjR9r"
+                    "id": "Dd487guoOmX"
                 },
                 {
-                    "id": "Dd487guoOmX"
+                    "id": "MhJfImsjR9r"
                 }
             ],
             "id": "OQzFol67hEr",
@@ -2485,10 +2478,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -5875,10 +5868,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "ys7j8eXF3hS"
                 },
                 {
-                    "id": "ys7j8eXF3hS"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "zlpqOYaMb96",
@@ -5911,10 +5904,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "UDax5BE0lvG"
                 },
                 {
-                    "id": "UDax5BE0lvG"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "W3BkWh8dJAZ",
@@ -6511,10 +6504,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "gLljPAO7F5S"
+                    "id": "ys7j8eXF3hS"
                 },
                 {
-                    "id": "ys7j8eXF3hS"
+                    "id": "gLljPAO7F5S"
                 }
             ],
             "id": "oo84Ao57xRA",
@@ -6547,10 +6540,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "gLljPAO7F5S"
+                    "id": "UDax5BE0lvG"
                 },
                 {
-                    "id": "UDax5BE0lvG"
+                    "id": "gLljPAO7F5S"
                 }
             ],
             "id": "t4TQgBBRb0i",
@@ -8226,48 +8219,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                }
-            ],
-            "id": "VLUkhfVvQzg",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "KbN76oKFVjS",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "Aaa0kTHOwYQ"
             },
             "categoryOptions": [
@@ -8551,48 +8502,6 @@
             "id": "ikqWXNGD06k",
             "ignoreApproval": false,
             "name": "Level 2, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                }
-            ],
-            "id": "JGe3uBz8cMl",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "F5yfYAZsw1y",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -8886,48 +8795,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                }
-            ],
-            "id": "I4JcfJJd34o",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "BkfNZkX3nZM",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "Aaa0kTHOwYQ"
             },
             "categoryOptions": [
@@ -9046,6 +8913,27 @@
             "id": "YmKsa7uBSu5",
             "ignoreApproval": false,
             "name": "Level 3, Vision, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "TMvYMcamflE"
+                },
+                {
+                    "id": "WGUbjiajdlc"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "RiFl8XfxHG5",
+            "ignoreApproval": false,
+            "name": "Level 3, Vision, Male",
             "translations": []
         },
         {
@@ -9198,6 +9086,90 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "T34okLOaPdE",
+            "ignoreApproval": false,
+            "name": "Level 4, Cognition / remembering, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "XBmGGV2wMrc",
+            "ignoreApproval": false,
+            "name": "Level 4, Cognition / remembering, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "tbhrcGWzVeU"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "iN7AWRcxOCF",
+            "ignoreApproval": false,
+            "name": "Level 4, Communication, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "tbhrcGWzVeU"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "HXP0ui8AOxb",
+            "ignoreApproval": false,
+            "name": "Level 4, Communication, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "Aaa0kTHOwYQ"
             },
             "categoryOptions": [
@@ -9211,6 +9183,48 @@
             "id": "patAayblfxG",
             "ignoreApproval": false,
             "name": "Level 4, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "XQ5jLmlJEA7",
+            "ignoreApproval": false,
+            "name": "Level 4, Hearing, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "Ojl8t2U2cZY"
+            },
+            "categoryOptions": [
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "NhI7Tf43AV4",
+            "ignoreApproval": false,
+            "name": "Level 4, Hearing, Male",
             "translations": []
         },
         {
@@ -9681,70 +9695,7 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "TMvYMcamflE"
-                },
-                {
-                    "id": "WGUbjiajdlc"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "RiFl8XfxHG5",
-            "ignoreApproval": false,
-            "name": "Level 3, Vision, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                }
-            ],
-            "id": "T34okLOaPdE",
-            "ignoreApproval": false,
-            "name": "Level 4, Cognition / remembering, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "XBmGGV2wMrc",
-            "ignoreApproval": false,
-            "name": "Level 4, Cognition / remembering, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
                 {
@@ -9754,39 +9705,39 @@
                     "id": "tbhrcGWzVeU"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "v9gPYv7aPYs"
                 }
             ],
-            "id": "iN7AWRcxOCF",
+            "id": "GRbMUzwcT2j",
             "ignoreApproval": false,
-            "name": "Level 4, Communication, Female",
+            "name": "Communication, Some difficulty, Female",
             "translations": []
         },
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
                 {
                     "id": "tbhrcGWzVeU"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "v9gPYv7aPYs"
                 },
                 {
                     "id": "vpmsp7XY31l"
                 }
             ],
-            "id": "HXP0ui8AOxb",
+            "id": "rSDIpKy6Cbb",
             "ignoreApproval": false,
-            "name": "Level 4, Communication, Male",
+            "name": "Communication, Some difficulty, Male",
             "translations": []
         },
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
                 {
@@ -9796,75 +9747,159 @@
                     "id": "miSVWQVu1gl"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "clJ68cWmaHL"
                 }
             ],
-            "id": "XQ5jLmlJEA7",
+            "id": "rMhlWvZ9uQN",
             "ignoreApproval": false,
-            "name": "Level 4, Hearing, Female",
+            "name": "Hearing, A lot of difficulty, Female",
             "translations": []
         },
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
                 {
                     "id": "miSVWQVu1gl"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "clJ68cWmaHL"
                 },
                 {
                     "id": "vpmsp7XY31l"
                 }
             ],
-            "id": "NhI7Tf43AV4",
+            "id": "ZEhodrE1S4q",
             "ignoreApproval": false,
-            "name": "Level 4, Hearing, Male",
+            "name": "Hearing, A lot of difficulty, Male",
             "translations": []
         },
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
                 {
                     "id": "ynJYpoaorSz"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "AkfR6iKUo8R"
+                },
+                {
+                    "id": "miSVWQVu1gl"
                 }
             ],
-            "id": "gK7FhoFAbkx",
+            "id": "Eb5H3KDcq2v",
             "ignoreApproval": false,
-            "name": "Level 4, Learning / Understanding, Female",
+            "name": "Hearing, Cannot do at all, Female",
             "translations": []
         },
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
+                "id": "sc7cZziNdPX"
             },
             "categoryOptions": [
                 {
-                    "id": "UkapwFg1K4o"
+                    "id": "AkfR6iKUo8R"
                 },
                 {
-                    "id": "DusJpbNnyvt"
+                    "id": "miSVWQVu1gl"
                 },
                 {
                     "id": "vpmsp7XY31l"
                 }
             ],
-            "id": "a26qUP5PTd1",
+            "id": "xEXR21BblWX",
             "ignoreApproval": false,
-            "name": "Level 4, Learning / Understanding, Male",
+            "name": "Hearing, Cannot do at all, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "yvv9GIYaNaz"
+                },
+                {
+                    "id": "miSVWQVu1gl"
+                }
+            ],
+            "id": "o01SK2l64Hf",
+            "ignoreApproval": false,
+            "name": "Hearing, No difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "yvv9GIYaNaz"
+                },
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "jEEBWAG1idg",
+            "ignoreApproval": false,
+            "name": "Hearing, No difficulty, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "v9gPYv7aPYs"
+                }
+            ],
+            "id": "PtBVRS21Eb8",
+            "ignoreApproval": false,
+            "name": "Hearing, Some difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "v9gPYv7aPYs"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "Q6CfPVFZpzx",
+            "ignoreApproval": false,
+            "name": "Hearing, Some difficulty, Male",
             "translations": []
         },
         {
@@ -10126,48 +10161,6 @@
             },
             "categoryOptions": [
                 {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "sKYeKKydndx"
-                }
-            ],
-            "id": "b6UwTwFXvbt",
-            "ignoreApproval": false,
-            "name": "Level 5, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "sKYeKKydndx"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "C6xuLA4s7lg",
-            "ignoreApproval": false,
-            "name": "Level 5, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
                     "id": "ynJYpoaorSz"
                 },
                 {
@@ -10411,48 +10404,6 @@
             "id": "lbxQKL4cGT1",
             "ignoreApproval": false,
             "name": "Level 6, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "dejbdNn7222"
-                }
-            ],
-            "id": "eqQEKl4HRRX",
-            "ignoreApproval": false,
-            "name": "Level 6, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "dejbdNn7222"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "sM9NIE5i28z",
-            "ignoreApproval": false,
-            "name": "Level 6, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -10714,48 +10665,6 @@
             },
             "categoryOptions": [
                 {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "gLljPAO7F5S"
-                }
-            ],
-            "id": "WVsw7NsPvQY",
-            "ignoreApproval": false,
-            "name": "Level 7, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "gLljPAO7F5S"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "KsE5WITqJMr",
-            "ignoreApproval": false,
-            "name": "Level 7, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "Ojl8t2U2cZY"
-            },
-            "categoryOptions": [
-                {
                     "id": "ynJYpoaorSz"
                 },
                 {
@@ -10873,6 +10782,111 @@
             "id": "ZlzimKY7jq1",
             "ignoreApproval": false,
             "name": "Level 7, Vision, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "IZGfKLlu7Oz"
+                },
+                {
+                    "id": "clJ68cWmaHL"
+                }
+            ],
+            "id": "eCui89CA3YQ",
+            "ignoreApproval": false,
+            "name": "Mobility, A lot of difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "IZGfKLlu7Oz"
+                },
+                {
+                    "id": "clJ68cWmaHL"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "oS4rRGScoFH",
+            "ignoreApproval": false,
+            "name": "Mobility, A lot of difficulty, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "AkfR6iKUo8R"
+                },
+                {
+                    "id": "IZGfKLlu7Oz"
+                }
+            ],
+            "id": "mKXcwscf526",
+            "ignoreApproval": false,
+            "name": "Mobility, Cannot do at all, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "AkfR6iKUo8R"
+                },
+                {
+                    "id": "IZGfKLlu7Oz"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "w4NNi6ATZX1",
+            "ignoreApproval": false,
+            "name": "Mobility, Cannot do at all, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "IZGfKLlu7Oz"
+                },
+                {
+                    "id": "yvv9GIYaNaz"
+                }
+            ],
+            "id": "mmcOetG06Bf",
+            "ignoreApproval": false,
+            "name": "Mobility, No difficulty, Female",
             "translations": []
         },
         {
@@ -11238,48 +11252,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "tbhrcGWzVeU"
-                },
-                {
-                    "id": "v9gPYv7aPYs"
-                }
-            ],
-            "id": "GRbMUzwcT2j",
-            "ignoreApproval": false,
-            "name": "Communication, Some difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "tbhrcGWzVeU"
-                },
-                {
-                    "id": "v9gPYv7aPYs"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "rSDIpKy6Cbb",
-            "ignoreApproval": false,
-            "name": "Communication, Some difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "bjDvmb4bfuf"
             },
             "categoryOptions": [
@@ -11311,174 +11283,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "clJ68cWmaHL"
-                }
-            ],
-            "id": "rMhlWvZ9uQN",
-            "ignoreApproval": false,
-            "name": "Hearing, A lot of difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "clJ68cWmaHL"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "ZEhodrE1S4q",
-            "ignoreApproval": false,
-            "name": "Hearing, A lot of difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "AkfR6iKUo8R"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                }
-            ],
-            "id": "Eb5H3KDcq2v",
-            "ignoreApproval": false,
-            "name": "Hearing, Cannot do at all, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "AkfR6iKUo8R"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "xEXR21BblWX",
-            "ignoreApproval": false,
-            "name": "Hearing, Cannot do at all, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "yvv9GIYaNaz"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                }
-            ],
-            "id": "o01SK2l64Hf",
-            "ignoreApproval": false,
-            "name": "Hearing, No difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "yvv9GIYaNaz"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "jEEBWAG1idg",
-            "ignoreApproval": false,
-            "name": "Hearing, No difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "v9gPYv7aPYs"
-                }
-            ],
-            "id": "PtBVRS21Eb8",
-            "ignoreApproval": false,
-            "name": "Hearing, Some difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "v9gPYv7aPYs"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "Q6CfPVFZpzx",
-            "ignoreApproval": false,
-            "name": "Hearing, Some difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "vrOtGTgqBLP"
             },
             "categoryOptions": [
@@ -11489,111 +11293,6 @@
             "id": "WYho0kkh88k",
             "ignoreApproval": false,
             "name": "Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "IZGfKLlu7Oz"
-                },
-                {
-                    "id": "clJ68cWmaHL"
-                }
-            ],
-            "id": "eCui89CA3YQ",
-            "ignoreApproval": false,
-            "name": "Mobility, A lot of difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "IZGfKLlu7Oz"
-                },
-                {
-                    "id": "clJ68cWmaHL"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "oS4rRGScoFH",
-            "ignoreApproval": false,
-            "name": "Mobility, A lot of difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "AkfR6iKUo8R"
-                },
-                {
-                    "id": "IZGfKLlu7Oz"
-                }
-            ],
-            "id": "mKXcwscf526",
-            "ignoreApproval": false,
-            "name": "Mobility, Cannot do at all, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "AkfR6iKUo8R"
-                },
-                {
-                    "id": "IZGfKLlu7Oz"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "w4NNi6ATZX1",
-            "ignoreApproval": false,
-            "name": "Mobility, Cannot do at all, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "IZGfKLlu7Oz"
-                },
-                {
-                    "id": "yvv9GIYaNaz"
-                }
-            ],
-            "id": "mmcOetG06Bf",
-            "ignoreApproval": false,
-            "name": "Mobility, No difficulty, Female",
             "translations": []
         },
         {
@@ -13495,40 +13194,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LEARNING/UNDERSTANDING",
-            "id": "UkapwFg1K4o",
-            "name": "Learning / Understanding",
-            "organisationUnits": [],
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-rw----",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-rw----",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-r-----",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learning / Understanding",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Apprentissage / Compréhension"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "LEVEL_1",
             "id": "MhJfImsjR9r",
             "name": "Level 1",
@@ -14284,31 +13949,7 @@
             "code": "EMIS_AGG_PRI_TOOL",
             "dataElements": [
                 {
-                    "id": "jsIM64TwSUm"
-                },
-                {
-                    "id": "Bo2Yheh4lGl"
-                },
-                {
                     "id": "Pb97gs6xIlm"
-                },
-                {
-                    "id": "ZGcntaEgM3Y"
-                },
-                {
-                    "id": "nEVfdbTkSTy"
-                },
-                {
-                    "id": "Zy2bdINTA6W"
-                },
-                {
-                    "id": "v02n6FHpyKe"
-                },
-                {
-                    "id": "M9Gifisi0Ur"
-                },
-                {
-                    "id": "RJi5MW86kCs"
                 },
                 {
                     "id": "SQlUksosv0p"
@@ -14317,13 +13958,10 @@
                     "id": "LGhYlJG3iKR"
                 },
                 {
-                    "id": "frfEgziQhoT"
-                },
-                {
                     "id": "L1oRLuJzDXN"
                 },
                 {
-                    "id": "WxJPCBD8obF"
+                    "id": "frfEgziQhoT"
                 },
                 {
                     "id": "ubGe58sPoXN"
@@ -14335,31 +13973,10 @@
                     "id": "UZwS9SmzGtG"
                 },
                 {
-                    "id": "m5SWa8mHISs"
-                },
-                {
-                    "id": "JPbjV0Mjxvw"
-                },
-                {
                     "id": "aSXfIO4Ppi4"
                 },
                 {
-                    "id": "Cm2qphUpUuS"
-                },
-                {
-                    "id": "Xq3am9DbPPF"
-                },
-                {
                     "id": "Bk2AEbNefDD"
-                },
-                {
-                    "id": "kz398WVBDCw"
-                },
-                {
-                    "id": "gAncEUIftwu"
-                },
-                {
-                    "id": "b0YUzqNJf5v"
                 },
                 {
                     "id": "EceDxuePkVN"
@@ -14369,12 +13986,6 @@
                 },
                 {
                     "id": "KJrMNhHKpFj"
-                },
-                {
-                    "id": "KIvawJZGonK"
-                },
-                {
-                    "id": "rZsnwLbpZGf"
                 },
                 {
                     "id": "L2oPCXhJqUd"
@@ -14392,13 +14003,67 @@
                     "id": "FaAsIdQC3GM"
                 },
                 {
-                    "id": "j7Gxl9Mtgr5"
-                },
-                {
                     "id": "oSfcBfzVxfc"
                 },
                 {
                     "id": "hTK3svZ5KHv"
+                },
+                {
+                    "id": "jsIM64TwSUm"
+                },
+                {
+                    "id": "Bo2Yheh4lGl"
+                },
+                {
+                    "id": "ZGcntaEgM3Y"
+                },
+                {
+                    "id": "Zy2bdINTA6W"
+                },
+                {
+                    "id": "nEVfdbTkSTy"
+                },
+                {
+                    "id": "v02n6FHpyKe"
+                },
+                {
+                    "id": "M9Gifisi0Ur"
+                },
+                {
+                    "id": "RJi5MW86kCs"
+                },
+                {
+                    "id": "WxJPCBD8obF"
+                },
+                {
+                    "id": "m5SWa8mHISs"
+                },
+                {
+                    "id": "JPbjV0Mjxvw"
+                },
+                {
+                    "id": "Cm2qphUpUuS"
+                },
+                {
+                    "id": "Xq3am9DbPPF"
+                },
+                {
+                    "id": "kz398WVBDCw"
+                },
+                {
+                    "id": "gAncEUIftwu"
+                },
+                {
+                    "id": "b0YUzqNJf5v"
+                },
+                {
+                    "id": "KIvawJZGonK"
+                },
+                {
+                    "id": "rZsnwLbpZGf"
+                },
+                {
+                    "id": "j7Gxl9Mtgr5"
                 },
                 {
                     "id": "YbYRAEz6JWR"
@@ -14440,7 +14105,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'outil Primaire"
+                    "value": "SIGE - Éléments de données de l’outil Primaire"
                 }
             ]
         }
@@ -16991,279 +16656,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "aSXfIO4Ppi4"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Zy2bdINTA6W"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m5SWa8mHISs"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YbYRAEz6JWR"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bo2Yheh4lGl"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Cm2qphUpUuS"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "v02n6FHpyKe"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FaAsIdQC3GM"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EceDxuePkVN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bk2AEbNefDD"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UxaMoIg2SIr"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uIOr3Fw1ikM"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ubGe58sPoXN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gAncEUIftwu"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Xq3am9DbPPF"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WxJPCBD8obF"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KIvawJZGonK"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nEVfdbTkSTy"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SQlUksosv0p"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hTK3svZ5KHv"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rZsnwLbpZGf"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZGcntaEgM3Y"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KJrMNhHKpFj"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n0wlUuIV7ff"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Mhxra2f0fhr"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "j7Gxl9Mtgr5"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b0YUzqNJf5v"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kz398WVBDCw"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "frfEgziQhoT"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L2oPCXhJqUd"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17279,7 +16672,79 @@
                 },
                 {
                     "dataElement": {
+                        "id": "Bk2AEbNefDD"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZGcntaEgM3Y"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aSXfIO4Ppi4"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SQlUksosv0p"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KIvawJZGonK"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UxaMoIg2SIr"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bo2Yheh4lGl"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "frfEgziQhoT"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kz398WVBDCw"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17295,7 +16760,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UZwS9SmzGtG"
+                        "id": "YbYRAEz6JWR"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Mhxra2f0fhr"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ubGe58sPoXN"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LGhYlJG3iKR"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rZsnwLbpZGf"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hTK3svZ5KHv"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Cm2qphUpUuS"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17311,6 +16832,94 @@
                 },
                 {
                     "dataElement": {
+                        "id": "WxJPCBD8obF"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KJrMNhHKpFj"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JPbjV0Mjxvw"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UZwS9SmzGtG"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gAncEUIftwu"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L2oPCXhJqUd"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EceDxuePkVN"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Zy2bdINTA6W"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nEVfdbTkSTy"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FaAsIdQC3GM"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "L1oRLuJzDXN"
                     },
                     "dataSet": {
@@ -17319,7 +16928,63 @@
                 },
                 {
                     "dataElement": {
+                        "id": "jsIM64TwSUm"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b0YUzqNJf5v"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uIOr3Fw1ikM"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "j7Gxl9Mtgr5"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "v02n6FHpyKe"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "RJi5MW86kCs"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Xq3am9DbPPF"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17346,10 +17011,10 @@
                     "id": "zwmqW2K09Ks"
                 },
                 {
-                    "id": "TAKKA3abho8"
+                    "id": "yx0PsEEJUCw"
                 },
                 {
-                    "id": "yx0PsEEJUCw"
+                    "id": "TAKKA3abho8"
                 },
                 {
                     "id": "VRq3HjSJpoO"
@@ -17358,10 +17023,10 @@
                     "id": "wKDIjcoDQUt"
                 },
                 {
-                    "id": "nTxkPBsR6E9"
+                    "id": "kh9I2sOi51H"
                 },
                 {
-                    "id": "kh9I2sOi51H"
+                    "id": "nTxkPBsR6E9"
                 },
                 {
                     "id": "FmmqtAikAau"
@@ -17370,10 +17035,10 @@
                     "id": "ZeSziqoPGXs"
                 },
                 {
-                    "id": "top9Z1Q6yPO"
+                    "id": "nak6YLV0uRN"
                 },
                 {
-                    "id": "nak6YLV0uRN"
+                    "id": "top9Z1Q6yPO"
                 },
                 {
                     "id": "syh4po0lgAi"
@@ -17469,11 +17134,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils EMIS - Outil principal"
+                    "value": "Boîte à outils SIGE - Outil Primaire"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 88
+            "version": 102
         }
     ],
     "documents": [],
@@ -17487,25 +17152,13 @@
             "id": "BHu7oL3PLih",
             "indicators": [
                 {
-                    "id": "Sm6dPqLXPiU"
-                },
-                {
                     "id": "YaNq7UbRnwi"
                 },
                 {
                     "id": "Ytrbb2wz9Zb"
                 },
                 {
-                    "id": "L5G3r4w947O"
-                },
-                {
-                    "id": "jLYxMf5yhnU"
-                },
-                {
                     "id": "o6b8eRYLOWg"
-                },
-                {
-                    "id": "yx0PsEEJUCw"
                 },
                 {
                     "id": "VRq3HjSJpoO"
@@ -17517,52 +17170,22 @@
                     "id": "p44IsegoKdD"
                 },
                 {
-                    "id": "ZeSziqoPGXs"
-                },
-                {
-                    "id": "nak6YLV0uRN"
-                },
-                {
-                    "id": "nAvXQyKUuDa"
-                },
-                {
                     "id": "YFtggmsHwR6"
                 },
                 {
                     "id": "syh4po0lgAi"
                 },
                 {
-                    "id": "SgZ6vcf6Wni"
-                },
-                {
-                    "id": "bJGhAI6G1IL"
-                },
-                {
                     "id": "EY6twzyd6qt"
-                },
-                {
-                    "id": "Q851ShS6h9t"
-                },
-                {
-                    "id": "FoJNqTjGLFT"
-                },
-                {
-                    "id": "IcIs1Y9FXHQ"
-                },
-                {
-                    "id": "fbApqGjrs6t"
                 },
                 {
                     "id": "Y6cEDVQfjNo"
                 },
                 {
-                    "id": "pP3XwZeUX1N"
-                },
-                {
                     "id": "m0lQpzEa8MT"
                 },
                 {
-                    "id": "hmx75ENHU5f"
+                    "id": "pP3XwZeUX1N"
                 },
                 {
                     "id": "FbnY9L1CTxW"
@@ -17572,12 +17195,6 @@
                 },
                 {
                     "id": "kAl9FtlaiBy"
-                },
-                {
-                    "id": "Mcdr63bAZev"
-                },
-                {
-                    "id": "dEc9j4M48hv"
                 },
                 {
                     "id": "lfAYMgyeGGz"
@@ -17592,16 +17209,7 @@
                     "id": "SNzVkXI7ZDT"
                 },
                 {
-                    "id": "n1zOkbj6Kp3"
-                },
-                {
                     "id": "EOXetw7C9zF"
-                },
-                {
-                    "id": "SJtbsyx69sU"
-                },
-                {
-                    "id": "s8Ipc1GJzf7"
                 },
                 {
                     "id": "f17YVNdGtsC"
@@ -17613,6 +17221,123 @@
                     "id": "JQeSggUiZ9F"
                 },
                 {
+                    "id": "MablmHFDpYi"
+                },
+                {
+                    "id": "WxC8dT57mYJ"
+                },
+                {
+                    "id": "qJhFjZiNvmB"
+                },
+                {
+                    "id": "VzDQgqC4WZF"
+                },
+                {
+                    "id": "z4brruZmwBp"
+                },
+                {
+                    "id": "Kn878MDarGR"
+                },
+                {
+                    "id": "dCCLw9YtdKA"
+                },
+                {
+                    "id": "ihlCRpw1mhJ"
+                },
+                {
+                    "id": "qURrl8xXuT2"
+                },
+                {
+                    "id": "LjWwk84dH4a"
+                },
+                {
+                    "id": "tmQMaksYsD5"
+                },
+                {
+                    "id": "oIJ27tIsFbv"
+                },
+                {
+                    "id": "DbHKrOSsSuq"
+                },
+                {
+                    "id": "GzCCqy2sDHO"
+                },
+                {
+                    "id": "ue2MWIQ0K8P"
+                },
+                {
+                    "id": "SCBqYDGRWH9"
+                },
+                {
+                    "id": "eYwxazSf6cG"
+                },
+                {
+                    "id": "y8ZpzTdCuzb"
+                },
+                {
+                    "id": "avnWZP4TlUn"
+                },
+                {
+                    "id": "hQBRPpDB2ax"
+                },
+                {
+                    "id": "Sm6dPqLXPiU"
+                },
+                {
+                    "id": "L5G3r4w947O"
+                },
+                {
+                    "id": "jLYxMf5yhnU"
+                },
+                {
+                    "id": "yx0PsEEJUCw"
+                },
+                {
+                    "id": "ZeSziqoPGXs"
+                },
+                {
+                    "id": "nak6YLV0uRN"
+                },
+                {
+                    "id": "nAvXQyKUuDa"
+                },
+                {
+                    "id": "SgZ6vcf6Wni"
+                },
+                {
+                    "id": "bJGhAI6G1IL"
+                },
+                {
+                    "id": "IcIs1Y9FXHQ"
+                },
+                {
+                    "id": "FoJNqTjGLFT"
+                },
+                {
+                    "id": "Q851ShS6h9t"
+                },
+                {
+                    "id": "fbApqGjrs6t"
+                },
+                {
+                    "id": "hmx75ENHU5f"
+                },
+                {
+                    "id": "Mcdr63bAZev"
+                },
+                {
+                    "id": "dEc9j4M48hv"
+                },
+                {
+                    "id": "n1zOkbj6Kp3"
+                },
+                {
+                    "id": "SJtbsyx69sU"
+                },
+                {
+                    "id": "s8Ipc1GJzf7"
+                },
+                {
                     "id": "niL9SllCtx8"
                 },
                 {
@@ -17620,15 +17345,6 @@
                 },
                 {
                     "id": "U4u3AuZ9yVs"
-                },
-                {
-                    "id": "MablmHFDpYi"
-                },
-                {
-                    "id": "qJhFjZiNvmB"
-                },
-                {
-                    "id": "WxC8dT57mYJ"
                 },
                 {
                     "id": "lJn3sNliTZ9"
@@ -17646,16 +17362,13 @@
                     "id": "wKDIjcoDQUt"
                 },
                 {
-                    "id": "nTxkPBsR6E9"
+                    "id": "OTXajGNHRv1"
                 },
                 {
                     "id": "kh9I2sOi51H"
                 },
                 {
-                    "id": "OTXajGNHRv1"
-                },
-                {
-                    "id": "VzDQgqC4WZF"
+                    "id": "nTxkPBsR6E9"
                 },
                 {
                     "id": "bnhw1GGrK12"
@@ -17664,19 +17377,7 @@
                     "id": "top9Z1Q6yPO"
                 },
                 {
-                    "id": "z4brruZmwBp"
-                },
-                {
-                    "id": "Kn878MDarGR"
-                },
-                {
                     "id": "c8vveCVxBIi"
-                },
-                {
-                    "id": "dCCLw9YtdKA"
-                },
-                {
-                    "id": "ihlCRpw1mhJ"
                 },
                 {
                     "id": "rfwzMomL1DJ"
@@ -17685,61 +17386,25 @@
                     "id": "gGAZJ8xtPOr"
                 },
                 {
-                    "id": "LjWwk84dH4a"
-                },
-                {
-                    "id": "qURrl8xXuT2"
-                },
-                {
-                    "id": "tmQMaksYsD5"
-                },
-                {
-                    "id": "oIJ27tIsFbv"
-                },
-                {
                     "id": "Q5MeGzITwhP"
                 },
                 {
                     "id": "VyjxX8BJrSr"
                 },
                 {
-                    "id": "Mx9HloJUbif"
-                },
-                {
-                    "id": "DbHKrOSsSuq"
-                },
-                {
                     "id": "EfWEQE3AmVl"
+                },
+                {
+                    "id": "Mx9HloJUbif"
                 },
                 {
                     "id": "F6wiOdtz9BL"
                 },
                 {
-                    "id": "GzCCqy2sDHO"
-                },
-                {
                     "id": "acaIZKbRFtq"
                 },
                 {
-                    "id": "SCBqYDGRWH9"
-                },
-                {
-                    "id": "ue2MWIQ0K8P"
-                },
-                {
-                    "id": "eYwxazSf6cG"
-                },
-                {
-                    "id": "y8ZpzTdCuzb"
-                },
-                {
                     "id": "iUNSZ2AF9YH"
-                },
-                {
-                    "id": "avnWZP4TlUn"
-                },
-                {
-                    "id": "hQBRPpDB2ax"
                 }
             ],
             "name": "EMIS - Primary Tool indicators",
@@ -17766,7 +17431,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs de l'outil Primaire"
+                    "value": "SIGE - Indicateurs de l’outil Primaire"
                 }
             ]
         }
@@ -18195,6 +17860,108 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "SDG4_PRI_MPL_READING_MID",
+            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
+            "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
+            "id": "avnWZP4TlUn",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [
+                {
+                    "id": "havuYWm1aYW"
+                }
+            ],
+            "name": "EMIS - Children achieving at least a minimum proficiency level in reading, mid-cycle (Primary)",
+            "numerator": "#{m0STyv1Yjta.pmbE9zDswtT} + #{m0STyv1Yjta.OVUF0LMXjd2}",
+            "numeratorDescription": "Minimum proficiency Reading mid primary",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% min. proficiency, reading, mid-cycle (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, lecture, mi-cycle (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en lecture, en milieu de cycle (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_PRI_MPL_SCIENCE_END",
+            "denominator": "#{R6zkoFtcs1x.GLYA4dVTSyX} + #{R6zkoFtcs1x.Whs2W1Mu6SJ} + #{R6zkoFtcs1x.Gm2XbxHaD5P} + #{R6zkoFtcs1x.IbeUIkzLHCt}",
+            "denominatorDescription": "EMIS - Population Estimates 12 years, Male + EMIS - Population Estimates 12 years, Female + EMIS - Population Estimates 13 years, Male + EMIS - Population Estimates 13 years, Female",
+            "id": "hQBRPpDB2ax",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [
+                {
+                    "id": "havuYWm1aYW"
+                }
+            ],
+            "name": "EMIS - Children achieving at least a minimum proficiency level in science, end of cycle (Primary)",
+            "numerator": "#{JiOrvIzcKra.F0v2CMIQevt} + #{JiOrvIzcKra.LU6dzRdbi0q}",
+            "numeratorDescription": "Minimum proficiency in science end of primary",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% min. proficiency, science, end of cycle (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, sciences, fin de cycle (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en sciences, en fin de cycle (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "SDG4_PRI_MPL_SCIENCE_MID",
             "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
             "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
@@ -18240,57 +18007,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "% niv. minimal, sciences, mi-cycle (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_MPL_MID",
-            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
-            "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
-            "id": "Q5MeGzITwhP",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [
-                {
-                    "id": "havuYWm1aYW"
-                }
-            ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level, mid-cycle (Primary)",
-            "numerator": "#{m0STyv1Yjta}",
-            "numeratorDescription": "EMIS - Minimum Proficiency level (Mid-Primary)",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% min. proficiency, mid-cycle (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence, en milieu de cycle (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, mi-cycle (Primaire)"
                 }
             ]
         },
@@ -18491,18 +18207,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_SHARED_FURNITURE_LEARNER_DESKS",
+            "code": "EMIS_SHARED_FURNITURE_BOOKSHELVES",
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "School furniture by infrastructure condition (Good + Fair + Poor). Shared by the Lower Secondary and Upper Secondary data sets, which use the same furniture data elements — the name is level-neutral for that reason.",
-            "id": "c8vveCVxBIi",
+            "id": "eYwxazSf6cG",
             "indicatorType": {
                 "id": "L6EUbA1KB6N"
             },
             "legendSets": [],
-            "name": "EMIS - Furniture - learner desks",
-            "numerator": "#{KJrMNhHKpFj.rteEPsDgGyK} + #{KJrMNhHKpFj.wflnBKhT04i} + #{KJrMNhHKpFj.wVhmpcXbTk9}",
-            "numeratorDescription": "Learner desks_LSEC_Furniture",
+            "name": "EMIS - Furniture - book shelves",
+            "numerator": "#{LGhYlJG3iKR.rteEPsDgGyK} + #{LGhYlJG3iKR.wflnBKhT04i} + #{LGhYlJG3iKR.wVhmpcXbTk9}",
+            "numeratorDescription": "Bookshelves_LSEC_Furniture",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -18522,17 +18238,17 @@
                 },
                 "users": {}
             },
-            "shortName": "Furniture - learner desks",
+            "shortName": "Furniture - book shelves",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "Mobilier - pupitres d’élèves"
+                    "value": "Mobilier - étagères à livres"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Mobilier - pupitres d’élèves"
+                    "value": "EMIS - Mobilier - étagères à livres"
                 }
             ]
         },
@@ -18629,6 +18345,53 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Mobilier - tableaux blancs"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_GER",
+            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
+            "denominatorDescription": "EMIS - Population Estimates 6-12 years",
+            "id": "ue2MWIQ0K8P",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Gross enrolment ratio (Primary)",
+            "numerator": "#{ue3QIMOAC7G}",
+            "numeratorDescription": "Total enrolment PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Gross enrolment ratio (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Taux brut de scolarisation (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Taux brut de scolarisation (Primaire)"
                 }
             ]
         },
@@ -19078,55 +18841,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_PRI_LEARNERS_AGE_OVER_13",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "description": "Enrolments_PRI_13 years",
-            "id": "Mx9HloJUbif",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Learners in the reporting year, aged over 13 (Primary)",
-            "numerator": "#{ue3QIMOAC7G.IrmWcNPqJkP} + #{ue3QIMOAC7G.hUVEdmXC2cX} + #{ue3QIMOAC7G.max8haSAhAk} + #{ue3QIMOAC7G.iDlbaVZV9ni} + #{ue3QIMOAC7G.GyHINta9Ngf} + #{ue3QIMOAC7G.VeOVj2GmrFI} + #{ue3QIMOAC7G.ilKnPX7OURs} + #{ue3QIMOAC7G.ds9kmxoTxTG} + #{ue3QIMOAC7G.jaVYxQSw9H2} + #{ue3QIMOAC7G.nUMq0W4vKiJ} + #{ue3QIMOAC7G.KET6QXL4yBO} + #{ue3QIMOAC7G.sQVcet6tDbP} + #{ue3QIMOAC7G.elDPJmuqvN4} + #{ue3QIMOAC7G.Kpi6SsBCrtD}",
-            "numeratorDescription": "Enrolments_PRI_>13 years",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learners, aged over 13 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Apprenants, plus de 13 ans (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Apprenants durant l’année de rapport, plus de 13 ans (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "EMIS_PRI_LEARNERS_AGE_UNDER_6",
             "decimals": 0,
             "denominator": "1",
@@ -19217,6 +18931,53 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Taux net de scolarisation (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_TEACHING_MATERIALS_SUBJECT_1",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "SCBqYDGRWH9",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Number of teaching materials, subject 1 (Primary)",
+            "numerator": "#{EceDxuePkVN.OQzFol67hEr} + #{EceDxuePkVN.BcIm1nGD39b} + #{EceDxuePkVN.EfLfFveCADL} + #{EceDxuePkVN.LFYjetGCsiA} + #{EceDxuePkVN.dynRuVO5aVq} + #{EceDxuePkVN.GoX14JTJcJP} + #{EceDxuePkVN.dJ5ium7XXOt}",
+            "numeratorDescription": "Total Teaching Materials Subject 1 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Teaching materials, subject 1 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Nombre de matériels pédagogiques, matière 1 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Matériels pédagogiques, matière 1 (Primaire)"
                 }
             ]
         },
@@ -19842,100 +19603,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_SNE_INFRASTRUCTURE",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "VyjxX8BJrSr",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - adapted infrastructure and materials for learners with disabilities",
-            "numerator": "#{oSfcBfzVxfc}",
-            "numeratorDescription": "Number of schools with access to Infrastructure for special needs",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with adapted SNE infrastructure",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec infrastructures adaptées"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - infrastructures et matériels adaptés aux apprenants handicapés"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_DRINKING_WATER",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "EfWEQE3AmVl",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - basic drinking water",
-            "numerator": "#{b0YUzqNJf5v}",
-            "numeratorDescription": "Number of schools with access to Drinking water",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with basic drinking water",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - eau potable de base"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec eau potable de base"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "SDG4_SCHOOLS_BASIC_HANDWASHING",
             "denominator": "OUG{xs3WUlrhsir}",
             "denominatorDescription": "Total number of schools",
@@ -20024,53 +19691,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Proportion d’écoles offrant des services de base - ordinateurs à des fins pédagogiques"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_ELECTRICITY",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "gGAZJ8xtPOr",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - electricity",
-            "numerator": "#{jsIM64TwSUm}",
-            "numeratorDescription": "Number of schools with access to electricity",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with electricity",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - électricité"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec électricité"
                 }
             ]
         },
@@ -20454,6 +20074,102 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Redoublants, niveau 4 (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_REPEATERS_LEVEL_5",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "y8ZpzTdCuzb",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Repeaters in the reporting year, level 5 (Primary)",
+            "numerator": "#{UxaMoIg2SIr.CbtpSLVKKbl} + #{UxaMoIg2SIr.hV9sNe4fq2w}",
+            "numeratorDescription": "Repeaters Level 5 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Repeaters, level 5 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 5 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Redoublants, niveau 5 (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_REPEATERS_LEVEL_6",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "GzCCqy2sDHO",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Repeaters in the reporting year, level 6 (Primary)",
+            "numerator": "#{UxaMoIg2SIr.qFlcEcXouMA} + #{UxaMoIg2SIr.yp3QpMkj6Dw}",
+            "numeratorDescription": "Repeaters Level 6 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Repeaters, level 6 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Redoublants, niveau 6 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 6 (Primaire)"
                 }
             ]
         },
@@ -20879,53 +20595,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Installations scolaires - salle principale"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_SHARED_FACILITY_SICKBAY",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "rfwzMomL1DJ",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - School facilities - sickbay",
-            "numerator": "#{ubGe58sPoXN.dva72ooQzOq} + #{ubGe58sPoXN.vHTkyK9g967}",
-            "numeratorDescription": "SNE_USEC_Sickbay",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "School facilities - sickbay",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Installations scolaires - infirmerie"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Installations scolaires - infirmerie"
                 }
             ]
         },
@@ -21405,10 +21074,10 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "SDG4_PRI_MPL_READING_MID",
+            "code": "EMIS_PRI_MPL_MID",
             "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
             "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
-            "id": "avnWZP4TlUn",
+            "id": "Q5MeGzITwhP",
             "indicatorType": {
                 "id": "MCUGRIAc5sa"
             },
@@ -21417,9 +21086,9 @@
                     "id": "havuYWm1aYW"
                 }
             ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level in reading, mid-cycle (Primary)",
-            "numerator": "#{m0STyv1Yjta.pmbE9zDswtT} + #{m0STyv1Yjta.OVUF0LMXjd2}",
-            "numeratorDescription": "Minimum proficiency Reading mid primary",
+            "name": "EMIS - Children achieving at least a minimum proficiency level, mid-cycle (Primary)",
+            "numerator": "#{m0STyv1Yjta}",
+            "numeratorDescription": "EMIS - Minimum Proficiency level (Mid-Primary)",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21439,86 +21108,35 @@
                 },
                 "users": {}
             },
-            "shortName": "% min. proficiency, reading, mid-cycle (PRI)",
+            "shortName": "% min. proficiency, mid-cycle (PRI)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, lecture, mi-cycle (Primaire)"
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence, en milieu de cycle (Primaire)"
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en lecture, en milieu de cycle (Primaire)"
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, mi-cycle (Primaire)"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "SDG4_PRI_MPL_SCIENCE_END",
-            "denominator": "#{R6zkoFtcs1x.GLYA4dVTSyX} + #{R6zkoFtcs1x.Whs2W1Mu6SJ} + #{R6zkoFtcs1x.Gm2XbxHaD5P} + #{R6zkoFtcs1x.IbeUIkzLHCt}",
-            "denominatorDescription": "EMIS - Population Estimates 12 years, Male + EMIS - Population Estimates 12 years, Female + EMIS - Population Estimates 13 years, Male + EMIS - Population Estimates 13 years, Female",
-            "id": "hQBRPpDB2ax",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [
-                {
-                    "id": "havuYWm1aYW"
-                }
-            ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level in science, end of cycle (Primary)",
-            "numerator": "#{JiOrvIzcKra.F0v2CMIQevt} + #{JiOrvIzcKra.LU6dzRdbi0q}",
-            "numeratorDescription": "Minimum proficiency in science end of primary",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% min. proficiency, science, end of cycle (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, sciences, fin de cycle (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en sciences, en fin de cycle (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_SHARED_FURNITURE_BOOKSHELVES",
+            "code": "EMIS_SHARED_FURNITURE_LEARNER_DESKS",
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "School furniture by infrastructure condition (Good + Fair + Poor). Shared by the Lower Secondary and Upper Secondary data sets, which use the same furniture data elements — the name is level-neutral for that reason.",
-            "id": "eYwxazSf6cG",
+            "id": "c8vveCVxBIi",
             "indicatorType": {
                 "id": "L6EUbA1KB6N"
             },
             "legendSets": [],
-            "name": "EMIS - Furniture - book shelves",
-            "numerator": "#{LGhYlJG3iKR.rteEPsDgGyK} + #{LGhYlJG3iKR.wflnBKhT04i} + #{LGhYlJG3iKR.wVhmpcXbTk9}",
-            "numeratorDescription": "Bookshelves_LSEC_Furniture",
+            "name": "EMIS - Furniture - learner desks",
+            "numerator": "#{KJrMNhHKpFj.rteEPsDgGyK} + #{KJrMNhHKpFj.wflnBKhT04i} + #{KJrMNhHKpFj.wVhmpcXbTk9}",
+            "numeratorDescription": "Learner desks_LSEC_Furniture",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21538,81 +21156,36 @@
                 },
                 "users": {}
             },
-            "shortName": "Furniture - book shelves",
+            "shortName": "Furniture - learner desks",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "Mobilier - étagères à livres"
+                    "value": "Mobilier - pupitres d’élèves"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Mobilier - étagères à livres"
+                    "value": "EMIS - Mobilier - pupitres d’élèves"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_PRI_GER",
-            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
-            "denominatorDescription": "EMIS - Population Estimates 6-12 years",
-            "id": "ue2MWIQ0K8P",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Gross enrolment ratio (Primary)",
-            "numerator": "#{ue3QIMOAC7G}",
-            "numeratorDescription": "Total enrolment PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Gross enrolment ratio (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Taux brut de scolarisation (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Taux brut de scolarisation (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_TEACHING_MATERIALS_SUBJECT_1",
+            "code": "EMIS_PRI_LEARNERS_AGE_OVER_13",
+            "decimals": 0,
             "denominator": "1",
             "denominatorDescription": "1",
-            "id": "SCBqYDGRWH9",
+            "description": "Enrolments_PRI_13 years",
+            "id": "Mx9HloJUbif",
             "indicatorType": {
                 "id": "L6EUbA1KB6N"
             },
             "legendSets": [],
-            "name": "EMIS - Number of teaching materials, subject 1 (Primary)",
-            "numerator": "#{EceDxuePkVN.OQzFol67hEr} + #{EceDxuePkVN.BcIm1nGD39b} + #{EceDxuePkVN.EfLfFveCADL} + #{EceDxuePkVN.LFYjetGCsiA} + #{EceDxuePkVN.dynRuVO5aVq} + #{EceDxuePkVN.GoX14JTJcJP} + #{EceDxuePkVN.dJ5ium7XXOt}",
-            "numeratorDescription": "Total Teaching Materials Subject 1 PRI",
+            "name": "EMIS - Learners in the reporting year, aged over 13 (Primary)",
+            "numerator": "#{ue3QIMOAC7G.IrmWcNPqJkP} + #{ue3QIMOAC7G.hUVEdmXC2cX} + #{ue3QIMOAC7G.max8haSAhAk} + #{ue3QIMOAC7G.iDlbaVZV9ni} + #{ue3QIMOAC7G.GyHINta9Ngf} + #{ue3QIMOAC7G.VeOVj2GmrFI} + #{ue3QIMOAC7G.ilKnPX7OURs} + #{ue3QIMOAC7G.ds9kmxoTxTG} + #{ue3QIMOAC7G.jaVYxQSw9H2} + #{ue3QIMOAC7G.nUMq0W4vKiJ} + #{ue3QIMOAC7G.KET6QXL4yBO} + #{ue3QIMOAC7G.sQVcet6tDbP} + #{ue3QIMOAC7G.elDPJmuqvN4} + #{ue3QIMOAC7G.Kpi6SsBCrtD}",
+            "numeratorDescription": "Enrolments_PRI_>13 years",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21632,17 +21205,17 @@
                 },
                 "users": {}
             },
-            "shortName": "Teaching materials, subject 1 (PRI)",
+            "shortName": "Learners, aged over 13 (PRI)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Nombre de matériels pédagogiques, matière 1 (Primaire)"
+                    "property": "SHORT_NAME",
+                    "value": "Apprenants, plus de 13 ans (Primaire)"
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Matériels pédagogiques, matière 1 (Primaire)"
+                    "property": "NAME",
+                    "value": "EMIS - Apprenants durant l’année de rapport, plus de 13 ans (Primaire)"
                 }
             ]
         },
@@ -21690,6 +21263,147 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Pourcentage d’enfants en surâge pour la classe, niveau 2 (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_SNE_INFRASTRUCTURE",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "VyjxX8BJrSr",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - adapted infrastructure and materials for learners with disabilities",
+            "numerator": "#{oSfcBfzVxfc}",
+            "numeratorDescription": "Number of schools with access to Infrastructure for special needs",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with adapted SNE infrastructure",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec infrastructures adaptées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - infrastructures et matériels adaptés aux apprenants handicapés"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_DRINKING_WATER",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "EfWEQE3AmVl",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - basic drinking water",
+            "numerator": "#{b0YUzqNJf5v}",
+            "numeratorDescription": "Number of schools with access to Drinking water",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with basic drinking water",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - eau potable de base"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec eau potable de base"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_ELECTRICITY",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "gGAZJ8xtPOr",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - electricity",
+            "numerator": "#{jsIM64TwSUm}",
+            "numeratorDescription": "Number of schools with access to electricity",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with electricity",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - électricité"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec électricité"
                 }
             ]
         },
@@ -21744,102 +21458,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_PRI_REPEATERS_LEVEL_5",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "y8ZpzTdCuzb",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Repeaters in the reporting year, level 5 (Primary)",
-            "numerator": "#{UxaMoIg2SIr.CbtpSLVKKbl} + #{UxaMoIg2SIr.hV9sNe4fq2w}",
-            "numeratorDescription": "Repeaters Level 5 PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Repeaters, level 5 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 5 (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Redoublants, niveau 5 (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_REPEATERS_LEVEL_6",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "GzCCqy2sDHO",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Repeaters in the reporting year, level 6 (Primary)",
-            "numerator": "#{UxaMoIg2SIr.qFlcEcXouMA} + #{UxaMoIg2SIr.yp3QpMkj6Dw}",
-            "numeratorDescription": "Repeaters Level 6 PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Repeaters, level 6 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Redoublants, niveau 6 (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 6 (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "EMIS_PRI_REPETITION_RATE",
             "denominator": "#{ue3QIMOAC7G}.periodOffset(-1)",
             "denominatorDescription": "The number of pupils from the same cohort enrolled in the same grade in the previous school year",
@@ -21881,6 +21499,53 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Taux de redoublement (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_SHARED_FACILITY_SICKBAY",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "rfwzMomL1DJ",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - School facilities - sickbay",
+            "numerator": "#{ubGe58sPoXN.dva72ooQzOq} + #{ubGe58sPoXN.vHTkyK9g967}",
+            "numeratorDescription": "SNE_USEC_Sickbay",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "School facilities - sickbay",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Installations scolaires - infirmerie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Installations scolaires - infirmerie"
                 }
             ]
         }
@@ -21986,6 +21651,21 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FFA500",
+                    "endValue": 70.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HtZiaMuVako",
+                    "name": "Average",
+                    "sharing": {
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 30.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#23590B",
                     "endValue": 30.0,
                     "favorite": false,
@@ -22012,21 +21692,6 @@
                         "users": {}
                     },
                     "startValue": 70.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FFA500",
-                    "endValue": 70.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "HtZiaMuVako",
-                    "name": "Average",
-                    "sharing": {
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 30.0,
                     "translations": []
                 }
             ],
@@ -22098,7 +21763,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "OuiNon (1/0)"
+                    "value": "Oui/Non (1/0)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -22114,8 +21779,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 2,
-            "translations": []
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Non"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -22125,8 +21796,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 1,
-            "translations": []
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Oui"
+                }
+            ]
         }
     ],
     "organisationUnitGroupSets": [],
@@ -22183,7 +21860,7 @@
         "description": "EMIS Primary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T093519",
+        "lastUpdated": "20260915T160132",
         "locale": "en",
         "name": "EMIS_AGG_PRI_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -22623,7 +22300,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -22651,7 +22334,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -22679,7 +22368,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
