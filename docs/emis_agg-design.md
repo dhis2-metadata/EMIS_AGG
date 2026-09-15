@@ -143,7 +143,7 @@ Key analytics include:
 
 The dashboard is intended to provide decision-makers with a consolidated view of education system performance and support evidence-based planning and SDG4 reporting.
 
-![](images/sdg4.png)
+![](resources/images/sdg4.png)
 
 ## 9.Intended Users
 | User | Primary Responsibilities |
