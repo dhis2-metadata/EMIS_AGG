@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -70,7 +64,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines (Jalons du développement)"
+                    "value": "Domaines (jalons du développement)"
                 }
             ]
         },
@@ -125,7 +119,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge de la DPE (<3 - >6 ans)"
+                    "value": "Âge maternelle (< 3 - > 6 ans)"
                 }
             ]
         },
@@ -171,7 +165,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de développement de la petite enfance"
+                    "value": "Niveau maternelle"
                 }
             ]
         },
@@ -216,7 +210,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -258,7 +252,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -306,7 +300,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de handicap"
+                    "value": "Degré de handicap"
                 }
             ]
         },
@@ -437,7 +431,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -504,7 +498,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge PRI (<6 - >13 ans)"
+                    "value": "Âge primaire (< 6 - > 13 ans)"
                 }
             ]
         },
@@ -562,7 +556,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Note de PRI"
+                    "value": "Niveau primaire"
                 }
             ]
         },
@@ -660,7 +654,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines SNE"
+                    "value": "Domaines de besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -714,7 +708,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -763,7 +757,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet"
+                    "value": "Matière"
                 }
             ]
         },
@@ -809,7 +803,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Positions de toilettes par sexe"
+                    "value": "Sexe (cabines de latrines)"
                 }
             ]
         }
@@ -826,19 +820,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -877,7 +864,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines/Sexe"
+                    "value": "Domaines / Sexe"
                 }
             ]
         },
@@ -921,7 +908,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau DPE/Âge DPE (<3 - >6 ans)/Sexe"
+                    "value": "Niveau maternelle / Âge maternelle (< 3 - > 6 ans) / Sexe"
                 }
             ]
         },
@@ -962,7 +949,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau/Sexe de l'EPE"
+                    "value": "Niveau maternelle / Sexe"
                 }
             ]
         },
@@ -1006,7 +993,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de DPE / Domaine de l'ÉNE / Sexe"
+                    "value": "Niveau maternelle / Domaine BES / Sexe"
                 }
             ]
         },
@@ -1043,7 +1030,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -1080,7 +1067,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -1120,7 +1107,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Nationalité/Grade ECD"
+                    "value": "Nationalité / Niveau maternelle"
                 }
             ]
         },
@@ -1161,7 +1148,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -1205,7 +1192,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau PRI / Âge PRI (<6 - >13 ans) / Sexe"
+                    "value": "Niveau primaire / Âge primaire (< 6 - > 13 ans) / Sexe"
                 }
             ]
         },
@@ -1286,7 +1273,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques / niveau de handicap / sexe"
+                    "value": "Besoins éducatifs spéciaux / Degré de handicap / Sexe"
                 }
             ]
         },
@@ -1327,7 +1314,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet/niveau d'éducation de la petite enfance"
+                    "value": "Matière / Niveau maternelle"
                 }
             ]
         },
@@ -1361,7 +1348,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (cabines de latrines)"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -1786,10 +1779,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -1804,10 +1797,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "MhJfImsjR9r"
+                    "id": "Dd487guoOmX"
                 },
                 {
-                    "id": "Dd487guoOmX"
+                    "id": "MhJfImsjR9r"
                 }
             ],
             "id": "AJZDLW4Litx",
@@ -2050,10 +2043,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "ys7j8eXF3hS"
                 },
                 {
-                    "id": "ys7j8eXF3hS"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "gyUoHswvAxA",
@@ -2086,10 +2079,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "UDax5BE0lvG"
                 },
                 {
-                    "id": "UDax5BE0lvG"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "UzqvqBD42QF",
@@ -5158,48 +5151,6 @@
             },
             "categoryOptions": [
                 {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                }
-            ],
-            "id": "A0FT06AIXRI",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "irh35xv1dG7",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
                     "id": "ynJYpoaorSz"
                 },
                 {
@@ -5254,6 +5205,48 @@
             "id": "VqIXUpMLs7o",
             "ignoreApproval": false,
             "name": "Level 1, Self-care, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "qiTbFXUvC1Y"
+            },
+            "categoryOptions": [
+                {
+                    "id": "MhJfImsjR9r"
+                },
+                {
+                    "id": "QWrjOCytRuS"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "FS2IW1MHNHk",
+            "ignoreApproval": false,
+            "name": "Level 1, Self-care, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "qiTbFXUvC1Y"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "MhJfImsjR9r"
+                },
+                {
+                    "id": "WGUbjiajdlc"
+                }
+            ],
+            "id": "eTNcNIEOqcc",
+            "ignoreApproval": false,
+            "name": "Level 1, Vision, Female",
             "translations": []
         },
         {
@@ -6973,48 +6966,6 @@
                     "id": "MhJfImsjR9r"
                 },
                 {
-                    "id": "QWrjOCytRuS"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "FS2IW1MHNHk",
-            "ignoreApproval": false,
-            "name": "Level 1, Self-care, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
-                    "id": "WGUbjiajdlc"
-                }
-            ],
-            "id": "eTNcNIEOqcc",
-            "ignoreApproval": false,
-            "name": "Level 1, Vision, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
                     "id": "WGUbjiajdlc"
                 },
                 {
@@ -7168,48 +7119,6 @@
             "id": "YObTfCJ8vn7",
             "ignoreApproval": false,
             "name": "Level 2, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                }
-            ],
-            "id": "yk6roRHXlBt",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "VDNrFX0MAgs",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -7503,48 +7412,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                }
-            ],
-            "id": "r60EeKxnYWZ",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "qiTbFXUvC1Y"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "zoGXDalMAv0",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "cmmUFErUmai"
             },
             "categoryOptions": [
@@ -7684,88 +7551,6 @@
             "id": "tlIg9R4blJT",
             "ignoreApproval": false,
             "name": "Level 3, Vision, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "dzwhPSXTTMG"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "QLixdOHOANo"
-                }
-            ],
-            "id": "iQYnSgxxO4i",
-            "ignoreApproval": false,
-            "name": "Psychosocial wellbeing, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "dzwhPSXTTMG"
-            },
-            "categoryOptions": [
-                {
-                    "id": "QLixdOHOANo"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "mWTHzHecABk",
-            "ignoreApproval": false,
-            "name": "Psychosocial wellbeing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "categoryOptions": [
-                {
-                    "id": "xYerKDKCefk"
-                }
-            ],
-            "code": "default",
-            "id": "HllvX50cXC0",
-            "ignoreApproval": false,
-            "name": "default",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "vrOtGTgqBLP"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                }
-            ],
-            "id": "MdQ3V3nlBM8",
-            "ignoreApproval": false,
-            "name": "Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "vrOtGTgqBLP"
-            },
-            "categoryOptions": [
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "WYho0kkh88k",
-            "ignoreApproval": false,
-            "name": "Male",
             "translations": []
         },
         {
@@ -7913,6 +7698,88 @@
             "id": "Uo3uFIdTkqo",
             "ignoreApproval": false,
             "name": "Mobility, Some difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "dzwhPSXTTMG"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "QLixdOHOANo"
+                }
+            ],
+            "id": "iQYnSgxxO4i",
+            "ignoreApproval": false,
+            "name": "Psychosocial wellbeing, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "dzwhPSXTTMG"
+            },
+            "categoryOptions": [
+                {
+                    "id": "QLixdOHOANo"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "mWTHzHecABk",
+            "ignoreApproval": false,
+            "name": "Psychosocial wellbeing, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "name": "default",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "vrOtGTgqBLP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                }
+            ],
+            "id": "MdQ3V3nlBM8",
+            "ignoreApproval": false,
+            "name": "Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "vrOtGTgqBLP"
+            },
+            "categoryOptions": [
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "WYho0kkh88k",
+            "ignoreApproval": false,
+            "name": "Male",
             "translations": []
         },
         {
@@ -9704,40 +9571,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LEARNING/UNDERSTANDING",
-            "id": "UkapwFg1K4o",
-            "name": "Learning / Understanding",
-            "organisationUnits": [],
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-rw----",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-rw----",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-r-----",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learning / Understanding",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Apprentissage / Compréhension"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "LEVEL_1",
             "id": "MhJfImsjR9r",
             "name": "Level 1",
@@ -10428,10 +10261,10 @@
                     "id": "PjEjLyxMaic"
                 },
                 {
-                    "id": "GGpKeEzpU02"
+                    "id": "jsIM64TwSUm"
                 },
                 {
-                    "id": "jsIM64TwSUm"
+                    "id": "GGpKeEzpU02"
                 },
                 {
                     "id": "Bo2Yheh4lGl"
@@ -10464,10 +10297,10 @@
                     "id": "LGhYlJG3iKR"
                 },
                 {
-                    "id": "bpoGp9rHNgg"
+                    "id": "L1oRLuJzDXN"
                 },
                 {
-                    "id": "L1oRLuJzDXN"
+                    "id": "bpoGp9rHNgg"
                 },
                 {
                     "id": "NpYggqCm73f"
@@ -10575,7 +10408,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'outil Maternelle"
+                    "value": "SIGE - Éléments de données de l’outil Maternelle"
                 }
             ]
         }
@@ -12860,31 +12693,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "sPbxD030J1e"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NpYggqCm73f"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UZwS9SmzGtG"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RFjOyCAqPuG"
+                        "id": "Xq3am9DbPPF"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12900,255 +12709,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "b0YUzqNJf5v"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m5SWa8mHISs"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WxJPCBD8obF"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bpoGp9rHNgg"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KWEFGHXPSML"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L1oRLuJzDXN"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PjEjLyxMaic"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "OI0ZKLGkf58"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hTK3svZ5KHv"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KIvawJZGonK"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YhZdfCW431Y"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rZsnwLbpZGf"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Xq3am9DbPPF"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KJrMNhHKpFj"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GGpKeEzpU02"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SQlUksosv0p"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YbYRAEz6JWR"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Cm2qphUpUuS"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mfL7BeDQSTJ"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "AI9wNlHDBMm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M9Gifisi0Ur"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bo2Yheh4lGl"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "v02n6FHpyKe"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JZdXb3Ul2fK"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ubGe58sPoXN"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "d2SQG33sn26"
+                        "id": "RFjOyCAqPuG"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -13164,7 +12725,119 @@
                 },
                 {
                     "dataElement": {
-                        "id": "uIOr3Fw1ikM"
+                        "id": "sPbxD030J1e"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iYaJT96ZZ3T"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "d2SQG33sn26"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KIvawJZGonK"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UZwS9SmzGtG"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JPbjV0Mjxvw"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hTK3svZ5KHv"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Cm2qphUpUuS"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YbYRAEz6JWR"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LGhYlJG3iKR"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rZsnwLbpZGf"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ubGe58sPoXN"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SQlUksosv0p"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AI9wNlHDBMm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -13173,6 +12846,166 @@
                 {
                     "dataElement": {
                         "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NpYggqCm73f"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GGpKeEzpU02"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bo2Yheh4lGl"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bpoGp9rHNgg"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jsIM64TwSUm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KJrMNhHKpFj"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YhZdfCW431Y"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OI0ZKLGkf58"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mfL7BeDQSTJ"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L1oRLuJzDXN"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WxJPCBD8obF"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KWEFGHXPSML"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M9Gifisi0Ur"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b0YUzqNJf5v"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JZdXb3Ul2fK"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "v02n6FHpyKe"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uIOr3Fw1ikM"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PjEjLyxMaic"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -13253,10 +13086,10 @@
                     "id": "MAnVEteipi8"
                 },
                 {
-                    "id": "JQJtU9Qyxsy"
+                    "id": "V40qo7ThbcU"
                 },
                 {
-                    "id": "V40qo7ThbcU"
+                    "id": "JQJtU9Qyxsy"
                 },
                 {
                     "id": "M0DJzivHmDD"
@@ -13307,11 +13140,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils SIGE - Outil de la petite enfance"
+                    "value": "Boîte à outils SIGE - Outil Maternelle"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 76
+            "version": 90
         }
     ],
     "documents": [],
@@ -13333,10 +13166,10 @@
                     "id": "L5G3r4w947O"
                 },
                 {
-                    "id": "M2YBR9WK198"
+                    "id": "w03GbHQAeXa"
                 },
                 {
-                    "id": "w03GbHQAeXa"
+                    "id": "M2YBR9WK198"
                 },
                 {
                     "id": "GHzXG1lFAVF"
@@ -13372,10 +13205,10 @@
                     "id": "pwoTGjM6FHg"
                 },
                 {
-                    "id": "FoJNqTjGLFT"
+                    "id": "IcIs1Y9FXHQ"
                 },
                 {
-                    "id": "IcIs1Y9FXHQ"
+                    "id": "FoJNqTjGLFT"
                 },
                 {
                     "id": "IRp9DV9iyOP"
@@ -13462,10 +13295,10 @@
                     "id": "rfwzMomL1DJ"
                 },
                 {
-                    "id": "gGAZJ8xtPOr"
+                    "id": "i6Q56SRFfhK"
                 },
                 {
-                    "id": "i6Q56SRFfhK"
+                    "id": "gGAZJ8xtPOr"
                 },
                 {
                     "id": "kTGiQC0QAwl"
@@ -13527,7 +13360,13 @@
                 },
                 "users": {}
             },
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Indicateurs de l’outil Maternelle"
+                }
+            ]
         }
     ],
     "indicatorTypes": [
@@ -16609,7 +16448,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "OuiNon (1/0)"
+                    "value": "Oui/Non (1/0)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -16625,8 +16464,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 2,
-            "translations": []
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Non"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -16636,8 +16481,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 1,
-            "translations": []
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Oui"
+                }
+            ]
         }
     ],
     "organisationUnitGroupSets": [],
@@ -16694,7 +16545,7 @@
         "description": "EMIS ECD Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T093519",
+        "lastUpdated": "20260915T160132",
         "locale": "en",
         "name": "EMIS_AGG_ECD_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -17128,7 +16979,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -17156,7 +17013,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -17184,7 +17047,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
