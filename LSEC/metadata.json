@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -69,7 +63,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -111,7 +105,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -159,7 +153,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de handicap"
+                    "value": "Degré de handicap"
                 }
             ]
         },
@@ -220,7 +214,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge LSEC (<12 - >17 ans)"
+                    "value": "Âge collège (< 12 - > 17 ans)"
                 }
             ]
         },
@@ -269,7 +263,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC"
+                    "value": "Niveau collège"
                 }
             ]
         },
@@ -400,7 +394,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -467,7 +461,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge PRI (<6 - >13 ans)"
+                    "value": "Âge primaire (< 6 - > 13 ans)"
                 }
             ]
         },
@@ -525,7 +519,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Note de PRI"
+                    "value": "Niveau primaire"
                 }
             ]
         },
@@ -669,7 +663,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines SNE"
+                    "value": "Domaines de besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -723,7 +717,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -772,7 +766,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet"
+                    "value": "Matière"
                 }
             ]
         },
@@ -818,7 +812,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Positions de toilettes par sexe"
+                    "value": "Sexe (cabines de latrines)"
                 }
             ]
         }
@@ -835,19 +829,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -882,7 +869,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -919,7 +906,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -960,7 +947,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge des LSEC (<12 - >17 ans)/Sexe"
+                    "value": "Âge collège (< 12 - > 17 ans) / Sexe"
                 }
             ]
         },
@@ -1004,7 +991,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC/Âge LSEC (<12 - >17 ans)/Sexe"
+                    "value": "Niveau collège / Âge collège (< 12 - > 17 ans) / Sexe"
                 }
             ]
         },
@@ -1045,7 +1032,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de scolarité/Sexe de l'ÉSEC"
+                    "value": "Niveau collège / Sexe"
                 }
             ]
         },
@@ -1089,7 +1076,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC / Domaine SNE / Sexe"
+                    "value": "Niveau collège / Domaine BES / Sexe"
                 }
             ]
         },
@@ -1129,7 +1116,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Nationalité/Grade LSEC"
+                    "value": "Nationalité / Niveau collège"
                 }
             ]
         },
@@ -1170,7 +1157,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -1214,7 +1201,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau PRI / Âge PRI (<6 - >13 ans) / Sexe"
+                    "value": "Niveau primaire / Âge primaire (< 6 - > 13 ans) / Sexe"
                 }
             ]
         },
@@ -1255,7 +1242,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de compétence Sexe"
+                    "value": "Niveau de compétence / Sexe"
                 }
             ]
         },
@@ -1336,7 +1323,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques / niveau de handicap / sexe"
+                    "value": "Besoins éducatifs spéciaux / Degré de handicap / Sexe"
                 }
             ]
         },
@@ -1377,7 +1364,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet/Niveau LSEC"
+                    "value": "Matière / Niveau collège"
                 }
             ]
         },
@@ -1411,7 +1398,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (cabines de latrines)"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -1422,10 +1415,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "MhJfImsjR9r"
+                    "id": "Dd487guoOmX"
                 },
                 {
-                    "id": "Dd487guoOmX"
+                    "id": "MhJfImsjR9r"
                 }
             ],
             "id": "vbGb0MnCgk9",
@@ -3282,10 +3275,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "ys7j8eXF3hS"
                 },
                 {
-                    "id": "ys7j8eXF3hS"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "LNOlwqhVK8i",
@@ -3318,10 +3311,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "TMvYMcamflE"
+                    "id": "UDax5BE0lvG"
                 },
                 {
-                    "id": "UDax5BE0lvG"
+                    "id": "TMvYMcamflE"
                 }
             ],
             "id": "iuKtj0pkZpL",
@@ -3759,10 +3752,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -6686,48 +6679,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                }
-            ],
-            "id": "YiDNHxq0Aw8",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "sDPCHU20tvu",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "gP9t4oXoxeA"
             },
             "categoryOptions": [
@@ -7011,48 +6962,6 @@
             "id": "cqyWTqX03vK",
             "ignoreApproval": false,
             "name": "Level 2, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                }
-            ],
-            "id": "Y0m3bnj0qwK",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "tgDg7xhgDG2",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -7346,48 +7255,6 @@
         {
             "attributeValues": [],
             "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                }
-            ],
-            "id": "UgEMD0JaGrz",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "TMvYMcamflE"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "iJK7szw63rO",
-            "ignoreApproval": false,
-            "name": "Level 3, Learning / Understanding, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
                 "id": "gP9t4oXoxeA"
             },
             "categoryOptions": [
@@ -7511,6 +7378,111 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "TMvYMcamflE"
+                },
+                {
+                    "id": "WGUbjiajdlc"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "seWDJeSWIWV",
+            "ignoreApproval": false,
+            "name": "Level 3, Vision, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "enLhxibRdIY",
+            "ignoreApproval": false,
+            "name": "Level 4, Cognition / remembering, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "Z9FjNsf9UQn",
+            "ignoreApproval": false,
+            "name": "Level 4, Cognition / remembering, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "tbhrcGWzVeU"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "ECzYcjfUMIo",
+            "ignoreApproval": false,
+            "name": "Level 4, Communication, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "tbhrcGWzVeU"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "sRsQnz4Z8Lf",
+            "ignoreApproval": false,
+            "name": "Level 4, Communication, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "gP9t4oXoxeA"
             },
             "categoryOptions": [
@@ -7524,6 +7496,48 @@
             "id": "mR5Eo7FIxuH",
             "ignoreApproval": false,
             "name": "Level 4, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                }
+            ],
+            "id": "TH5bULusuwf",
+            "ignoreApproval": false,
+            "name": "Level 4, Hearing, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "lfjGr9hQdcd"
+            },
+            "categoryOptions": [
+                {
+                    "id": "miSVWQVu1gl"
+                },
+                {
+                    "id": "DusJpbNnyvt"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "O7q9NEAAKUw",
+            "ignoreApproval": false,
+            "name": "Level 4, Hearing, Male",
             "translations": []
         },
         {
@@ -7905,6 +7919,132 @@
             "id": "tUSgrcuHm6e",
             "ignoreApproval": false,
             "name": "<12 years, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "rbjLVDOP6ln"
+                },
+                {
+                    "id": "ynJYpoaorSz"
+                }
+            ],
+            "id": "fY9DcN1P0Bg",
+            "ignoreApproval": false,
+            "name": "12 years, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "FiooUxiNZLL"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "ONieEgDBNmc",
+            "ignoreApproval": false,
+            "name": "<12 years, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "rbjLVDOP6ln"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "xUeh5hCQc1z",
+            "ignoreApproval": false,
+            "name": "12 years, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "X1VjhyqNwCx"
+                },
+                {
+                    "id": "ynJYpoaorSz"
+                }
+            ],
+            "id": "wda5lPA5EzS",
+            "ignoreApproval": false,
+            "name": "13 years, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "X1VjhyqNwCx"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "ZoymZQ0Ezxc",
+            "ignoreApproval": false,
+            "name": "13 years, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "rVkKLyBqLVB"
+                },
+                {
+                    "id": "ynJYpoaorSz"
+                }
+            ],
+            "id": "RLyrK9YE26m",
+            "ignoreApproval": false,
+            "name": "14 years, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZQ0lRLnGeR3"
+            },
+            "categoryOptions": [
+                {
+                    "id": "rVkKLyBqLVB"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "ubfTK62yjSp",
+            "ignoreApproval": false,
+            "name": "14 years, Male",
             "translations": []
         },
         {
@@ -8409,153 +8549,6 @@
             "id": "Q6CfPVFZpzx",
             "ignoreApproval": false,
             "name": "Hearing, Some difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "TMvYMcamflE"
-                },
-                {
-                    "id": "WGUbjiajdlc"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "seWDJeSWIWV",
-            "ignoreApproval": false,
-            "name": "Level 3, Vision, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                }
-            ],
-            "id": "enLhxibRdIY",
-            "ignoreApproval": false,
-            "name": "Level 4, Cognition / remembering, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "Z9FjNsf9UQn",
-            "ignoreApproval": false,
-            "name": "Level 4, Cognition / remembering, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "tbhrcGWzVeU"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                }
-            ],
-            "id": "ECzYcjfUMIo",
-            "ignoreApproval": false,
-            "name": "Level 4, Communication, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "tbhrcGWzVeU"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "sRsQnz4Z8Lf",
-            "ignoreApproval": false,
-            "name": "Level 4, Communication, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                }
-            ],
-            "id": "TH5bULusuwf",
-            "ignoreApproval": false,
-            "name": "Level 4, Hearing, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "lfjGr9hQdcd"
-            },
-            "categoryOptions": [
-                {
-                    "id": "miSVWQVu1gl"
-                },
-                {
-                    "id": "DusJpbNnyvt"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "O7q9NEAAKUw",
-            "ignoreApproval": false,
-            "name": "Level 4, Hearing, Male",
             "translations": []
         },
         {
@@ -9294,132 +9287,6 @@
             "id": "WnNrKUhsmmP",
             "ignoreApproval": false,
             "name": "Vision, Some difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "rbjLVDOP6ln"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                }
-            ],
-            "id": "fY9DcN1P0Bg",
-            "ignoreApproval": false,
-            "name": "12 years, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "FiooUxiNZLL"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "ONieEgDBNmc",
-            "ignoreApproval": false,
-            "name": "<12 years, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "rbjLVDOP6ln"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "xUeh5hCQc1z",
-            "ignoreApproval": false,
-            "name": "12 years, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "X1VjhyqNwCx"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                }
-            ],
-            "id": "wda5lPA5EzS",
-            "ignoreApproval": false,
-            "name": "13 years, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "X1VjhyqNwCx"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "ZoymZQ0Ezxc",
-            "ignoreApproval": false,
-            "name": "13 years, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "rVkKLyBqLVB"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                }
-            ],
-            "id": "RLyrK9YE26m",
-            "ignoreApproval": false,
-            "name": "14 years, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "ZQ0lRLnGeR3"
-            },
-            "categoryOptions": [
-                {
-                    "id": "rVkKLyBqLVB"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "ubfTK62yjSp",
-            "ignoreApproval": false,
-            "name": "14 years, Male",
             "translations": []
         },
         {
@@ -11010,40 +10877,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LEARNING/UNDERSTANDING",
-            "id": "UkapwFg1K4o",
-            "name": "Learning / Understanding",
-            "organisationUnits": [],
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-rw----",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-rw----",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-r-----",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learning / Understanding",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Apprentissage / Compréhension"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "LEVEL_1",
             "id": "MhJfImsjR9r",
             "name": "Level 1",
@@ -11805,25 +11638,7 @@
                     "id": "PInjnxNIwbn"
                 },
                 {
-                    "id": "jsIM64TwSUm"
-                },
-                {
-                    "id": "Bo2Yheh4lGl"
-                },
-                {
                     "id": "Pb97gs6xIlm"
-                },
-                {
-                    "id": "ZGcntaEgM3Y"
-                },
-                {
-                    "id": "FwBwE2Gw30d"
-                },
-                {
-                    "id": "v02n6FHpyKe"
-                },
-                {
-                    "id": "M9Gifisi0Ur"
                 },
                 {
                     "id": "iuQ2iVheUjf"
@@ -11847,9 +11662,6 @@
                     "id": "laqgHF46kXb"
                 },
                 {
-                    "id": "WxJPCBD8obF"
-                },
-                {
                     "id": "ubGe58sPoXN"
                 },
                 {
@@ -11859,43 +11671,10 @@
                     "id": "UZwS9SmzGtG"
                 },
                 {
-                    "id": "m5SWa8mHISs"
-                },
-                {
-                    "id": "JPbjV0Mjxvw"
-                },
-                {
-                    "id": "Cm2qphUpUuS"
-                },
-                {
-                    "id": "Xq3am9DbPPF"
-                },
-                {
-                    "id": "NZjuMBe2nfI"
-                },
-                {
-                    "id": "gAncEUIftwu"
-                },
-                {
-                    "id": "b0YUzqNJf5v"
-                },
-                {
                     "id": "GETYppKCKms"
                 },
                 {
                     "id": "KJrMNhHKpFj"
-                },
-                {
-                    "id": "pIZPyer2VsH"
-                },
-                {
-                    "id": "KIvawJZGonK"
-                },
-                {
-                    "id": "rZsnwLbpZGf"
-                },
-                {
-                    "id": "dNYaMBjAWwO"
                 },
                 {
                     "id": "j7FjvpR3C30"
@@ -11920,6 +11699,60 @@
                 },
                 {
                     "id": "hTK3svZ5KHv"
+                },
+                {
+                    "id": "jsIM64TwSUm"
+                },
+                {
+                    "id": "Bo2Yheh4lGl"
+                },
+                {
+                    "id": "ZGcntaEgM3Y"
+                },
+                {
+                    "id": "FwBwE2Gw30d"
+                },
+                {
+                    "id": "v02n6FHpyKe"
+                },
+                {
+                    "id": "M9Gifisi0Ur"
+                },
+                {
+                    "id": "WxJPCBD8obF"
+                },
+                {
+                    "id": "m5SWa8mHISs"
+                },
+                {
+                    "id": "JPbjV0Mjxvw"
+                },
+                {
+                    "id": "Cm2qphUpUuS"
+                },
+                {
+                    "id": "Xq3am9DbPPF"
+                },
+                {
+                    "id": "NZjuMBe2nfI"
+                },
+                {
+                    "id": "gAncEUIftwu"
+                },
+                {
+                    "id": "b0YUzqNJf5v"
+                },
+                {
+                    "id": "pIZPyer2VsH"
+                },
+                {
+                    "id": "KIvawJZGonK"
+                },
+                {
+                    "id": "rZsnwLbpZGf"
+                },
+                {
+                    "id": "dNYaMBjAWwO"
                 },
                 {
                     "id": "YbYRAEz6JWR"
@@ -11955,7 +11788,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'outil Collège"
+                    "value": "SIGE - Éléments de données de l’outil Collège"
                 }
             ]
         }
@@ -14399,7 +14232,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "WxJPCBD8obF"
+                        "id": "hTK3svZ5KHv"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14407,7 +14240,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "cpxf5p43932"
+                        "id": "gAncEUIftwu"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14415,7 +14248,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "b0YUzqNJf5v"
+                        "id": "Xq3am9DbPPF"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14423,7 +14256,39 @@
                 },
                 {
                     "dataElement": {
-                        "id": "j7FjvpR3C30"
+                        "id": "L1oRLuJzDXN"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Cm2qphUpUuS"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iYaJT96ZZ3T"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UZwS9SmzGtG"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14439,23 +14304,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Qd0PvdDRcSC"
+                        "id": "LGhYlJG3iKR"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14471,7 +14320,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "rZsnwLbpZGf"
+                        "id": "ZGcntaEgM3Y"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14479,7 +14328,71 @@
                 },
                 {
                     "dataElement": {
-                        "id": "SQlUksosv0p"
+                        "id": "M9Gifisi0Ur"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pIZPyer2VsH"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "dNYaMBjAWwO"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Mhxra2f0fhr"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jsIM64TwSUm"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uIOr3Fw1ikM"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PInjnxNIwbn"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14503,111 +14416,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZGcntaEgM3Y"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hTK3svZ5KHv"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "dNYaMBjAWwO"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KJrMNhHKpFj"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L1oRLuJzDXN"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Mhxra2f0fhr"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KIvawJZGonK"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pIZPyer2VsH"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m5SWa8mHISs"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iuQ2iVheUjf"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PInjnxNIwbn"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M9Gifisi0Ur"
+                        "id": "FwBwE2Gw30d"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14623,7 +14432,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "FwBwE2Gw30d"
+                        "id": "b0YUzqNJf5v"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14631,7 +14440,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "laqgHF46kXb"
+                        "id": "SQlUksosv0p"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14639,7 +14448,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ubGe58sPoXN"
+                        "id": "WxJPCBD8obF"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14647,39 +14456,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UZwS9SmzGtG"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uIOr3Fw1ikM"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HfqlqikDZMm"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "LnnobutLw20"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gAncEUIftwu"
+                        "id": "KIvawJZGonK"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14695,6 +14472,22 @@
                 },
                 {
                     "dataElement": {
+                        "id": "KJrMNhHKpFj"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "laqgHF46kXb"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "NZjuMBe2nfI"
                     },
                     "dataSet": {
@@ -14703,7 +14496,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Cm2qphUpUuS"
+                        "id": "iuQ2iVheUjf"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14711,7 +14504,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Xq3am9DbPPF"
+                        "id": "cpxf5p43932"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14719,7 +14512,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "jsIM64TwSUm"
+                        "id": "ubGe58sPoXN"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14727,7 +14520,47 @@
                 },
                 {
                     "dataElement": {
-                        "id": "n0wlUuIV7ff"
+                        "id": "HfqlqikDZMm"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "j7FjvpR3C30"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Qd0PvdDRcSC"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JPbjV0Mjxvw"
+                    },
+                    "dataSet": {
+                        "id": "LnnobutLw20"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rZsnwLbpZGf"
                     },
                     "dataSet": {
                         "id": "LnnobutLw20"
@@ -14754,19 +14587,19 @@
                     "id": "ip6g4C3EzCR"
                 },
                 {
-                    "id": "rg6s28CROFc"
-                },
-                {
                     "id": "nqskL1cAfk0"
                 },
                 {
-                    "id": "JCvBvT1lMDk"
+                    "id": "rg6s28CROFc"
+                },
+                {
+                    "id": "IcIs1Y9FXHQ"
                 },
                 {
                     "id": "FoJNqTjGLFT"
                 },
                 {
-                    "id": "IcIs1Y9FXHQ"
+                    "id": "JCvBvT1lMDk"
                 },
                 {
                     "id": "ib330Mvb5HW"
@@ -14775,10 +14608,10 @@
                     "id": "igfyV0rZ2uK"
                 },
                 {
-                    "id": "CuHxV9laV1R"
+                    "id": "UEpZjSfUXSv"
                 },
                 {
-                    "id": "UEpZjSfUXSv"
+                    "id": "CuHxV9laV1R"
                 },
                 {
                     "id": "inc6ifv058t"
@@ -14865,10 +14698,10 @@
                     "id": "eMIHjmLKaWA"
                 },
                 {
-                    "id": "pDWiZWBpAnU"
+                    "id": "hbCEkQa2Uon"
                 },
                 {
-                    "id": "hbCEkQa2Uon"
+                    "id": "pDWiZWBpAnU"
                 },
                 {
                     "id": "eYwxazSf6cG"
@@ -14910,11 +14743,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils du SIGE - Outil pour le premier cycle du secondaire"
+                    "value": "Boîte à outils SIGE - Outil Collège"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 93
+            "version": 107
         }
     ],
     "documents": [],
@@ -14949,28 +14782,28 @@
                     "id": "TzbLggzYX0y"
                 },
                 {
-                    "id": "bbOpsYSaYTW"
+                    "id": "ip6g4C3EzCR"
                 },
                 {
-                    "id": "ip6g4C3EzCR"
+                    "id": "bbOpsYSaYTW"
                 },
                 {
                     "id": "SgZ6vcf6Wni"
                 },
                 {
-                    "id": "rg6s28CROFc"
-                },
-                {
                     "id": "nqskL1cAfk0"
                 },
                 {
-                    "id": "JCvBvT1lMDk"
+                    "id": "rg6s28CROFc"
+                },
+                {
+                    "id": "IcIs1Y9FXHQ"
                 },
                 {
                     "id": "FoJNqTjGLFT"
                 },
                 {
-                    "id": "IcIs1Y9FXHQ"
+                    "id": "JCvBvT1lMDk"
                 },
                 {
                     "id": "ib330Mvb5HW"
@@ -14982,16 +14815,16 @@
                     "id": "jifuqctpqLV"
                 },
                 {
-                    "id": "CuHxV9laV1R"
-                },
-                {
                     "id": "UEpZjSfUXSv"
                 },
                 {
-                    "id": "inc6ifv058t"
+                    "id": "CuHxV9laV1R"
                 },
                 {
                     "id": "YjKZ9kU2q2r"
+                },
+                {
+                    "id": "inc6ifv058t"
                 },
                 {
                     "id": "Mcdr63bAZev"
@@ -15123,19 +14956,19 @@
                     "id": "VyjxX8BJrSr"
                 },
                 {
-                    "id": "r2Dyw9tou7n"
+                    "id": "EfWEQE3AmVl"
                 },
                 {
-                    "id": "EfWEQE3AmVl"
+                    "id": "r2Dyw9tou7n"
                 },
                 {
                     "id": "eMIHjmLKaWA"
                 },
                 {
-                    "id": "pDWiZWBpAnU"
+                    "id": "hbCEkQa2Uon"
                 },
                 {
-                    "id": "hbCEkQa2Uon"
+                    "id": "pDWiZWBpAnU"
                 },
                 {
                     "id": "Q1uYFAxug50"
@@ -15168,7 +15001,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs de l'outil Collège"
+                    "value": "SIGE - Indicateurs de l’outil Collège"
                 }
             ]
         }
@@ -18846,7 +18679,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "OuiNon (1/0)"
+                    "value": "Oui/Non (1/0)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -18862,8 +18695,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 2,
-            "translations": []
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Non"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -18873,8 +18712,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 1,
-            "translations": []
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Oui"
+                }
+            ]
         }
     ],
     "organisationUnitGroupSets": [],
@@ -18931,7 +18776,7 @@
         "description": "EMIS Lower Secondary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T093519",
+        "lastUpdated": "20260915T160132",
         "locale": "en",
         "name": "EMIS_AGG_LSEC_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -19371,7 +19216,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -19399,7 +19250,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -19427,7 +19284,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
