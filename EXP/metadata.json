@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -76,7 +70,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau d'études (Dépenses)"
+                    "value": "Niveau d’enseignement (dépenses)"
                 }
             ]
         },
@@ -119,7 +113,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Dépenses en services d'éducation"
+                    "value": "Dépenses de services éducatifs"
                 }
             ]
         }
@@ -136,19 +130,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -184,7 +171,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau d'éducation"
+                    "value": "Niveau d’enseignement"
                 }
             ]
         },
@@ -221,7 +208,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Dépenses en services éducatifs"
+                    "value": "Dépenses de services éducatifs"
                 }
             ]
         }
@@ -615,10 +602,10 @@
             "code": "EMIS_AGG_EXP",
             "dataElements": [
                 {
-                    "id": "gMFCY3rmMuz"
+                    "id": "gbMxMTai4CF"
                 },
                 {
-                    "id": "gbMxMTai4CF"
+                    "id": "gMFCY3rmMuz"
                 },
                 {
                     "id": "fbTVN7PtxHt"
@@ -654,7 +641,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données des dépenses nationales"
+                    "value": "SIGE - Éléments de données des dépenses nationales"
                 }
             ]
         }
@@ -889,7 +876,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "ocq6heBkfn1"
+                        "id": "fbTVN7PtxHt"
                     },
                     "dataSet": {
                         "id": "oihtCgOqgEi"
@@ -913,7 +900,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "fbTVN7PtxHt"
+                        "id": "ocq6heBkfn1"
                     },
                     "dataSet": {
                         "id": "oihtCgOqgEi"
@@ -960,11 +947,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils du SIGE - Dépenses nationales"
+                    "value": "Boîte à outils SIGE - Dépenses nationales"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 10
+            "version": 13
         }
     ],
     "documents": [],
@@ -990,10 +977,10 @@
                     "id": "xfpbwUxxlR1"
                 },
                 {
-                    "id": "lEIwfzHNaTg"
+                    "id": "Fc5cWbofwi6"
                 },
                 {
-                    "id": "Fc5cWbofwi6"
+                    "id": "lEIwfzHNaTg"
                 },
                 {
                     "id": "TrkXtVneDRg"
@@ -1023,7 +1010,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs des dépenses nationales"
+                    "value": "SIGE - Indicateurs des dépenses nationales"
                 }
             ]
         }
@@ -1389,7 +1376,7 @@
         "description": "EMIS National Expenditure",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T120739",
+        "lastUpdated": "20260916T095643",
         "locale": "en",
         "name": "EMIS_AGG_EXP_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -1463,7 +1450,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -1491,7 +1484,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -1519,7 +1518,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
