@@ -37774,68 +37774,68 @@
             "version": 102
         }
     ],
-  "documents": [
-    {
-      "id": "zmSrw59XnvY",
-      "name": "DHIS2 for Education microsite",
-      "url": "https://education.dhis2.org/",
-      "external": true,
-      "attachment": false,
-      "translations": [],
-      "attributeValues": [],
-      "sharing": {
-        "external": false,
-        "public": "r-------",
-        "users": {},
-        "userGroups": {}
-      }
-    },
-    {
-      "id": "l2mtQcpsOLY",
-      "name": "DHIS2 website",
-      "url": "https://dhis2.org/",
-      "external": true,
-      "attachment": false,
-      "translations": [],
-      "attributeValues": [],
-      "sharing": {
-        "external": false,
-        "public": "r-------",
-        "users": {},
-        "userGroups": {}
-      }
-    },
-    {
-      "id": "Y5Q2bzPxcLm",
-      "name": "UIS Database",
-      "url": "https://databrowser.uis.unesco.org/",
-      "external": true,
-      "attachment": false,
-      "translations": [],
-      "attributeValues": [],
-      "sharing": {
-        "external": false,
-        "public": "r-------",
-        "users": {},
-        "userGroups": {}
-      }
-    },
-    {
-      "id": "qArYgjmjMmR",
-      "name": "UIS questionnaires",
-      "url": "https://uis.unesco.org/uis-questionnaires",
-      "external": true,
-      "attachment": false,
-      "translations": [],
-      "attributeValues": [],
-      "sharing": {
-        "external": false,
-        "public": "r-------",
-        "users": {},
-        "userGroups": {}
-      }
-    }
-  ],
+    "documents": [
+        {
+            "id": "zmSrw59XnvY",
+            "name": "DHIS2 for Education microsite",
+            "url": "https://education.dhis2.org/",
+            "external": true,
+            "attachment": false,
+            "translations": [],
+            "attributeValues": [],
+            "sharing": {
+                "external": false,
+                "public": "r-------",
+                "users": {},
+                "userGroups": {}
+            }
+        },
+        {
+            "id": "l2mtQcpsOLY",
+            "name": "DHIS2 website",
+            "url": "https://dhis2.org/",
+            "external": true,
+            "attachment": false,
+            "translations": [],
+            "attributeValues": [],
+            "sharing": {
+                "external": false,
+                "public": "r-------",
+                "users": {},
+                "userGroups": {}
+            }
+        },
+        {
+            "id": "Y5Q2bzPxcLm",
+            "name": "UIS Database",
+            "url": "https://databrowser.uis.unesco.org/",
+            "external": true,
+            "attachment": false,
+            "translations": [],
+            "attributeValues": [],
+            "sharing": {
+                "external": false,
+                "public": "r-------",
+                "users": {},
+                "userGroups": {}
+            }
+        },
+        {
+            "id": "qArYgjmjMmR",
+            "name": "UIS questionnaires",
+            "url": "https://uis.unesco.org/uis-questionnaires",
+            "external": true,
+            "attachment": false,
+            "translations": [],
+            "attributeValues": [],
+            "sharing": {
+                "external": false,
+                "public": "r-------",
+                "users": {},
+                "userGroups": {}
+            }
+        }
+    ],
     "eventVisualizations": [],
     "indicatorGroupSets": [],
     "indicatorGroups": [
@@ -53671,37 +53671,45 @@
             "users": []
         }
     ],
-    "userRoles": [],
+    "userRoles": [
+        {
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "authorities": [],
+            "restrictions": [],
+            "sharing": {
+                "external": false,
+                "public": "r-------",
+                "users": {},
+                "userGroups": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d’utilisateur du package"
+                }
+            ]
+        }
+    ],
     "users": [
         {
-            "attributeValues": [],
-            "catDimensionConstraints": [],
-            "cogsDimensionConstraints": [],
-            "dataViewOrganisationUnits": [
-                {
-                    "id": "YQehZAhAhio"
-                }
-            ],
-            "disabled": true,
-            "externalAuth": false,
-            "firstName": "package",
             "id": "vUeLeQMSwhN",
-            "invitation": false,
-            "lastLogin": "2018-07-13T12:28:39.168",
-            "passwordLastUpdated": "2024-08-08T15:39:13.939",
-            "selfRegistered": false,
+            "username": "package_admin",
+            "firstName": "package",
             "surname": "admin",
-            "teiSearchOrganisationUnits": [
-                {
-                    "id": "YQehZAhAhio"
-                }
-            ],
+            "disabled": true,
             "userRoles": [
                 {
-                    "id": "yrB6vc5Ip3r"
+                    "id": "nCNR71ZbTHK"
                 }
             ],
-            "username": "package_admin"
+            "organisationUnits": [],
+            "dataViewOrganisationUnits": [],
+            "teiSearchOrganisationUnits": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "attributeValues": []
         }
     ],
     "validationNotificationTemplates": [],
