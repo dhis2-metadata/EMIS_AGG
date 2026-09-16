@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -72,7 +66,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de handicap"
+                    "value": "Degré de handicap"
                 }
             ]
         },
@@ -157,7 +151,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -255,7 +249,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines SNE"
+                    "value": "Domaines de besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -309,7 +303,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -358,7 +352,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet"
+                    "value": "Matière"
                 }
             ]
         },
@@ -431,7 +425,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge TERT (<16 - >25 ans)"
+                    "value": "Âge tertiaire (< 16 - > 25 ans)"
                 }
             ]
         },
@@ -486,7 +480,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Grade TERT"
+                    "value": "Niveau tertiaire"
                 }
             ]
         },
@@ -532,7 +526,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Positions de toilettes par sexe"
+                    "value": "Sexe (cabines de latrines)"
                 }
             ]
         }
@@ -549,19 +543,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -600,7 +587,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -681,7 +668,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques / niveau de handicap / sexe"
+                    "value": "Besoins éducatifs spéciaux / Degré de handicap / Sexe"
                 }
             ]
         },
@@ -722,7 +709,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet/Grade TERT"
+                    "value": "Matière / Niveau tertiaire"
                 }
             ]
         },
@@ -759,7 +746,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge tertiaire (< 16 - > 25 ans) / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -794,7 +787,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau tertiaire / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -832,7 +831,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau tertiaire / Domaine BES / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -870,7 +875,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau tertiaire / Âge tertiaire (< 16 - > 25 ans) / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -902,7 +913,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (cabines de latrines)"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -4057,10 +4074,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -4774,10 +4791,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "MhJfImsjR9r"
+                    "id": "Dd487guoOmX"
                 },
                 {
-                    "id": "Dd487guoOmX"
+                    "id": "MhJfImsjR9r"
                 }
             ],
             "id": "Z86GkpLtJ7m",
@@ -9769,10 +9786,10 @@
                     "id": "v02n6FHpyKe"
                 },
                 {
-                    "id": "hRP8KkqI1xA"
+                    "id": "h9O76To3t16"
                 },
                 {
-                    "id": "h9O76To3t16"
+                    "id": "hRP8KkqI1xA"
                 },
                 {
                     "id": "rZsnwLbpZGf"
@@ -9793,10 +9810,10 @@
                     "id": "iYaJT96ZZ3T"
                 },
                 {
-                    "id": "uIOr3Fw1ikM"
+                    "id": "oSfcBfzVxfc"
                 },
                 {
-                    "id": "oSfcBfzVxfc"
+                    "id": "uIOr3Fw1ikM"
                 },
                 {
                     "id": "wbyxtgvDs5N"
@@ -9808,13 +9825,13 @@
                     "id": "mWzUVag9gq6"
                 },
                 {
-                    "id": "HlqFCACW3G7"
-                },
-                {
                     "id": "Cm2qphUpUuS"
                 },
                 {
                     "id": "YbYRAEz6JWR"
+                },
+                {
+                    "id": "HlqFCACW3G7"
                 },
                 {
                     "id": "shzw54qoJDh"
@@ -9853,7 +9870,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'outil Tertiaire"
+                    "value": "SIGE - Éléments de données de l’outil Tertiaire"
                 }
             ]
         }
@@ -11183,31 +11200,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "hRP8KkqI1xA"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wbyxtgvDs5N"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "PnPkfmvm0Cm"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZMxybkpMBAJ"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11223,7 +11216,39 @@
                 },
                 {
                     "dataElement": {
-                        "id": "YbYRAEz6JWR"
+                        "id": "rZsnwLbpZGf"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wbyxtgvDs5N"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "shzw54qoJDh"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bo2Yheh4lGl"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uIOr3Fw1ikM"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11239,23 +11264,23 @@
                 },
                 {
                     "dataElement": {
+                        "id": "XGyCXqalbva"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mWzUVag9gq6"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "b0YUzqNJf5v"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n0wlUuIV7ff"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11279,7 +11304,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "v02n6FHpyKe"
+                        "id": "YbYRAEz6JWR"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11287,7 +11312,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "uIOr3Fw1ikM"
+                        "id": "jsIM64TwSUm"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11295,7 +11320,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "NPFBCMjLQfZ"
+                        "id": "ZMxybkpMBAJ"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hRP8KkqI1xA"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11311,6 +11352,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "v02n6FHpyKe"
+                    },
+                    "dataSet": {
+                        "id": "SKmpQzREng1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "h9O76To3t16"
                     },
                     "dataSet": {
@@ -11319,15 +11368,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "rZsnwLbpZGf"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bo2Yheh4lGl"
+                        "id": "NPFBCMjLQfZ"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11336,30 +11377,6 @@
                 {
                     "dataElement": {
                         "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "shzw54qoJDh"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "XGyCXqalbva"
-                    },
-                    "dataSet": {
-                        "id": "SKmpQzREng1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mWzUVag9gq6"
                     },
                     "dataSet": {
                         "id": "SKmpQzREng1"
@@ -11406,11 +11423,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils du SIGE - Outil tertiaire"
+                    "value": "Boîte à outils SIGE - Outil Tertiaire"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 53
+            "version": 66
         }
     ],
     "documents": [],
@@ -11424,10 +11441,10 @@
             "id": "S7s1kPHhmcX",
             "indicators": [
                 {
-                    "id": "X2CCy0fUbWT"
+                    "id": "qURrl8xXuT2"
                 },
                 {
-                    "id": "qURrl8xXuT2"
+                    "id": "X2CCy0fUbWT"
                 },
                 {
                     "id": "eiWZDP9MyFG"
@@ -11445,10 +11462,10 @@
                     "id": "CKpxGpE453I"
                 },
                 {
-                    "id": "oSTxlC5KgjD"
+                    "id": "iLuztNkZxKN"
                 },
                 {
-                    "id": "iLuztNkZxKN"
+                    "id": "oSTxlC5KgjD"
                 },
                 {
                     "id": "MNJEX0VacYT"
@@ -11514,7 +11531,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs de l'outil Tertiaire"
+                    "value": "SIGE - Indicateurs de l’outil Tertiaire"
                 }
             ]
         }
@@ -12737,7 +12754,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "OuiNon (1/0)"
+                    "value": "Oui/Non (1/0)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -12753,8 +12770,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 2,
-            "translations": []
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Non"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -12764,8 +12787,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 1,
-            "translations": []
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Oui"
+                }
+            ]
         }
     ],
     "organisationUnitGroupSets": [],
@@ -12822,7 +12851,7 @@
         "description": "EMIS Tertiary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T093519",
+        "lastUpdated": "20260916T075825",
         "locale": "en",
         "name": "EMIS_AGG_TERT_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -13182,7 +13211,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -13210,7 +13245,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -13238,7 +13279,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
