@@ -12693,127 +12693,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "Xq3am9DbPPF"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gAncEUIftwu"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RFjOyCAqPuG"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZGcntaEgM3Y"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "sPbxD030J1e"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iYaJT96ZZ3T"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "d2SQG33sn26"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KIvawJZGonK"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UZwS9SmzGtG"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "hTK3svZ5KHv"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Cm2qphUpUuS"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YbYRAEz6JWR"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rZsnwLbpZGf"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ubGe58sPoXN"
+                        "id": "GGpKeEzpU02"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12829,30 +12709,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "AI9wNlHDBMm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n0wlUuIV7ff"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "NpYggqCm73f"
                     },
                     "dataSet": {
@@ -12861,71 +12717,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "GGpKeEzpU02"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bo2Yheh4lGl"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bpoGp9rHNgg"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KJrMNhHKpFj"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YhZdfCW431Y"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "OI0ZKLGkf58"
-                    },
-                    "dataSet": {
-                        "id": "KWZ6DEwQVPU"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mfL7BeDQSTJ"
+                        "id": "sPbxD030J1e"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12941,7 +12733,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "WxJPCBD8obF"
+                        "id": "UZwS9SmzGtG"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12949,7 +12741,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "KWEFGHXPSML"
+                        "id": "KJrMNhHKpFj"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KIvawJZGonK"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LGhYlJG3iKR"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12965,7 +12773,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "m5SWa8mHISs"
+                        "id": "hTK3svZ5KHv"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12973,7 +12781,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "b0YUzqNJf5v"
+                        "id": "KWEFGHXPSML"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12981,7 +12789,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "JZdXb3Ul2fK"
+                        "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AI9wNlHDBMm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rZsnwLbpZGf"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JPbjV0Mjxvw"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jsIM64TwSUm"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "d2SQG33sn26"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZGcntaEgM3Y"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -12997,6 +12861,22 @@
                 },
                 {
                     "dataElement": {
+                        "id": "bpoGp9rHNgg"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OI0ZKLGkf58"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "uIOr3Fw1ikM"
                     },
                     "dataSet": {
@@ -13005,7 +12885,127 @@
                 },
                 {
                     "dataElement": {
+                        "id": "Xq3am9DbPPF"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b0YUzqNJf5v"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RFjOyCAqPuG"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ubGe58sPoXN"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "gAncEUIftwu"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "PjEjLyxMaic"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Cm2qphUpUuS"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YbYRAEz6JWR"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "JZdXb3Ul2fK"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WxJPCBD8obF"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iYaJT96ZZ3T"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mfL7BeDQSTJ"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Bo2Yheh4lGl"
+                    },
+                    "dataSet": {
+                        "id": "KWZ6DEwQVPU"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YhZdfCW431Y"
                     },
                     "dataSet": {
                         "id": "KWZ6DEwQVPU"
@@ -16545,7 +16545,7 @@
         "description": "EMIS ECD Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260915T160132",
+        "lastUpdated": "20260916T141506",
         "locale": "en",
         "name": "EMIS_AGG_ECD_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -17057,8 +17057,64 @@
             "users": []
         }
     ],
-    "userRoles": [],
-    "users": [],
+    "userRoles": [
+        {
+            "authorities": [],
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "restrictions": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d’utilisateur du package"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": true,
+            "externalAuth": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "organisationUnits": [],
+            "passwordLastUpdated": "2026-09-16T13:48:30.925",
+            "selfRegistered": false,
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "userRoles": [
+                {
+                    "id": "nCNR71ZbTHK"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ],
     "validationNotificationTemplates": [],
     "validationRuleGroups": [],
     "validationRules": [],
