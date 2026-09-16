@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -76,7 +70,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau d'études (Dépenses)"
+                    "value": "Niveau d’enseignement (dépenses)"
                 }
             ]
         },
@@ -137,7 +131,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de scolarité le plus élevé"
+                    "value": "Niveau d’instruction le plus élevé"
                 }
             ]
         },
@@ -222,7 +216,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -354,7 +348,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Personnel de l'éducation des élèves"
+                    "value": "Élèves et personnel éducatif"
                 }
             ]
         },
@@ -397,7 +391,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Jeunes adultes"
+                    "value": "Jeunes et adultes"
                 }
             ]
         }
@@ -414,19 +408,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -462,7 +449,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau d'éducation"
+                    "value": "Niveau d’enseignement"
                 }
             ]
         },
@@ -503,7 +490,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de scolarité le plus élevé Sexe"
+                    "value": "Niveau d’instruction le plus élevé / Sexe"
                 }
             ]
         },
@@ -544,7 +531,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -585,7 +572,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de compétence Sexe"
+                    "value": "Niveau de compétence / Sexe"
                 }
             ]
         },
@@ -667,7 +654,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Élèves Personnel de l'éducation/ Niveau d'éducation/ Sexe"
+                    "value": "Élèves et personnel éducatif / Niveau d’enseignement / Sexe"
                 }
             ]
         },
@@ -704,7 +691,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Jeunes / Adultes / Sexe"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -1129,10 +1122,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -3476,13 +3469,7 @@
             "code": "EMIS_AGG_SURV",
             "dataElements": [
                 {
-                    "id": "k3OaWtlNqws"
-                },
-                {
                     "id": "M7BwVols2es"
-                },
-                {
-                    "id": "oEzFbzbBY4g"
                 },
                 {
                     "id": "Xc413KsQcg2"
@@ -3494,10 +3481,13 @@
                     "id": "m0STyv1Yjta"
                 },
                 {
+                    "id": "ZonJVTz7WTv"
+                },
+                {
                     "id": "JiOrvIzcKra"
                 },
                 {
-                    "id": "ZonJVTz7WTv"
+                    "id": "k3OaWtlNqws"
                 },
                 {
                     "id": "tncFe81TEVa"
@@ -3507,6 +3497,9 @@
                 },
                 {
                     "id": "TA6WpmiL7Vu"
+                },
+                {
+                    "id": "oEzFbzbBY4g"
                 },
                 {
                     "id": "pQqfpoD1VqW"
@@ -3542,7 +3535,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'enquête auprès des ménages"
+                    "value": "SIGE - Éléments de données de l’enquête auprès des ménages"
                 }
             ]
         }
@@ -3931,7 +3924,7 @@
             "formName": "Population aged 15-24 and 25-65 enrolled in formal education and training",
             "id": "oEzFbzbBY4g",
             "legendSets": [],
-            "name": "EMIS - Population aged 15-24 and 25-65 enrolled in formal education and training",
+            "name": "EMIS - Population aged 15-24y and 25-65y enrolled in formal education and training",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -3984,7 +3977,7 @@
             "formName": "Population aged 15-24 and 25-65 enrolled in non-formal education and training",
             "id": "k3OaWtlNqws",
             "legendSets": [],
-            "name": "EMIS - Population aged 15-24 and 25-65 enrolled in non-formal education and training",
+            "name": "EMIS - Population aged 15-24y and 25-65y enrolled in non-formal education and training",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -4265,71 +4258,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "G2QAqxIcmP0"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tncFe81TEVa"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M7BwVols2es"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JiOrvIzcKra"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "IYQetudMISW"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TA6WpmiL7Vu"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oEzFbzbBY4g"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZonJVTz7WTv"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m0STyv1Yjta"
+                        "id": "pQqfpoD1VqW"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4345,6 +4274,38 @@
                 },
                 {
                     "dataElement": {
+                        "id": "JiOrvIzcKra"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZonJVTz7WTv"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tncFe81TEVa"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "G2QAqxIcmP0"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Xc413KsQcg2"
                     },
                     "dataSet": {
@@ -4353,7 +4314,39 @@
                 },
                 {
                     "dataElement": {
-                        "id": "pQqfpoD1VqW"
+                        "id": "oEzFbzbBY4g"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TA6WpmiL7Vu"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m0STyv1Yjta"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IYQetudMISW"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M7BwVols2es"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4400,11 +4393,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils EMIS - Enquête auprès des ménages"
+                    "value": "Boîte à outils SIGE - Enquête auprès des ménages"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 34
+            "version": 41
         }
     ],
     "documents": [],
@@ -4487,7 +4480,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs de l'enquête auprès des ménages"
+                    "value": "SIGE - Indicateurs de l’enquête auprès des ménages"
                 }
             ]
         }
@@ -5383,7 +5376,7 @@
         "description": "EMIS Household Survey",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T120739",
+        "lastUpdated": "20260916T075825",
         "locale": "en",
         "name": "EMIS_AGG_SURV_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -5577,7 +5570,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -5605,7 +5604,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -5633,7 +5638,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
