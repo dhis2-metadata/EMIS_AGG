@@ -82,59 +82,6 @@ the later import updates what the earlier one created rather than duplicating it
 
 Each data set package installs the SDG 4 indicators that its own data elements can compute.
 
-| Target | Indicator | Provided by |
-|---|---|---|
-| 4.1 | Completion rate (Lower Secondary) | Lower Secondary |
-| 4.1 | Gross intake ratio (Lower Secondary) | Lower Secondary |
-| 4.1 | Young people achieving at least a minimum proficiency level in mathematics, end of cycle (Lower Secondary) | Lower Secondary, Household Survey |
-| 4.1 | Young people achieving at least a minimum proficiency level in reading, end of cycle (Lower Secondary) | Lower Secondary, Household Survey |
-| 4.1 | Young people achieving at least a minimum proficiency level in science, end of cycle (Lower Secondary) | Lower Secondary, Household Survey |
-| 4.1 | Out-of-school rate (Lower Secondary) | Lower Secondary |
-| 4.1 | Percentage of children over-age for grade, level 1 (Lower Secondary) | Lower Secondary |
-| 4.1 | Percentage of children over-age for grade, level 2 (Lower Secondary) | Lower Secondary |
-| 4.1 | Percentage of children over-age for grade, level 3 (Lower Secondary) | Lower Secondary |
-| 4.1 | Percentage of children over-age for grade, level 4 (Lower Secondary) | Lower Secondary |
-| 4.1 | Completion rate (Primary) | Primary |
-| 4.1 | Children achieving at least a minimum proficiency level in mathematics, end of cycle (Primary) | Primary, Household Survey |
-| 4.1 | Children achieving at least a minimum proficiency level in mathematics, mid-cycle (Primary) | Primary, Household Survey |
-| 4.1 | Children achieving at least a minimum proficiency level in reading, end of cycle (Primary) | Primary, Household Survey |
-| 4.1 | Children achieving at least a minimum proficiency level in reading, mid-cycle (Primary) | Primary, Household Survey |
-| 4.1 | Children achieving at least a minimum proficiency level in science, end of cycle (Primary) | Primary, Household Survey |
-| 4.1 | Children achieving at least a minimum proficiency level in science, mid-cycle (Primary) | Primary, Household Survey |
-| 4.1 | Out-of-school rate (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 1 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 2 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 3 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 4 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 5 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 6 (Primary) | Primary |
-| 4.1 | Percentage of children over-age for grade, level 7 (Primary) | Primary |
-| 4.1 | Completion rate (Upper Secondary) | Upper Secondary |
-| 4.1 | Gross enrolment ratio (Upper Secondary) | Upper Secondary |
-| 4.1 | Gross intake ratio (Upper Secondary) | Upper Secondary |
-| 4.1 | Out-of-school rate (Upper Secondary) | Upper Secondary |
-| 4.2 | Learners developmentally on track (ECD) | ECD |
-| 4.2 | Proportion of children aged 24-59 months developmentally on track (ECD) | ECD |
-| 4.2 | Gross enrolment ratio (ECD) | ECD |
-| 4.2 | Participation rate in organized learning, one year before the official primary entry age (ECD) | ECD |
-| 4.6 | Adults aged 25 and over achieving at least a minimum proficiency level in mathematics | Household Survey |
-| 4.6 | Adults aged 25 and over achieving at least a minimum proficiency level in reading | Household Survey |
-| 4.6 | Young people aged 15-24 achieving at least a minimum proficiency level in mathematics | Household Survey |
-| 4.6 | Young people aged 15-24 achieving at least a minimum proficiency level in reading | Household Survey |
-| 4.a | Proportion of schools offering basic services - computers for pedagogical purposes | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.a | Proportion of schools offering basic services - basic drinking water | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.a | Proportion of schools offering basic services - electricity | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.a | Proportion of schools offering basic services - basic handwashing facilities | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.a | Proportion of schools offering basic services - internet for pedagogical purposes | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.a | Proportion of schools offering basic services - adapted infrastructure and materials for learners with disabilities | ECD, Primary, Lower Secondary, Upper Secondary, Tertiary |
-| 4.c | Percentage of teachers with the minimum required qualifications (ECD) | ECD |
-| 4.c | Percentage of teachers with the minimum required qualifications (Lower Secondary) | Lower Secondary |
-| 4.c | Pupil-trained teacher ratio (Primary) | Primary |
-| 4.c | Percentage of teachers with the minimum required qualifications (Primary) | Primary |
-| 4.c | Percentage of teachers with the minimum required qualifications (Upper Secondary) | Upper Secondary |
-| Finance | Public expenditure on education as a percentage of gross national income | National Expenditure |
-| Finance | Public expenditure on education as a percentage of total government expenditure | National Expenditure |
-
 | Package | SDG 4 indicators it provides |
 |---|---|
 | ECD | 11 |
