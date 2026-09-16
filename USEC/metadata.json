@@ -20,13 +20,7 @@
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -69,7 +63,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -111,7 +105,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -159,7 +153,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau de handicap"
+                    "value": "Degré de handicap"
                 }
             ]
         },
@@ -220,7 +214,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge LSEC (<12 - >17 ans)"
+                    "value": "Âge collège (< 12 - > 17 ans)"
                 }
             ]
         },
@@ -269,7 +263,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC"
+                    "value": "Niveau collège"
                 }
             ]
         },
@@ -400,7 +394,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population"
+                    "value": "Groupes d’âge de la population"
                 }
             ]
         },
@@ -498,7 +492,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Domaines SNE"
+                    "value": "Domaines de besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -552,7 +546,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques"
+                    "value": "Besoins éducatifs spéciaux"
                 }
             ]
         },
@@ -601,7 +595,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Sujet"
+                    "value": "Matière"
                 }
             ]
         },
@@ -674,7 +668,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge TERT (<16 - >25 ans)"
+                    "value": "Âge tertiaire (< 16 - > 25 ans)"
                 }
             ]
         },
@@ -729,7 +723,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Grade TERT"
+                    "value": "Niveau tertiaire"
                 }
             ]
         },
@@ -775,7 +769,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Positions de toilettes par sexe"
+                    "value": "Sexe (cabines de latrines)"
                 }
             ]
         },
@@ -827,7 +821,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Âge de l'USEC (<16 - >18 ans)"
+                    "value": "Âge lycée (< 16 - > 18 ans)"
                 }
             ]
         },
@@ -870,7 +864,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau USEC"
+                    "value": "Niveau lycée"
                 }
             ]
         }
@@ -887,19 +881,12 @@
             "id": "bjDvmb4bfuf",
             "name": "default",
             "sharing": {
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Par défaut"
-                }
-            ]
+            "translations": []
         },
         {
             "categories": [
@@ -934,7 +921,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État de l'infrastructure"
+                    "value": "État des infrastructures"
                 }
             ]
         },
@@ -971,7 +958,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "État des infrastructures"
+                    "value": "Statut des infrastructures"
                 }
             ]
         },
@@ -1015,7 +1002,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Niveau LSEC/Âge LSEC (<12 - >17 ans)/Sexe"
+                    "value": "Niveau collège / Âge collège (< 12 - > 17 ans) / Sexe"
                 }
             ]
         },
@@ -1055,7 +1042,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Nationalité/Catégorie USEC"
+                    "value": "Nationalité / Niveau lycée"
                 }
             ]
         },
@@ -1096,7 +1083,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Groupes d'âge de la population/Sexe"
+                    "value": "Groupes d’âge de la population / Sexe"
                 }
             ]
         },
@@ -1177,7 +1164,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Besoins spécifiques / niveau de handicap / sexe"
+                    "value": "Besoins éducatifs spéciaux / Degré de handicap / Sexe"
                 }
             ]
         },
@@ -1214,7 +1201,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Matière / Niveau lycée"
+                }
+            ]
         },
         {
             "categories": [
@@ -1252,7 +1245,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau tertiaire / Âge tertiaire (< 16 - > 25 ans) / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -1284,7 +1283,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe (cabines de latrines)"
+                }
+            ]
         },
         {
             "categories": [
@@ -1319,7 +1324,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge lycée (< 16 - > 18 ans) / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -1354,7 +1365,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau lycée / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -1392,7 +1409,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau lycée / Domaine BES / Sexe"
+                }
+            ]
         },
         {
             "categories": [
@@ -1430,7 +1453,13 @@
                 "users": {}
             },
             "skipTotal": false,
-            "translations": []
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Niveau lycée / Âge lycée (< 16 - > 18 ans) / Sexe"
+                }
+            ]
         }
     ],
     "categoryOptionCombos": [
@@ -1675,10 +1704,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "MhJfImsjR9r"
+                    "id": "Dd487guoOmX"
                 },
                 {
-                    "id": "Dd487guoOmX"
+                    "id": "MhJfImsjR9r"
                 }
             ],
             "id": "Thf5JEzkMM0",
@@ -2602,10 +2631,10 @@
             },
             "categoryOptions": [
                 {
-                    "id": "vpmsp7XY31l"
+                    "id": "lAMzVuHMyQy"
                 },
                 {
-                    "id": "lAMzVuHMyQy"
+                    "id": "vpmsp7XY31l"
                 }
             ],
             "id": "ihaaXgbZ5yU",
@@ -6729,6 +6758,90 @@
         {
             "attributeValues": [],
             "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "yvv9GIYaNaz"
+                },
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "i9ctIxEODXt",
+            "ignoreApproval": false,
+            "name": "Cognition / remembering, No difficulty, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "v9gPYv7aPYs"
+                },
+                {
+                    "id": "BZmx3UM8Wuj"
+                }
+            ],
+            "id": "Jc7YTcjRa6j",
+            "ignoreApproval": false,
+            "name": "Cognition / remembering, Some difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "v9gPYv7aPYs"
+                },
+                {
+                    "id": "BZmx3UM8Wuj"
+                },
+                {
+                    "id": "vpmsp7XY31l"
+                }
+            ],
+            "id": "MNLIdrp3ZUL",
+            "ignoreApproval": false,
+            "name": "Cognition / remembering, Some difficulty, Male",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "sc7cZziNdPX"
+            },
+            "categoryOptions": [
+                {
+                    "id": "ynJYpoaorSz"
+                },
+                {
+                    "id": "tbhrcGWzVeU"
+                },
+                {
+                    "id": "clJ68cWmaHL"
+                }
+            ],
+            "id": "brUTIerSK16",
+            "ignoreApproval": false,
+            "name": "Communication, A lot of difficulty, Female",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "XZlfDrSZ6oy"
             },
             "categoryOptions": [
@@ -6868,48 +6981,6 @@
             "id": "c5xLwsEGeeF",
             "ignoreApproval": false,
             "name": "Level 1, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "XZlfDrSZ6oy"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                }
-            ],
-            "id": "fAwm2VR7C6c",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "XZlfDrSZ6oy"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "MhJfImsjR9r"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "iMZnysPy07g",
-            "ignoreApproval": false,
-            "name": "Level 1, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -7198,48 +7269,6 @@
             "id": "vFbo4XswFhu",
             "ignoreApproval": false,
             "name": "Level 2, Hearing, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "XZlfDrSZ6oy"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                }
-            ],
-            "id": "qxOYTUFyO5L",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "XZlfDrSZ6oy"
-            },
-            "categoryOptions": [
-                {
-                    "id": "UkapwFg1K4o"
-                },
-                {
-                    "id": "HitjwcPPMpP"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "rPRWmBtzYbQ",
-            "ignoreApproval": false,
-            "name": "Level 2, Learning / Understanding, Male",
             "translations": []
         },
         {
@@ -8098,90 +8127,6 @@
             "id": "YqGvWQMuf2D",
             "ignoreApproval": false,
             "name": "18 years, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "yvv9GIYaNaz"
-                },
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "i9ctIxEODXt",
-            "ignoreApproval": false,
-            "name": "Cognition / remembering, No difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "v9gPYv7aPYs"
-                },
-                {
-                    "id": "BZmx3UM8Wuj"
-                }
-            ],
-            "id": "Jc7YTcjRa6j",
-            "ignoreApproval": false,
-            "name": "Cognition / remembering, Some difficulty, Female",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "v9gPYv7aPYs"
-                },
-                {
-                    "id": "BZmx3UM8Wuj"
-                },
-                {
-                    "id": "vpmsp7XY31l"
-                }
-            ],
-            "id": "MNLIdrp3ZUL",
-            "ignoreApproval": false,
-            "name": "Cognition / remembering, Some difficulty, Male",
-            "translations": []
-        },
-        {
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "sc7cZziNdPX"
-            },
-            "categoryOptions": [
-                {
-                    "id": "ynJYpoaorSz"
-                },
-                {
-                    "id": "tbhrcGWzVeU"
-                },
-                {
-                    "id": "clJ68cWmaHL"
-                }
-            ],
-            "id": "brUTIerSK16",
-            "ignoreApproval": false,
-            "name": "Communication, A lot of difficulty, Female",
             "translations": []
         },
         {
@@ -10447,40 +10392,6 @@
         },
         {
             "attributeValues": [],
-            "code": "LEARNING/UNDERSTANDING",
-            "id": "UkapwFg1K4o",
-            "name": "Learning / Understanding",
-            "organisationUnits": [],
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-rw----",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-rw----",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-r-----",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Learning / Understanding",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Apprentissage / Compréhension"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
             "code": "LEVEL_1",
             "id": "MhJfImsjR9r",
             "name": "Level 1",
@@ -11100,28 +11011,10 @@
             "code": "EMIS_AGG_USEC_TOOL",
             "dataElements": [
                 {
-                    "id": "oGCzM54rExx"
-                },
-                {
                     "id": "ypA4a7Lbi8M"
                 },
                 {
-                    "id": "jsIM64TwSUm"
-                },
-                {
-                    "id": "Bo2Yheh4lGl"
-                },
-                {
                     "id": "Pb97gs6xIlm"
-                },
-                {
-                    "id": "ZGcntaEgM3Y"
-                },
-                {
-                    "id": "v02n6FHpyKe"
-                },
-                {
-                    "id": "M9Gifisi0Ur"
                 },
                 {
                     "id": "SQlUksosv0p"
@@ -11136,22 +11029,70 @@
                     "id": "HtV887V32TZ"
                 },
                 {
-                    "id": "WxJPCBD8obF"
-                },
-                {
-                    "id": "nTDHc2Jdipp"
-                },
-                {
                     "id": "ubGe58sPoXN"
-                },
-                {
-                    "id": "NnTw0XUn19s"
                 },
                 {
                     "id": "uIOr3Fw1ikM"
                 },
                 {
                     "id": "UZwS9SmzGtG"
+                },
+                {
+                    "id": "TmvaGs42UDo"
+                },
+                {
+                    "id": "DNS0zH1mkT7"
+                },
+                {
+                    "id": "KJrMNhHKpFj"
+                },
+                {
+                    "id": "jkL49RMisXw"
+                },
+                {
+                    "id": "Mhxra2f0fhr"
+                },
+                {
+                    "id": "tIpenhd0KMJ"
+                },
+                {
+                    "id": "R6zkoFtcs1x"
+                },
+                {
+                    "id": "iYaJT96ZZ3T"
+                },
+                {
+                    "id": "oSfcBfzVxfc"
+                },
+                {
+                    "id": "hTK3svZ5KHv"
+                },
+                {
+                    "id": "oGCzM54rExx"
+                },
+                {
+                    "id": "jsIM64TwSUm"
+                },
+                {
+                    "id": "Bo2Yheh4lGl"
+                },
+                {
+                    "id": "ZGcntaEgM3Y"
+                },
+                {
+                    "id": "v02n6FHpyKe"
+                },
+                {
+                    "id": "M9Gifisi0Ur"
+                },
+                {
+                    "id": "WxJPCBD8obF"
+                },
+                {
+                    "id": "nTDHc2Jdipp"
+                },
+                {
+                    "id": "NnTw0XUn19s"
                 },
                 {
                     "id": "m5SWa8mHISs"
@@ -11175,19 +11116,7 @@
                     "id": "b0YUzqNJf5v"
                 },
                 {
-                    "id": "TmvaGs42UDo"
-                },
-                {
-                    "id": "DNS0zH1mkT7"
-                },
-                {
                     "id": "jZBqTZIXqAZ"
-                },
-                {
-                    "id": "KJrMNhHKpFj"
-                },
-                {
-                    "id": "jkL49RMisXw"
                 },
                 {
                     "id": "KIvawJZGonK"
@@ -11196,31 +11125,13 @@
                     "id": "rZsnwLbpZGf"
                 },
                 {
-                    "id": "tIpenhd0KMJ"
-                },
-                {
-                    "id": "Mhxra2f0fhr"
-                },
-                {
                     "id": "dQohS5EhMCk"
-                },
-                {
-                    "id": "R6zkoFtcs1x"
-                },
-                {
-                    "id": "iYaJT96ZZ3T"
-                },
-                {
-                    "id": "oSfcBfzVxfc"
                 },
                 {
                     "id": "aF80QBnYMVJ"
                 },
                 {
                     "id": "eZkEN060HSv"
-                },
-                {
-                    "id": "hTK3svZ5KHv"
                 },
                 {
                     "id": "YbYRAEz6JWR"
@@ -11256,7 +11167,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Éléments de données de l'outil Lycée"
+                    "value": "SIGE - Éléments de données de l’outil Lycée"
                 }
             ]
         }
@@ -13700,7 +13611,15 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "iYaJT96ZZ3T"
+                        "id": "uIOr3Fw1ikM"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YbYRAEz6JWR"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13716,199 +13635,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "jkL49RMisXw"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oyjKealWzJa"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nTDHc2Jdipp"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jZBqTZIXqAZ"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ubGe58sPoXN"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tIpenhd0KMJ"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eZkEN060HSv"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DNS0zH1mkT7"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "LGhYlJG3iKR"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Mhxra2f0fhr"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uIOr3Fw1ikM"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n0wlUuIV7ff"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "gAncEUIftwu"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HtV887V32TZ"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UZwS9SmzGtG"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Cm2qphUpUuS"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SQlUksosv0p"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rZsnwLbpZGf"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oGCzM54rExx"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Xq3am9DbPPF"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "dQohS5EhMCk"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ypA4a7Lbi8M"
+                        "id": "TmvaGs42UDo"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13924,7 +13651,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "TmvaGs42UDo"
+                        "id": "ubGe58sPoXN"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13940,7 +13667,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "NnTw0XUn19s"
+                        "id": "eZkEN060HSv"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13948,7 +13675,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "m5SWa8mHISs"
+                        "id": "LGhYlJG3iKR"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13956,7 +13683,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oSfcBfzVxfc"
+                        "id": "JPbjV0Mjxvw"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13964,15 +13691,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZGcntaEgM3Y"
-                    },
-                    "dataSet": {
-                        "id": "Ztgvq6AgWiP"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L1oRLuJzDXN"
+                        "id": "UZwS9SmzGtG"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -13988,7 +13707,87 @@
                 },
                 {
                     "dataElement": {
-                        "id": "M9Gifisi0Ur"
+                        "id": "gAncEUIftwu"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jZBqTZIXqAZ"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZGcntaEgM3Y"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hTK3svZ5KHv"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tIpenhd0KMJ"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oGCzM54rExx"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L1oRLuJzDXN"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Cm2qphUpUuS"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rZsnwLbpZGf"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iYaJT96ZZ3T"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ypA4a7Lbi8M"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -14012,6 +13811,78 @@
                 },
                 {
                     "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "dQohS5EhMCk"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Pb97gs6xIlm"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jkL49RMisXw"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M9Gifisi0Ur"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jsIM64TwSUm"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NnTw0XUn19s"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Mhxra2f0fhr"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "KJrMNhHKpFj"
                     },
                     "dataSet": {
@@ -14020,7 +13891,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "hTK3svZ5KHv"
+                        "id": "m5SWa8mHISs"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -14028,7 +13899,47 @@
                 },
                 {
                     "dataElement": {
-                        "id": "YbYRAEz6JWR"
+                        "id": "HtV887V32TZ"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nTDHc2Jdipp"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SQlUksosv0p"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Xq3am9DbPPF"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oyjKealWzJa"
+                    },
+                    "dataSet": {
+                        "id": "Ztgvq6AgWiP"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DNS0zH1mkT7"
                     },
                     "dataSet": {
                         "id": "Ztgvq6AgWiP"
@@ -14064,10 +13975,10 @@
                     "id": "TfTy3ii6lK2"
                 },
                 {
-                    "id": "FoJNqTjGLFT"
+                    "id": "IcIs1Y9FXHQ"
                 },
                 {
-                    "id": "IcIs1Y9FXHQ"
+                    "id": "FoJNqTjGLFT"
                 },
                 {
                     "id": "i3yPEcP0gtV"
@@ -14091,10 +14002,10 @@
                     "id": "n1zOkbj6Kp3"
                 },
                 {
-                    "id": "RPRYkeIXVYr"
+                    "id": "SJtbsyx69sU"
                 },
                 {
-                    "id": "SJtbsyx69sU"
+                    "id": "RPRYkeIXVYr"
                 },
                 {
                     "id": "aJeKnt8AbpZ"
@@ -14103,10 +14014,10 @@
                     "id": "LnUTREPnf11"
                 },
                 {
-                    "id": "pIX3uc5jvmB"
+                    "id": "OTXajGNHRv1"
                 },
                 {
-                    "id": "OTXajGNHRv1"
+                    "id": "pIX3uc5jvmB"
                 },
                 {
                     "id": "bnhw1GGrK12"
@@ -14127,10 +14038,10 @@
                     "id": "dCCLw9YtdKA"
                 },
                 {
-                    "id": "ywP4n2g3NLj"
+                    "id": "rfwzMomL1DJ"
                 },
                 {
-                    "id": "rfwzMomL1DJ"
+                    "id": "ywP4n2g3NLj"
                 },
                 {
                     "id": "OIOVlutAPh0"
@@ -14202,11 +14113,11 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Boîte à outils EMIS - Outil pour le secondaire supérieur"
+                    "value": "Boîte à outils SIGE - Outil Lycée"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 89
+            "version": 103
         }
     ],
     "documents": [],
@@ -14241,19 +14152,19 @@
                     "id": "SerCw5Y0pA4"
                 },
                 {
-                    "id": "RAqLDd0b4Ba"
+                    "id": "TfTy3ii6lK2"
                 },
                 {
-                    "id": "TfTy3ii6lK2"
+                    "id": "RAqLDd0b4Ba"
                 },
                 {
                     "id": "SgZ6vcf6Wni"
                 },
                 {
-                    "id": "FoJNqTjGLFT"
+                    "id": "IcIs1Y9FXHQ"
                 },
                 {
-                    "id": "IcIs1Y9FXHQ"
+                    "id": "FoJNqTjGLFT"
                 },
                 {
                     "id": "DgLOGMkqQUi"
@@ -14286,10 +14197,10 @@
                     "id": "LwmFf7dYhZ5"
                 },
                 {
-                    "id": "RPRYkeIXVYr"
+                    "id": "SJtbsyx69sU"
                 },
                 {
-                    "id": "SJtbsyx69sU"
+                    "id": "RPRYkeIXVYr"
                 },
                 {
                     "id": "aJeKnt8AbpZ"
@@ -14313,10 +14224,10 @@
                     "id": "ndgQ0oQbFMn"
                 },
                 {
-                    "id": "pIX3uc5jvmB"
+                    "id": "OTXajGNHRv1"
                 },
                 {
-                    "id": "OTXajGNHRv1"
+                    "id": "pIX3uc5jvmB"
                 },
                 {
                     "id": "bnhw1GGrK12"
@@ -14337,10 +14248,10 @@
                     "id": "dCCLw9YtdKA"
                 },
                 {
-                    "id": "ywP4n2g3NLj"
+                    "id": "rfwzMomL1DJ"
                 },
                 {
-                    "id": "rfwzMomL1DJ"
+                    "id": "ywP4n2g3NLj"
                 },
                 {
                     "id": "gGAZJ8xtPOr"
@@ -14382,10 +14293,10 @@
                     "id": "VyjxX8BJrSr"
                 },
                 {
-                    "id": "WPKfHLHApTi"
+                    "id": "EfWEQE3AmVl"
                 },
                 {
-                    "id": "EfWEQE3AmVl"
+                    "id": "WPKfHLHApTi"
                 },
                 {
                     "id": "B0uLkrHUkdS"
@@ -14430,7 +14341,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Indicateurs de l'outil Lycée"
+                    "value": "SIGE - Indicateurs de l’outil Lycée"
                 }
             ]
         }
@@ -17506,21 +17417,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FFA500",
-                    "endValue": 70.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "HtZiaMuVako",
-                    "name": "Average",
-                    "sharing": {
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 30.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#23590B",
                     "endValue": 30.0,
                     "favorite": false,
@@ -17547,6 +17443,21 @@
                         "users": {}
                     },
                     "startValue": 70.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "endValue": 70.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HtZiaMuVako",
+                    "name": "Average",
+                    "sharing": {
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 30.0,
                     "translations": []
                 }
             ],
@@ -17618,7 +17529,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "OuiNon (1/0)"
+                    "value": "Oui/Non (1/0)"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -17634,8 +17545,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 2,
-            "translations": []
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Non"
+                }
+            ]
         },
         {
             "attributeValues": [],
@@ -17645,8 +17562,14 @@
             "optionSet": {
                 "id": "DbosxuazTdn"
             },
-            "sortOrder": 1,
-            "translations": []
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Oui"
+                }
+            ]
         }
     ],
     "organisationUnitGroupSets": [],
@@ -17703,7 +17626,7 @@
         "description": "EMIS Upper Secondary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260914T093519",
+        "lastUpdated": "20260916T075825",
         "locale": "en",
         "name": "EMIS_AGG_USEC_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -18143,7 +18066,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Accès"
+                }
+            ],
             "users": []
         },
         {
@@ -18171,7 +18100,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Administration"
+                }
+            ],
             "users": []
         },
         {
@@ -18199,7 +18134,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "SIGE - Saisie des données"
+                }
+            ],
             "users": []
         }
     ],
