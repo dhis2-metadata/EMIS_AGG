@@ -13949,70 +13949,13 @@
             "code": "EMIS_AGG_PRI_TOOL",
             "dataElements": [
                 {
-                    "id": "Pb97gs6xIlm"
-                },
-                {
-                    "id": "SQlUksosv0p"
-                },
-                {
-                    "id": "LGhYlJG3iKR"
-                },
-                {
-                    "id": "L1oRLuJzDXN"
-                },
-                {
-                    "id": "frfEgziQhoT"
-                },
-                {
-                    "id": "ubGe58sPoXN"
-                },
-                {
-                    "id": "uIOr3Fw1ikM"
-                },
-                {
-                    "id": "UZwS9SmzGtG"
-                },
-                {
-                    "id": "aSXfIO4Ppi4"
-                },
-                {
-                    "id": "Bk2AEbNefDD"
-                },
-                {
-                    "id": "EceDxuePkVN"
-                },
-                {
-                    "id": "ue3QIMOAC7G"
-                },
-                {
-                    "id": "KJrMNhHKpFj"
-                },
-                {
-                    "id": "L2oPCXhJqUd"
-                },
-                {
-                    "id": "Mhxra2f0fhr"
-                },
-                {
-                    "id": "R6zkoFtcs1x"
-                },
-                {
-                    "id": "iYaJT96ZZ3T"
-                },
-                {
-                    "id": "FaAsIdQC3GM"
-                },
-                {
-                    "id": "oSfcBfzVxfc"
-                },
-                {
-                    "id": "hTK3svZ5KHv"
-                },
-                {
                     "id": "jsIM64TwSUm"
                 },
                 {
                     "id": "Bo2Yheh4lGl"
+                },
+                {
+                    "id": "Pb97gs6xIlm"
                 },
                 {
                     "id": "ZGcntaEgM3Y"
@@ -14030,10 +13973,31 @@
                     "id": "M9Gifisi0Ur"
                 },
                 {
+                    "id": "SQlUksosv0p"
+                },
+                {
                     "id": "RJi5MW86kCs"
                 },
                 {
+                    "id": "LGhYlJG3iKR"
+                },
+                {
+                    "id": "L1oRLuJzDXN"
+                },
+                {
+                    "id": "frfEgziQhoT"
+                },
+                {
                     "id": "WxJPCBD8obF"
+                },
+                {
+                    "id": "ubGe58sPoXN"
+                },
+                {
+                    "id": "uIOr3Fw1ikM"
+                },
+                {
+                    "id": "UZwS9SmzGtG"
                 },
                 {
                     "id": "m5SWa8mHISs"
@@ -14048,6 +14012,12 @@
                     "id": "Xq3am9DbPPF"
                 },
                 {
+                    "id": "aSXfIO4Ppi4"
+                },
+                {
+                    "id": "Bk2AEbNefDD"
+                },
+                {
                     "id": "kz398WVBDCw"
                 },
                 {
@@ -14057,13 +14027,43 @@
                     "id": "b0YUzqNJf5v"
                 },
                 {
+                    "id": "EceDxuePkVN"
+                },
+                {
+                    "id": "ue3QIMOAC7G"
+                },
+                {
+                    "id": "KJrMNhHKpFj"
+                },
+                {
                     "id": "KIvawJZGonK"
                 },
                 {
                     "id": "rZsnwLbpZGf"
                 },
                 {
+                    "id": "L2oPCXhJqUd"
+                },
+                {
+                    "id": "Mhxra2f0fhr"
+                },
+                {
+                    "id": "R6zkoFtcs1x"
+                },
+                {
+                    "id": "iYaJT96ZZ3T"
+                },
+                {
+                    "id": "FaAsIdQC3GM"
+                },
+                {
                     "id": "j7Gxl9Mtgr5"
+                },
+                {
+                    "id": "oSfcBfzVxfc"
+                },
+                {
+                    "id": "hTK3svZ5KHv"
                 },
                 {
                     "id": "YbYRAEz6JWR"
@@ -16656,7 +16656,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "iYaJT96ZZ3T"
+                        "id": "jsIM64TwSUm"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16664,111 +16664,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ue3QIMOAC7G"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bk2AEbNefDD"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZGcntaEgM3Y"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "aSXfIO4Ppi4"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SQlUksosv0p"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KIvawJZGonK"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UxaMoIg2SIr"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Bo2Yheh4lGl"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Pb97gs6xIlm"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "frfEgziQhoT"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kz398WVBDCw"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M9Gifisi0Ur"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YbYRAEz6JWR"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Mhxra2f0fhr"
+                        "id": "L2oPCXhJqUd"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16784,7 +16680,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "m5SWa8mHISs"
+                        "id": "gAncEUIftwu"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16792,7 +16688,87 @@
                 },
                 {
                     "dataElement": {
-                        "id": "LGhYlJG3iKR"
+                        "id": "nEVfdbTkSTy"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EceDxuePkVN"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iYaJT96ZZ3T"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "v02n6FHpyKe"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ue3QIMOAC7G"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "n0wlUuIV7ff"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kz398WVBDCw"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KIvawJZGonK"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kN4ePtUhIL9"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uIOr3Fw1ikM"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FaAsIdQC3GM"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16808,7 +16784,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "hTK3svZ5KHv"
+                        "id": "ZGcntaEgM3Y"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "b0YUzqNJf5v"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Pb97gs6xIlm"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16824,7 +16816,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "kN4ePtUhIL9"
+                        "id": "YbYRAEz6JWR"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "j7Gxl9Mtgr5"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16848,14 +16848,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "JPbjV0Mjxvw"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "UZwS9SmzGtG"
                     },
                     "dataSet": {
@@ -16864,7 +16856,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "gAncEUIftwu"
+                        "id": "Bk2AEbNefDD"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16872,95 +16864,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oSfcBfzVxfc"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L2oPCXhJqUd"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "EceDxuePkVN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Zy2bdINTA6W"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nEVfdbTkSTy"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "FaAsIdQC3GM"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "L1oRLuJzDXN"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jsIM64TwSUm"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b0YUzqNJf5v"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uIOr3Fw1ikM"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "j7Gxl9Mtgr5"
-                    },
-                    "dataSet": {
-                        "id": "x0V4c4DxJHE"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "v02n6FHpyKe"
+                        "id": "JPbjV0Mjxvw"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16976,7 +16880,55 @@
                 },
                 {
                     "dataElement": {
-                        "id": "n0wlUuIV7ff"
+                        "id": "Bo2Yheh4lGl"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SQlUksosv0p"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M9Gifisi0Ur"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Zy2bdINTA6W"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "frfEgziQhoT"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "L1oRLuJzDXN"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "LGhYlJG3iKR"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -16985,6 +16937,54 @@
                 {
                     "dataElement": {
                         "id": "Xq3am9DbPPF"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "aSXfIO4Ppi4"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oSfcBfzVxfc"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m5SWa8mHISs"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Mhxra2f0fhr"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UxaMoIg2SIr"
+                    },
+                    "dataSet": {
+                        "id": "x0V4c4DxJHE"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "hTK3svZ5KHv"
                     },
                     "dataSet": {
                         "id": "x0V4c4DxJHE"
@@ -17152,136 +17152,13 @@
             "id": "BHu7oL3PLih",
             "indicators": [
                 {
+                    "id": "Sm6dPqLXPiU"
+                },
+                {
                     "id": "YaNq7UbRnwi"
                 },
                 {
                     "id": "Ytrbb2wz9Zb"
-                },
-                {
-                    "id": "o6b8eRYLOWg"
-                },
-                {
-                    "id": "VRq3HjSJpoO"
-                },
-                {
-                    "id": "FmmqtAikAau"
-                },
-                {
-                    "id": "p44IsegoKdD"
-                },
-                {
-                    "id": "YFtggmsHwR6"
-                },
-                {
-                    "id": "syh4po0lgAi"
-                },
-                {
-                    "id": "EY6twzyd6qt"
-                },
-                {
-                    "id": "Y6cEDVQfjNo"
-                },
-                {
-                    "id": "m0lQpzEa8MT"
-                },
-                {
-                    "id": "pP3XwZeUX1N"
-                },
-                {
-                    "id": "FbnY9L1CTxW"
-                },
-                {
-                    "id": "UEpZjSfUXSv"
-                },
-                {
-                    "id": "kAl9FtlaiBy"
-                },
-                {
-                    "id": "lfAYMgyeGGz"
-                },
-                {
-                    "id": "OguzgjgOKre"
-                },
-                {
-                    "id": "bnKEaa9Ple5"
-                },
-                {
-                    "id": "SNzVkXI7ZDT"
-                },
-                {
-                    "id": "EOXetw7C9zF"
-                },
-                {
-                    "id": "f17YVNdGtsC"
-                },
-                {
-                    "id": "ZsiF5jwlwUS"
-                },
-                {
-                    "id": "JQeSggUiZ9F"
-                },
-                {
-                    "id": "MablmHFDpYi"
-                },
-                {
-                    "id": "WxC8dT57mYJ"
-                },
-                {
-                    "id": "qJhFjZiNvmB"
-                },
-                {
-                    "id": "VzDQgqC4WZF"
-                },
-                {
-                    "id": "z4brruZmwBp"
-                },
-                {
-                    "id": "Kn878MDarGR"
-                },
-                {
-                    "id": "dCCLw9YtdKA"
-                },
-                {
-                    "id": "ihlCRpw1mhJ"
-                },
-                {
-                    "id": "qURrl8xXuT2"
-                },
-                {
-                    "id": "LjWwk84dH4a"
-                },
-                {
-                    "id": "tmQMaksYsD5"
-                },
-                {
-                    "id": "oIJ27tIsFbv"
-                },
-                {
-                    "id": "DbHKrOSsSuq"
-                },
-                {
-                    "id": "GzCCqy2sDHO"
-                },
-                {
-                    "id": "ue2MWIQ0K8P"
-                },
-                {
-                    "id": "SCBqYDGRWH9"
-                },
-                {
-                    "id": "eYwxazSf6cG"
-                },
-                {
-                    "id": "y8ZpzTdCuzb"
-                },
-                {
-                    "id": "avnWZP4TlUn"
-                },
-                {
-                    "id": "hQBRPpDB2ax"
-                },
-                {
-                    "id": "Sm6dPqLXPiU"
                 },
                 {
                     "id": "L5G3r4w947O"
@@ -17290,10 +17167,22 @@
                     "id": "jLYxMf5yhnU"
                 },
                 {
+                    "id": "o6b8eRYLOWg"
+                },
+                {
                     "id": "yx0PsEEJUCw"
                 },
                 {
+                    "id": "VRq3HjSJpoO"
+                },
+                {
+                    "id": "FmmqtAikAau"
+                },
+                {
                     "id": "ZeSziqoPGXs"
+                },
+                {
+                    "id": "p44IsegoKdD"
                 },
                 {
                     "id": "nak6YLV0uRN"
@@ -17302,10 +17191,19 @@
                     "id": "nAvXQyKUuDa"
                 },
                 {
+                    "id": "YFtggmsHwR6"
+                },
+                {
+                    "id": "syh4po0lgAi"
+                },
+                {
                     "id": "SgZ6vcf6Wni"
                 },
                 {
                     "id": "bJGhAI6G1IL"
+                },
+                {
+                    "id": "EY6twzyd6qt"
                 },
                 {
                     "id": "IcIs1Y9FXHQ"
@@ -17320,7 +17218,25 @@
                     "id": "fbApqGjrs6t"
                 },
                 {
+                    "id": "Y6cEDVQfjNo"
+                },
+                {
+                    "id": "m0lQpzEa8MT"
+                },
+                {
+                    "id": "pP3XwZeUX1N"
+                },
+                {
                     "id": "hmx75ENHU5f"
+                },
+                {
+                    "id": "FbnY9L1CTxW"
+                },
+                {
+                    "id": "UEpZjSfUXSv"
+                },
+                {
+                    "id": "kAl9FtlaiBy"
                 },
                 {
                     "id": "Mcdr63bAZev"
@@ -17329,13 +17245,37 @@
                     "id": "dEc9j4M48hv"
                 },
                 {
+                    "id": "lfAYMgyeGGz"
+                },
+                {
+                    "id": "OguzgjgOKre"
+                },
+                {
+                    "id": "bnKEaa9Ple5"
+                },
+                {
                     "id": "n1zOkbj6Kp3"
+                },
+                {
+                    "id": "SNzVkXI7ZDT"
+                },
+                {
+                    "id": "EOXetw7C9zF"
                 },
                 {
                     "id": "SJtbsyx69sU"
                 },
                 {
                     "id": "s8Ipc1GJzf7"
+                },
+                {
+                    "id": "f17YVNdGtsC"
+                },
+                {
+                    "id": "ZsiF5jwlwUS"
+                },
+                {
+                    "id": "JQeSggUiZ9F"
                 },
                 {
                     "id": "niL9SllCtx8"
@@ -17345,6 +17285,15 @@
                 },
                 {
                     "id": "U4u3AuZ9yVs"
+                },
+                {
+                    "id": "MablmHFDpYi"
+                },
+                {
+                    "id": "WxC8dT57mYJ"
+                },
+                {
+                    "id": "qJhFjZiNvmB"
                 },
                 {
                     "id": "lJn3sNliTZ9"
@@ -17371,19 +17320,46 @@
                     "id": "nTxkPBsR6E9"
                 },
                 {
+                    "id": "VzDQgqC4WZF"
+                },
+                {
                     "id": "bnhw1GGrK12"
                 },
                 {
                     "id": "top9Z1Q6yPO"
                 },
                 {
+                    "id": "z4brruZmwBp"
+                },
+                {
+                    "id": "Kn878MDarGR"
+                },
+                {
                     "id": "c8vveCVxBIi"
+                },
+                {
+                    "id": "dCCLw9YtdKA"
+                },
+                {
+                    "id": "ihlCRpw1mhJ"
                 },
                 {
                     "id": "rfwzMomL1DJ"
                 },
                 {
                     "id": "gGAZJ8xtPOr"
+                },
+                {
+                    "id": "qURrl8xXuT2"
+                },
+                {
+                    "id": "LjWwk84dH4a"
+                },
+                {
+                    "id": "tmQMaksYsD5"
+                },
+                {
+                    "id": "oIJ27tIsFbv"
                 },
                 {
                     "id": "Q5MeGzITwhP"
@@ -17398,13 +17374,37 @@
                     "id": "Mx9HloJUbif"
                 },
                 {
+                    "id": "DbHKrOSsSuq"
+                },
+                {
                     "id": "F6wiOdtz9BL"
+                },
+                {
+                    "id": "GzCCqy2sDHO"
                 },
                 {
                     "id": "acaIZKbRFtq"
                 },
                 {
+                    "id": "ue2MWIQ0K8P"
+                },
+                {
+                    "id": "SCBqYDGRWH9"
+                },
+                {
+                    "id": "eYwxazSf6cG"
+                },
+                {
+                    "id": "y8ZpzTdCuzb"
+                },
+                {
+                    "id": "avnWZP4TlUn"
+                },
+                {
                     "id": "iUNSZ2AF9YH"
+                },
+                {
+                    "id": "hQBRPpDB2ax"
                 }
             ],
             "name": "EMIS - Primary Tool indicators",
@@ -17860,108 +17860,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "SDG4_PRI_MPL_READING_MID",
-            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
-            "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
-            "id": "avnWZP4TlUn",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [
-                {
-                    "id": "havuYWm1aYW"
-                }
-            ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level in reading, mid-cycle (Primary)",
-            "numerator": "#{m0STyv1Yjta.pmbE9zDswtT} + #{m0STyv1Yjta.OVUF0LMXjd2}",
-            "numeratorDescription": "Minimum proficiency Reading mid primary",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% min. proficiency, reading, mid-cycle (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, lecture, mi-cycle (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en lecture, en milieu de cycle (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_PRI_MPL_SCIENCE_END",
-            "denominator": "#{R6zkoFtcs1x.GLYA4dVTSyX} + #{R6zkoFtcs1x.Whs2W1Mu6SJ} + #{R6zkoFtcs1x.Gm2XbxHaD5P} + #{R6zkoFtcs1x.IbeUIkzLHCt}",
-            "denominatorDescription": "EMIS - Population Estimates 12 years, Male + EMIS - Population Estimates 12 years, Female + EMIS - Population Estimates 13 years, Male + EMIS - Population Estimates 13 years, Female",
-            "id": "hQBRPpDB2ax",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [
-                {
-                    "id": "havuYWm1aYW"
-                }
-            ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level in science, end of cycle (Primary)",
-            "numerator": "#{JiOrvIzcKra.F0v2CMIQevt} + #{JiOrvIzcKra.LU6dzRdbi0q}",
-            "numeratorDescription": "Minimum proficiency in science end of primary",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% min. proficiency, science, end of cycle (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, sciences, fin de cycle (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en sciences, en fin de cycle (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "SDG4_PRI_MPL_SCIENCE_MID",
             "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
             "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
@@ -18007,6 +17905,57 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "% niv. minimal, sciences, mi-cycle (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_MPL_MID",
+            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
+            "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
+            "id": "Q5MeGzITwhP",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [
+                {
+                    "id": "havuYWm1aYW"
+                }
+            ],
+            "name": "EMIS - Children achieving at least a minimum proficiency level, mid-cycle (Primary)",
+            "numerator": "#{m0STyv1Yjta}",
+            "numeratorDescription": "EMIS - Minimum Proficiency level (Mid-Primary)",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% min. proficiency, mid-cycle (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence, en milieu de cycle (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, mi-cycle (Primaire)"
                 }
             ]
         },
@@ -18207,18 +18156,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_SHARED_FURNITURE_BOOKSHELVES",
+            "code": "EMIS_SHARED_FURNITURE_LEARNER_DESKS",
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "School furniture by infrastructure condition (Good + Fair + Poor). Shared by the Lower Secondary and Upper Secondary data sets, which use the same furniture data elements — the name is level-neutral for that reason.",
-            "id": "eYwxazSf6cG",
+            "id": "c8vveCVxBIi",
             "indicatorType": {
                 "id": "L6EUbA1KB6N"
             },
             "legendSets": [],
-            "name": "EMIS - Furniture - book shelves",
-            "numerator": "#{LGhYlJG3iKR.rteEPsDgGyK} + #{LGhYlJG3iKR.wflnBKhT04i} + #{LGhYlJG3iKR.wVhmpcXbTk9}",
-            "numeratorDescription": "Bookshelves_LSEC_Furniture",
+            "name": "EMIS - Furniture - learner desks",
+            "numerator": "#{KJrMNhHKpFj.rteEPsDgGyK} + #{KJrMNhHKpFj.wflnBKhT04i} + #{KJrMNhHKpFj.wVhmpcXbTk9}",
+            "numeratorDescription": "Learner desks_LSEC_Furniture",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -18238,17 +18187,17 @@
                 },
                 "users": {}
             },
-            "shortName": "Furniture - book shelves",
+            "shortName": "Furniture - learner desks",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "Mobilier - étagères à livres"
+                    "value": "Mobilier - pupitres d’élèves"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Mobilier - étagères à livres"
+                    "value": "EMIS - Mobilier - pupitres d’élèves"
                 }
             ]
         },
@@ -18345,53 +18294,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Mobilier - tableaux blancs"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_GER",
-            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
-            "denominatorDescription": "EMIS - Population Estimates 6-12 years",
-            "id": "ue2MWIQ0K8P",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Gross enrolment ratio (Primary)",
-            "numerator": "#{ue3QIMOAC7G}",
-            "numeratorDescription": "Total enrolment PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Gross enrolment ratio (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Taux brut de scolarisation (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Taux brut de scolarisation (Primaire)"
                 }
             ]
         },
@@ -18841,6 +18743,55 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "EMIS_PRI_LEARNERS_AGE_OVER_13",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Enrolments_PRI_13 years",
+            "id": "Mx9HloJUbif",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Learners in the reporting year, aged over 13 (Primary)",
+            "numerator": "#{ue3QIMOAC7G.IrmWcNPqJkP} + #{ue3QIMOAC7G.hUVEdmXC2cX} + #{ue3QIMOAC7G.max8haSAhAk} + #{ue3QIMOAC7G.iDlbaVZV9ni} + #{ue3QIMOAC7G.GyHINta9Ngf} + #{ue3QIMOAC7G.VeOVj2GmrFI} + #{ue3QIMOAC7G.ilKnPX7OURs} + #{ue3QIMOAC7G.ds9kmxoTxTG} + #{ue3QIMOAC7G.jaVYxQSw9H2} + #{ue3QIMOAC7G.nUMq0W4vKiJ} + #{ue3QIMOAC7G.KET6QXL4yBO} + #{ue3QIMOAC7G.sQVcet6tDbP} + #{ue3QIMOAC7G.elDPJmuqvN4} + #{ue3QIMOAC7G.Kpi6SsBCrtD}",
+            "numeratorDescription": "Enrolments_PRI_>13 years",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Learners, aged over 13 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Apprenants, plus de 13 ans (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Apprenants durant l’année de rapport, plus de 13 ans (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "EMIS_PRI_LEARNERS_AGE_UNDER_6",
             "decimals": 0,
             "denominator": "1",
@@ -18931,53 +18882,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Taux net de scolarisation (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_TEACHING_MATERIALS_SUBJECT_1",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "SCBqYDGRWH9",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Number of teaching materials, subject 1 (Primary)",
-            "numerator": "#{EceDxuePkVN.OQzFol67hEr} + #{EceDxuePkVN.BcIm1nGD39b} + #{EceDxuePkVN.EfLfFveCADL} + #{EceDxuePkVN.LFYjetGCsiA} + #{EceDxuePkVN.dynRuVO5aVq} + #{EceDxuePkVN.GoX14JTJcJP} + #{EceDxuePkVN.dJ5ium7XXOt}",
-            "numeratorDescription": "Total Teaching Materials Subject 1 PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Teaching materials, subject 1 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Nombre de matériels pédagogiques, matière 1 (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Matériels pédagogiques, matière 1 (Primaire)"
                 }
             ]
         },
@@ -19603,6 +19507,100 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_SNE_INFRASTRUCTURE",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "VyjxX8BJrSr",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - adapted infrastructure and materials for learners with disabilities",
+            "numerator": "#{oSfcBfzVxfc}",
+            "numeratorDescription": "Number of schools with access to Infrastructure for special needs",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with adapted SNE infrastructure",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec infrastructures adaptées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - infrastructures et matériels adaptés aux apprenants handicapés"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_DRINKING_WATER",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "EfWEQE3AmVl",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - basic drinking water",
+            "numerator": "#{b0YUzqNJf5v}",
+            "numeratorDescription": "Number of schools with access to Drinking water",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with basic drinking water",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - eau potable de base"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec eau potable de base"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "SDG4_SCHOOLS_BASIC_HANDWASHING",
             "denominator": "OUG{xs3WUlrhsir}",
             "denominatorDescription": "Total number of schools",
@@ -19691,6 +19689,53 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Proportion d’écoles offrant des services de base - ordinateurs à des fins pédagogiques"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "SDG4_SCHOOLS_BASIC_ELECTRICITY",
+            "denominator": "OUG{xs3WUlrhsir}",
+            "denominatorDescription": "Total number of schools",
+            "id": "gGAZJ8xtPOr",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [],
+            "name": "EMIS - Proportion of schools offering basic services - electricity",
+            "numerator": "#{jsIM64TwSUm}",
+            "numeratorDescription": "Number of schools with access to electricity",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% schools with electricity",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Proportion d’écoles offrant des services de base - électricité"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% écoles avec électricité"
                 }
             ]
         },
@@ -20074,102 +20119,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Redoublants, niveau 4 (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_REPEATERS_LEVEL_5",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "y8ZpzTdCuzb",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Repeaters in the reporting year, level 5 (Primary)",
-            "numerator": "#{UxaMoIg2SIr.CbtpSLVKKbl} + #{UxaMoIg2SIr.hV9sNe4fq2w}",
-            "numeratorDescription": "Repeaters Level 5 PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Repeaters, level 5 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 5 (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Redoublants, niveau 5 (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_PRI_REPEATERS_LEVEL_6",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "GzCCqy2sDHO",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - Repeaters in the reporting year, level 6 (Primary)",
-            "numerator": "#{UxaMoIg2SIr.qFlcEcXouMA} + #{UxaMoIg2SIr.yp3QpMkj6Dw}",
-            "numeratorDescription": "Repeaters Level 6 PRI",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Repeaters, level 6 (PRI)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Redoublants, niveau 6 (Primaire)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 6 (Primaire)"
                 }
             ]
         },
@@ -20595,6 +20544,53 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Installations scolaires - salle principale"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_SHARED_FACILITY_SICKBAY",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "rfwzMomL1DJ",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - School facilities - sickbay",
+            "numerator": "#{ubGe58sPoXN.dva72ooQzOq} + #{ubGe58sPoXN.vHTkyK9g967}",
+            "numeratorDescription": "SNE_USEC_Sickbay",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "School facilities - sickbay",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Installations scolaires - infirmerie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Installations scolaires - infirmerie"
                 }
             ]
         },
@@ -21074,10 +21070,10 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_PRI_MPL_MID",
+            "code": "SDG4_PRI_MPL_READING_MID",
             "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
             "denominatorDescription": "EMIS - Population Estimates 6-12 years, Male + EMIS - Population Estimates 6-12 years, Female",
-            "id": "Q5MeGzITwhP",
+            "id": "avnWZP4TlUn",
             "indicatorType": {
                 "id": "MCUGRIAc5sa"
             },
@@ -21086,9 +21082,9 @@
                     "id": "havuYWm1aYW"
                 }
             ],
-            "name": "EMIS - Children achieving at least a minimum proficiency level, mid-cycle (Primary)",
-            "numerator": "#{m0STyv1Yjta}",
-            "numeratorDescription": "EMIS - Minimum Proficiency level (Mid-Primary)",
+            "name": "EMIS - Children achieving at least a minimum proficiency level in reading, mid-cycle (Primary)",
+            "numerator": "#{m0STyv1Yjta.pmbE9zDswtT} + #{m0STyv1Yjta.OVUF0LMXjd2}",
+            "numeratorDescription": "Minimum proficiency Reading mid primary",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21108,35 +21104,86 @@
                 },
                 "users": {}
             },
-            "shortName": "% min. proficiency, mid-cycle (PRI)",
+            "shortName": "% min. proficiency, reading, mid-cycle (PRI)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence, en milieu de cycle (Primaire)"
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, lecture, mi-cycle (Primaire)"
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% niv. minimal, mi-cycle (Primaire)"
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en lecture, en milieu de cycle (Primaire)"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_SHARED_FURNITURE_LEARNER_DESKS",
+            "code": "SDG4_PRI_MPL_SCIENCE_END",
+            "denominator": "#{R6zkoFtcs1x.GLYA4dVTSyX} + #{R6zkoFtcs1x.Whs2W1Mu6SJ} + #{R6zkoFtcs1x.Gm2XbxHaD5P} + #{R6zkoFtcs1x.IbeUIkzLHCt}",
+            "denominatorDescription": "EMIS - Population Estimates 12 years, Male + EMIS - Population Estimates 12 years, Female + EMIS - Population Estimates 13 years, Male + EMIS - Population Estimates 13 years, Female",
+            "id": "hQBRPpDB2ax",
+            "indicatorType": {
+                "id": "MCUGRIAc5sa"
+            },
+            "legendSets": [
+                {
+                    "id": "havuYWm1aYW"
+                }
+            ],
+            "name": "EMIS - Children achieving at least a minimum proficiency level in science, end of cycle (Primary)",
+            "numerator": "#{JiOrvIzcKra.F0v2CMIQevt} + #{JiOrvIzcKra.LU6dzRdbi0q}",
+            "numeratorDescription": "Minimum proficiency in science end of primary",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% min. proficiency, science, end of cycle (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% niv. minimal, sciences, fin de cycle (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Enfants atteignant au moins le niveau minimal de compétence en sciences, en fin de cycle (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_SHARED_FURNITURE_BOOKSHELVES",
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "School furniture by infrastructure condition (Good + Fair + Poor). Shared by the Lower Secondary and Upper Secondary data sets, which use the same furniture data elements — the name is level-neutral for that reason.",
-            "id": "c8vveCVxBIi",
+            "id": "eYwxazSf6cG",
             "indicatorType": {
                 "id": "L6EUbA1KB6N"
             },
             "legendSets": [],
-            "name": "EMIS - Furniture - learner desks",
-            "numerator": "#{KJrMNhHKpFj.rteEPsDgGyK} + #{KJrMNhHKpFj.wflnBKhT04i} + #{KJrMNhHKpFj.wVhmpcXbTk9}",
-            "numeratorDescription": "Learner desks_LSEC_Furniture",
+            "name": "EMIS - Furniture - book shelves",
+            "numerator": "#{LGhYlJG3iKR.rteEPsDgGyK} + #{LGhYlJG3iKR.wflnBKhT04i} + #{LGhYlJG3iKR.wVhmpcXbTk9}",
+            "numeratorDescription": "Bookshelves_LSEC_Furniture",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21156,36 +21203,34 @@
                 },
                 "users": {}
             },
-            "shortName": "Furniture - learner desks",
+            "shortName": "Furniture - book shelves",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "Mobilier - pupitres d’élèves"
+                    "value": "Mobilier - étagères à livres"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Mobilier - pupitres d’élèves"
+                    "value": "EMIS - Mobilier - étagères à livres"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "EMIS_PRI_LEARNERS_AGE_OVER_13",
-            "decimals": 0,
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "description": "Enrolments_PRI_13 years",
-            "id": "Mx9HloJUbif",
+            "code": "EMIS_PRI_GER",
+            "denominator": "#{R6zkoFtcs1x.bM1YK5h1UMB} + #{R6zkoFtcs1x.OmD0qif2QrO}",
+            "denominatorDescription": "EMIS - Population Estimates 6-12 years",
+            "id": "ue2MWIQ0K8P",
             "indicatorType": {
-                "id": "L6EUbA1KB6N"
+                "id": "MCUGRIAc5sa"
             },
             "legendSets": [],
-            "name": "EMIS - Learners in the reporting year, aged over 13 (Primary)",
-            "numerator": "#{ue3QIMOAC7G.IrmWcNPqJkP} + #{ue3QIMOAC7G.hUVEdmXC2cX} + #{ue3QIMOAC7G.max8haSAhAk} + #{ue3QIMOAC7G.iDlbaVZV9ni} + #{ue3QIMOAC7G.GyHINta9Ngf} + #{ue3QIMOAC7G.VeOVj2GmrFI} + #{ue3QIMOAC7G.ilKnPX7OURs} + #{ue3QIMOAC7G.ds9kmxoTxTG} + #{ue3QIMOAC7G.jaVYxQSw9H2} + #{ue3QIMOAC7G.nUMq0W4vKiJ} + #{ue3QIMOAC7G.KET6QXL4yBO} + #{ue3QIMOAC7G.sQVcet6tDbP} + #{ue3QIMOAC7G.elDPJmuqvN4} + #{ue3QIMOAC7G.Kpi6SsBCrtD}",
-            "numeratorDescription": "Enrolments_PRI_>13 years",
+            "name": "EMIS - Gross enrolment ratio (Primary)",
+            "numerator": "#{ue3QIMOAC7G}",
+            "numeratorDescription": "Total enrolment PRI",
             "sharing": {
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
@@ -21205,17 +21250,64 @@
                 },
                 "users": {}
             },
-            "shortName": "Learners, aged over 13 (PRI)",
+            "shortName": "Gross enrolment ratio (PRI)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Apprenants, plus de 13 ans (Primaire)"
+                    "property": "NAME",
+                    "value": "EMIS - Taux brut de scolarisation (Primaire)"
                 },
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Taux brut de scolarisation (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_TEACHING_MATERIALS_SUBJECT_1",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "SCBqYDGRWH9",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Number of teaching materials, subject 1 (Primary)",
+            "numerator": "#{EceDxuePkVN.OQzFol67hEr} + #{EceDxuePkVN.BcIm1nGD39b} + #{EceDxuePkVN.EfLfFveCADL} + #{EceDxuePkVN.LFYjetGCsiA} + #{EceDxuePkVN.dynRuVO5aVq} + #{EceDxuePkVN.GoX14JTJcJP} + #{EceDxuePkVN.dJ5ium7XXOt}",
+            "numeratorDescription": "Total Teaching Materials Subject 1 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Teaching materials, subject 1 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
                     "property": "NAME",
-                    "value": "EMIS - Apprenants durant l’année de rapport, plus de 13 ans (Primaire)"
+                    "value": "EMIS - Nombre de matériels pédagogiques, matière 1 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Matériels pédagogiques, matière 1 (Primaire)"
                 }
             ]
         },
@@ -21263,147 +21355,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Pourcentage d’enfants en surâge pour la classe, niveau 2 (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_SNE_INFRASTRUCTURE",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "VyjxX8BJrSr",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - adapted infrastructure and materials for learners with disabilities",
-            "numerator": "#{oSfcBfzVxfc}",
-            "numeratorDescription": "Number of schools with access to Infrastructure for special needs",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with adapted SNE infrastructure",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec infrastructures adaptées"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - infrastructures et matériels adaptés aux apprenants handicapés"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_DRINKING_WATER",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "EfWEQE3AmVl",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - basic drinking water",
-            "numerator": "#{b0YUzqNJf5v}",
-            "numeratorDescription": "Number of schools with access to Drinking water",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with basic drinking water",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - eau potable de base"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec eau potable de base"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "SDG4_SCHOOLS_BASIC_ELECTRICITY",
-            "denominator": "OUG{xs3WUlrhsir}",
-            "denominatorDescription": "Total number of schools",
-            "id": "gGAZJ8xtPOr",
-            "indicatorType": {
-                "id": "MCUGRIAc5sa"
-            },
-            "legendSets": [],
-            "name": "EMIS - Proportion of schools offering basic services - electricity",
-            "numerator": "#{jsIM64TwSUm}",
-            "numeratorDescription": "Number of schools with access to electricity",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% schools with electricity",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Proportion d’écoles offrant des services de base - électricité"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% écoles avec électricité"
                 }
             ]
         },
@@ -21458,6 +21409,102 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "EMIS_PRI_REPEATERS_LEVEL_5",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "y8ZpzTdCuzb",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Repeaters in the reporting year, level 5 (Primary)",
+            "numerator": "#{UxaMoIg2SIr.CbtpSLVKKbl} + #{UxaMoIg2SIr.hV9sNe4fq2w}",
+            "numeratorDescription": "Repeaters Level 5 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Repeaters, level 5 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 5 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Redoublants, niveau 5 (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "EMIS_PRI_REPEATERS_LEVEL_6",
+            "decimals": 0,
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "id": "GzCCqy2sDHO",
+            "indicatorType": {
+                "id": "L6EUbA1KB6N"
+            },
+            "legendSets": [],
+            "name": "EMIS - Repeaters in the reporting year, level 6 (Primary)",
+            "numerator": "#{UxaMoIg2SIr.qFlcEcXouMA} + #{UxaMoIg2SIr.yp3QpMkj6Dw}",
+            "numeratorDescription": "Repeaters Level 6 PRI",
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Repeaters, level 6 (PRI)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Redoublants, niveau 6 (Primaire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "EMIS - Redoublants durant l’année de rapport, niveau 6 (Primaire)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "EMIS_PRI_REPETITION_RATE",
             "denominator": "#{ue3QIMOAC7G}.periodOffset(-1)",
             "denominatorDescription": "The number of pupils from the same cohort enrolled in the same grade in the previous school year",
@@ -21499,53 +21546,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "EMIS - Taux de redoublement (Primaire)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "EMIS_SHARED_FACILITY_SICKBAY",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "rfwzMomL1DJ",
-            "indicatorType": {
-                "id": "L6EUbA1KB6N"
-            },
-            "legendSets": [],
-            "name": "EMIS - School facilities - sickbay",
-            "numerator": "#{ubGe58sPoXN.dva72ooQzOq} + #{ubGe58sPoXN.vHTkyK9g967}",
-            "numeratorDescription": "SNE_USEC_Sickbay",
-            "sharing": {
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "KjfbQbjGMGc": {
-                        "access": "r-------",
-                        "id": "KjfbQbjGMGc"
-                    },
-                    "R7CJhO9I3AI": {
-                        "access": "rw------",
-                        "id": "R7CJhO9I3AI"
-                    },
-                    "cOrXCFNhlfE": {
-                        "access": "r-------",
-                        "id": "cOrXCFNhlfE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "School facilities - sickbay",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Installations scolaires - infirmerie"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "EMIS - Installations scolaires - infirmerie"
                 }
             ]
         }
@@ -21651,21 +21651,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#FFA500",
-                    "endValue": 70.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "HtZiaMuVako",
-                    "name": "Average",
-                    "sharing": {
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 30.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#23590B",
                     "endValue": 30.0,
                     "favorite": false,
@@ -21692,6 +21677,21 @@
                         "users": {}
                     },
                     "startValue": 70.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "endValue": 70.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HtZiaMuVako",
+                    "name": "Average",
+                    "sharing": {
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 30.0,
                     "translations": []
                 }
             ],
@@ -21860,7 +21860,7 @@
         "description": "EMIS Primary Tool",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260915T160132",
+        "lastUpdated": "20260917T104358",
         "locale": "en",
         "name": "EMIS_AGG_PRI_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -22378,8 +22378,64 @@
             "users": []
         }
     ],
-    "userRoles": [],
-    "users": [],
+    "userRoles": [
+        {
+            "authorities": [],
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "restrictions": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d’utilisateur du package"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": true,
+            "externalAuth": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "organisationUnits": [],
+            "passwordLastUpdated": "2026-09-16T13:48:30.925",
+            "selfRegistered": false,
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "userRoles": [
+                {
+                    "id": "nCNR71ZbTHK"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ],
     "validationNotificationTemplates": [],
     "validationRuleGroups": [],
     "validationRules": [],
