@@ -4258,15 +4258,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "pQqfpoD1VqW"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k3OaWtlNqws"
+                        "id": "IYQetudMISW"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4282,15 +4274,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZonJVTz7WTv"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tncFe81TEVa"
+                        "id": "pQqfpoD1VqW"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4306,7 +4290,47 @@
                 },
                 {
                     "dataElement": {
+                        "id": "tncFe81TEVa"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZonJVTz7WTv"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Xc413KsQcg2"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "m0STyv1Yjta"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "k3OaWtlNqws"
+                    },
+                    "dataSet": {
+                        "id": "eZssybGtFa1"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "M7BwVols2es"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -4323,30 +4347,6 @@
                 {
                     "dataElement": {
                         "id": "TA6WpmiL7Vu"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "m0STyv1Yjta"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "IYQetudMISW"
-                    },
-                    "dataSet": {
-                        "id": "eZssybGtFa1"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "M7BwVols2es"
                     },
                     "dataSet": {
                         "id": "eZssybGtFa1"
@@ -5376,7 +5376,7 @@
         "description": "EMIS Household Survey",
         "healthAreaCode": "EMIS",
         "healthAreaName": "EMIS",
-        "lastUpdated": "20260916T075825",
+        "lastUpdated": "20260918T071800",
         "locale": "en",
         "name": "EMIS_AGG_SURV_AGG_DHIS2.41.10-en",
         "type": "AGG",
@@ -5648,8 +5648,64 @@
             "users": []
         }
     ],
-    "userRoles": [],
-    "users": [],
+    "userRoles": [
+        {
+            "authorities": [],
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "restrictions": [],
+            "sharing": {
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "KjfbQbjGMGc": {
+                        "access": "r-------",
+                        "id": "KjfbQbjGMGc"
+                    },
+                    "R7CJhO9I3AI": {
+                        "access": "rw------",
+                        "id": "R7CJhO9I3AI"
+                    },
+                    "cOrXCFNhlfE": {
+                        "access": "r-------",
+                        "id": "cOrXCFNhlfE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d’utilisateur du package"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": true,
+            "externalAuth": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "organisationUnits": [],
+            "passwordLastUpdated": "2026-09-16T13:48:30.925",
+            "selfRegistered": false,
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "userRoles": [
+                {
+                    "id": "nCNR71ZbTHK"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ],
     "validationNotificationTemplates": [],
     "validationRuleGroups": [],
     "validationRules": [],
